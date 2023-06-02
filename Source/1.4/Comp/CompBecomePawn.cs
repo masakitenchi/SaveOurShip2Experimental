@@ -19,7 +19,7 @@ namespace RimWorld
 			}
 		}
 
-		public void transform()
+        public void transform()
 		{
 			int fuelAmount =  Mathf.CeilToInt(this.parent.GetComp<CompRefuelable> ().Fuel);
 			this.parent.GetComp<CompRefuelable> ().ConsumeFuel (fuelAmount);
@@ -42,6 +42,7 @@ namespace RimWorld
 			transformed.relations = new Pawn_RelationsTracker (transformed);
 			transformed.psychicEntropy = new Pawn_PsychicEntropyTracker(transformed);
 			transformed.apparel = new Pawn_ApparelTracker(transformed);
+			transformed.GetComp<CompBecomeBuilding>().stuff = meAsABuilding.Stuff;
             float healthPercent = (float)meAsABuilding.HitPoints / (float)meAsABuilding.MaxHitPoints;
             if (healthPercent < 0.99f)
             {

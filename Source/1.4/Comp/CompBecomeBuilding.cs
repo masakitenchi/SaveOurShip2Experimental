@@ -11,6 +11,8 @@ namespace RimWorld
 	{
         private static readonly Texture2D TransformCommandTex = ContentFinder<Texture2D>.Get("UI/Hover_Off_Icon");
 
+		internal ThingDef stuff;
+
         public CompProperties_BecomeBuilding Props
 		{
 			get
@@ -19,13 +21,20 @@ namespace RimWorld
 			}
 		}
 
-		public void transform()
+
+        public override void PostExposeData()
+        {
+            base.PostExposeData();
+			Scribe_Defs.Look(ref stuff, "parentStuff");
+        }
+
+        public void transform()
         {
             IntVec3 myPos = this.parent.Position;
             Map myMap = this.parent.Map;
 			if (myMap != null && myPos.CloseToEdge(myMap, (Props.buildingDef.size.x + 1) / 2))
 				return;
-			Building transformed = (Building)ThingMaker.MakeThing(Props.buildingDef);
+			Building transformed = (Building)ThingMaker.MakeThing(Props.buildingDef, this.stuff);
             transformed.Position = myPos;
             transformed.SetFaction(parent.Faction);
             if (this.parent.TryGetComp<CompRefuelable>() != null)
