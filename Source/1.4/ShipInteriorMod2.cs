@@ -50,7 +50,7 @@ namespace SaveOurShip2
 			Scribe_Values.Look(ref fleetChance, "fleetChance", 0.3);
 
 			Scribe_Values.Look(ref easyMode, "easyMode", false);
-			Scribe_Values.Look(ref useVacuumPathfinding, "useVacuumPathfinding", true);
+			//Scribe_Values.Look(ref useVacuumPathfinding, "useVacuumPathfinding", true);
 			Scribe_Values.Look(ref renderPlanet, "renderPlanet", false);
 			Scribe_Values.Look(ref useSplashScreen, "useSplashScreen", true);
             Scribe_Values.Look(ref persistShipUI, "persistShipUI", false);
@@ -69,7 +69,7 @@ namespace SaveOurShip2
 			fleetChance = 0.3;
 		public static bool
 			easyMode = false,
-			useVacuumPathfinding = true,
+			//useVacuumPathfinding = true,
 			renderPlanet = false,
 			useSplashScreen = true,
 			persistShipUI = false;
@@ -117,7 +117,7 @@ namespace SaveOurShip2
 
 			options.Gap();
 			options.CheckboxLabeled("SoS.Settings.EasyMode".Translate(), ref easyMode, "SoS.Settings.EasyMode.Desc".Translate());
-			options.CheckboxLabeled("SoS.Settings.UseVacuumPathfinding".Translate(), ref useVacuumPathfinding, "SoS.Settings.UseVacuumPathfinding.Desc".Translate());
+			//options.CheckboxLabeled("SoS.Settings.UseVacuumPathfinding".Translate(), ref useVacuumPathfinding, "SoS.Settings.UseVacuumPathfinding.Desc".Translate());
 			options.Gap();
 
 			options.Label("SoS.Settings.MinTravelTime".Translate("1", "50", "5", minTravelTime.ToString()), -1f, "SoS.Settings.MinTravelTime.Desc".Translate());
@@ -151,7 +151,7 @@ namespace SaveOurShip2
 		}
 		public static void DefsLoaded()
 		{
-			Log.Message("SOS2EXP V89f1 active");
+			Log.Message("SOS2EXP V89f8 active");
 			randomPlants = DefDatabase<ThingDef>.AllDefs.Where(t => t.plant != null && !t.defName.Contains("Anima")).ToList();
 
 			foreach (EnemyShipDef ship in DefDatabase<EnemyShipDef>.AllDefs.Where(d => d.saveSysVer < 2 && !d.neverRandom).ToList())
@@ -809,14 +809,12 @@ namespace SaveOurShip2
 					}
 					else if (DefDatabase<ThingDef>.GetNamedSilentFail(shape.shapeOrDef) != null)
 					{
-						bool isBuilding = false;
 						bool isWrecked = false;
 						Thing thing = null;
 						ThingDef def = ThingDef.Named(shape.shapeOrDef);
 						//def replacers
 						if (def.IsBuildingArtificial)
 						{
-							isBuilding = true;
 							if (!royActive && def.Equals(ThingDefOf.Throne))
 								def = DefDatabase<ThingDef>.GetNamed("Armchair");
 							else if (wreckLevel > 2 && wreckDictionary.ContainsKey(def)) //replace ship walls/floor
@@ -852,47 +850,39 @@ namespace SaveOurShip2
 						else
 							thing = ThingMaker.MakeThing(def);
 
-						var compQuality = thing.TryGetComp<CompQuality>();
-						if (compQuality != null)
-						{
-							compQuality.SetQuality(QualityUtility.GenerateQualityBaseGen(), ArtGenerationContext.Outsider);
-						}
-						if (thing.TryGetComp<CompColorable>() != null)
-                        {
-							if (rePaint && isBuilding) //color unpainted navy ships
-							{
-								if (thing.TryGetComp<CompSoShipPart>()?.Props.isHull ?? false)
-									thing.SetColor(navyDef.colorPrimary);
-								else if (def.defName.StartsWith("Ship_Corner"))
-									thing.SetColor(navyDef.colorSecondary);
-							}
-							if (shape.color != Color.clear)
-								thing.SetColor(shape.color);
-						}
-						else if (thing.def.stackLimit > 1)
-						{
-							thing.stackCount = Math.Min(Rand.RangeInclusive(5, 30), thing.def.stackLimit);
-							if (thing.stackCount * thing.MarketValue > 500)
-								thing.stackCount = (int)Mathf.Max(500 / thing.MarketValue, 1);
-						}
 						//spawn thing
 						GenSpawn.Spawn(thing, adjPos, map, shape.rot);
-						//post spawn
-						if (isBuilding)
-						{
-							if (wreckLevel > 1 && !isWrecked)
-								wreckDestroy.Add(thing as Building);
-							if (thing.def.CanHaveFaction)
+                        //post spawn
+                        thing.TryGetComp<CompQuality>()?.SetQuality(QualityUtility.GenerateQualityBaseGen(), ArtGenerationContext.Outsider);
+                        var colorcomp = thing.TryGetComp<CompColorable>();
+                        if (colorcomp != null)
+                        {
+                            if (shape.color != Color.clear)
+                                thing.SetColor(shape.color);
+                        }
+                        if (thing is Building b)
+                        {
+                            var partComp = thing.TryGetComp<CompSoShipPart>();
+                            if (rePaint && colorcomp != null) //color unpainted navy ships
                             {
+                                if (partComp?.Props.isHull ?? false)
+                                    thing.SetColor(navyDef.colorPrimary);
+                                else if (def.defName.StartsWith("Ship_Corner"))
+                                    thing.SetColor(navyDef.colorSecondary);
+                            }
+                            if (wreckLevel > 1 && !isWrecked)
+								wreckDestroy.Add(b);
+
+							if (thing.def.CanHaveFaction) //set faction to all but plating
+                            {
+                                if (partComp != null && partComp.Props.isPlating && !partComp.Props.isHull)
+                                {
+                                    cellsToFog.Add(thing.Position);
+                                    continue;
+                                }
                                 if (!(thing.def == ResourceBank.ThingDefOf.ShipHullTileWrecked || thing.def == ResourceBank.ThingDefOf.ShipAirlockWrecked || thing.def.thingClass == typeof(Building_ArchotechPillar)))
                                     thing.SetFaction(fac);
-                                if (thing.TryGetComp<CompSoShipPart>()?.Props.isPlating ?? false)
-								{
-									cellsToFog.Add(thing.Position);
-									continue;
-								}
 							}
-							Building b = thing as Building;
 							var batComp = b.TryGetComp<CompPowerBattery>();
 							if (batComp != null)
 							{
@@ -968,9 +958,16 @@ namespace SaveOurShip2
 								}
 							}
 						}
-						else if (thing.def.CanHaveFaction)
+						else
 						{
-							thing.SetFaction(fac);
+                            if (thing.def.stackLimit > 1)
+                            {
+                                thing.stackCount = Math.Min(Rand.RangeInclusive(5, 30), thing.def.stackLimit);
+                                if (thing.stackCount * thing.MarketValue > 500)
+                                    thing.stackCount = (int)Mathf.Max(500 / thing.MarketValue, 1);
+                            }
+                            if (thing.def.CanHaveFaction)
+                                thing.SetFaction(fac);
 						}
 					}
 					else if (DefDatabase<TerrainDef>.GetNamedSilentFail(shape.shapeOrDef) != null)
@@ -1108,9 +1105,9 @@ namespace SaveOurShip2
 			if (cargoCells.Any() && wreckLevel < 3)
 			{
 				List<Thing> loot;
-				if (passingShip is TradeShip)
+				if (passingShip is TradeShip tradeShip)
 				{
-					loot = ((TradeShip)passingShip).GetDirectlyHeldThings().ToList();
+					loot = tradeShip.GetDirectlyHeldThings().ToList();
 				}
 				else
 				{
@@ -1755,7 +1752,7 @@ namespace SaveOurShip2
             {
 				devMode = true;
 			}
-			List<Thing> toSave = new List<Thing>();
+			HashSet<Thing> toSave = new HashSet<Thing>();
 			List<Thing> toDestroy = new List<Thing>();
 			List<CompPower> toRePower = new List<CompPower>();
 			List<Zone> zonesToCopy = new List<Zone>();
@@ -1854,24 +1851,23 @@ namespace SaveOurShip2
 						{
 							a.UnDock();
 						}
-						var engineComp = b.TryGetComp<CompEngineTrail>();
-                        var transportComp = b.TryGetComp<CompTransporter>();
-                        if (engineComp != null)
-							engineComp.Off();
-						if (transportComp != null)
+						else
 						{
-							toSave.AddRange(transportComp.innerContainer.ToList());
-                            transportComp.CancelLoad();
+                            b.TryGetComp<CompEngineTrail>()?.Off();
+                            var transportComp = b.TryGetComp<CompTransporter>();
+                            if (transportComp != null)
+                            {
+                                toSave.AddRange(transportComp.innerContainer.ToList());
+                                transportComp.CancelLoad();
+                            }
                         }
                     }
 					else if (t is Pawn p)
                     {
 						if (p.IsCarrying()) //drop and add carried things
 						{
-							Thing carriedt;
-							p.carryTracker.TryDropCarriedThing(p.Position, ThingPlaceMode.Direct, out carriedt);
-                            if (!toSave.Contains(carriedt))
-                                toSave.Add(carriedt);
+							p.carryTracker.TryDropCarriedThing(p.Position, ThingPlaceMode.Direct, out Thing carriedt);
+                            toSave.Add(carriedt);
                         }
 						if (!sourceMapIsSpace && p.Faction != Faction.OfPlayer && !p.IsPrisoner)
                         {
@@ -1879,40 +1875,37 @@ namespace SaveOurShip2
                             Messages.Message(TranslatorFormattedStringExtensions.Translate("ShipLaunchFailPawns"), null, MessageTypeDefOf.NegativeEvent);
                             return;
                         }
-						/*else if (p.Faction == Faction.OfPlayer && p.holdingOwner is Building) //pawns in containers, abort
+                        /*else if (p.Faction == Faction.OfPlayer && p.holdingOwner is Building) //pawns in containers, abort
                         {
 							Log.Message("Pawn holding thing: " + p.holdingOwner);
                             Messages.Message(TranslatorFormattedStringExtensions.Translate("ShipMoveFailPawns", p.holdingOwner.Owner.ToString()), null, MessageTypeDefOf.NegativeEvent);
                             return;
                         }*/
                     }
-                    if (!toSave.Contains(t))
-					{
-						toSave.Add(t);
-					}
-				}
+                    toSave.Add(t);
+                }
 
 				if (sourceMap.zoneManager.ZoneAt(pos) != null && !zonesToCopy.Contains(sourceMap.zoneManager.ZoneAt(pos)))
 				{
 					zonesToCopy.Add(sourceMap.zoneManager.ZoneAt(pos));
 				}
-
+				//store non ship terrain
 				var sourceTerrain = sourceMap.terrainGrid.TerrainAt(pos);
 				if (sourceTerrain.layerable && !IsHull(sourceTerrain))
 				{
-					terrainToCopy.Add(new Tuple<IntVec3, TerrainDef>(pos, sourceTerrain));
+					terrainToCopy.Add(new Tuple<IntVec3, TerrainDef>(adjustedPos, sourceTerrain));
 					sourceMap.terrainGrid.RemoveTopLayer(pos, false);
 				}
 				else if (includeRock && IsRock(sourceTerrain))
 				{
-					terrainToCopy.Add(new Tuple<IntVec3, TerrainDef>(pos, sourceTerrain));
+					terrainToCopy.Add(new Tuple<IntVec3, TerrainDef>(adjustedPos, sourceTerrain));
 					sourceMap.terrainGrid.SetTerrain(pos, ResourceBank.TerrainDefOf.EmptySpace);
 				}
 
-				var sourceRoof = sourceMap.roofGrid.RoofAt(pos);
+                RoofDef sourceRoof = sourceMap.roofGrid.RoofAt(pos);
 				if (IsRoofDefAirtight(sourceRoof))
 				{
-					roofToCopy.Add(new Tuple<IntVec3, RoofDef>(pos, sourceRoof));
+					roofToCopy.Add(new Tuple<IntVec3, RoofDef>(adjustedPos, sourceRoof));
 				}
 				sourceMap.roofGrid.SetRoof(pos, null);
 				if (core is Building_ShipBridge && playerMove) //home zone ships
@@ -2171,8 +2164,7 @@ namespace SaveOurShip2
 				var targetTile = targetMap.terrainGrid.TerrainAt(tup.Item1);
 				if (!targetTile.layerable || IsHull(targetTile))
 				{
-					var targetPos = Transform(tup.Item1);
-					targetMap.terrainGrid.SetTerrain(targetPos, tup.Item2);
+					targetMap.terrainGrid.SetTerrain(tup.Item1, tup.Item2);
 				}
 			}
 			if (includeRock)
@@ -2188,8 +2180,7 @@ namespace SaveOurShip2
 			//move roofs
 			foreach (Tuple<IntVec3, RoofDef> tup in roofToCopy)
 			{
-				var targetPos = Transform(tup.Item1);
-				targetMap.roofGrid.SetRoof(targetPos, tup.Item2);
+				targetMap.roofGrid.SetRoof(tup.Item1, tup.Item2);
 			}
 			if (devMode)
 				watch.Record("moveRoof");

@@ -428,7 +428,7 @@ namespace RimWorld
                         {
                             action = delegate
                             {
-                                heatNet.StartVent(mapComp, this);
+                                heatNet.StartVent();
                             },
                             icon = ContentFinder<UnityEngine.Texture2D>.Get("UI/ActiveVent"),
                             defaultLabel = TranslatorFormattedStringExtensions.Translate("ShipHeatPurge"),
@@ -945,7 +945,7 @@ namespace RimWorld
         {
             float fuelNeeded = 0f;
             float fuelHad = 0f;
-            int rcsCount = 0;
+            int rcsCount = 1;
             bool hasPilot = false;
             foreach (Building b in cachedShipParts)
             {
