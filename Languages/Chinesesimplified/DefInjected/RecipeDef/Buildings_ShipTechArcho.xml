@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <RecyclotronRecipe.label>回收</RecyclotronRecipe.label>
+  <RecyclotronRecipe.description>使用纳米机械液将一个物品分解成基础资源进行回收，利用率近乎完美。</RecyclotronRecipe.description>
+  <RecyclotronRecipe.jobString>正在回收。</RecyclotronRecipe.jobString>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <WeatherCancelDevice.label>气象重置器</WeatherCancelDevice.label>
+  <WeatherCancelDevice.description>一种用于气象控制卫星的古老网络控制装置，可以立即终止目标地区内的所有天气状况、有毒尘埃、热浪和寒流，并在一定程度上抵消火山冬天造成的负面影响。</WeatherCancelDevice.description>
+  <SoSEntanglementManifold.label>纠缠流形</SoSEntanglementManifold.label>
+  <SoSEntanglementManifold.description>这种小型的极致科技装置是约翰逊-田中驱动器的重要组成部分。它与遥远恒星内部的高能物质纠缠在了一起，为星际航行提供了用之不竭的能量。如果没有闪耀世界尖端技术与设备的帮助，我们根本就不可能复制它。</SoSEntanglementManifold.description>
+  <HullFoam.label>应急泡沫罐</HullFoam.label>
+  <HullFoam.description>装有压缩过的陶瓷-金属复合泡沫的罐子。泡沫喷出后可以迅速硬化成较为结实的气密屏障，主要用于应急封闭飞船上因受损而产生的破裂与缺口部分。</HullFoam.description>
+  <WeatherCancelDevice.comps.1.useLabel>激活天气平息器</WeatherCancelDevice.comps.1.useLabel>
+</LanguageData>

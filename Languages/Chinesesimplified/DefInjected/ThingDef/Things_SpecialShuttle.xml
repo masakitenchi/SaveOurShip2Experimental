@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ShuttleIncomingPersonal.label>穿梭机（正在抵达）</ShuttleIncomingPersonal.label>
+  <ShuttleIncomingCargo.label>穿梭机（正在抵达）</ShuttleIncomingCargo.label>
+  <ShuttleIncomingHeavy.label>穿梭机（正在抵达）</ShuttleIncomingHeavy.label>
+  <ShuttleIncomingDropship.label>穿梭机（正在抵达）</ShuttleIncomingDropship.label>
+  <PersonalShuttleSkyfaller.label>穿梭机（正在离开）</PersonalShuttleSkyfaller.label>
+  <CargoShuttleSkyfaller.label>穿梭机（正在离开）</CargoShuttleSkyfaller.label>
+  <HeavyCargoShuttleSkyfaller.label>穿梭机（正在离开）</HeavyCargoShuttleSkyfaller.label>
+  <DropshipShuttleSkyfaller.label>穿梭机（正在离开）</DropshipShuttleSkyfaller.label>
+  <ActiveShuttle.label>穿梭机</ActiveShuttle.label>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Astromite.label>天螨</Astromite.label>
+  <Astromite.description>天螨（Astromite），一种大型的基因工程造物。它们身覆着厚重的甲壳质，厌氧的新陈代谢机制使其能无限期地存活于太空之中。最初是被设计成一种太空有机采矿系统的一员，但计划最终被中止，因它们难以被控制。就像其他的完全群居性节肢动物，它们无法独立地繁殖。</Astromite.description>
+  <Astromite.tools.0.label>mandibles</Astromite.tools.0.label>
+  <Astromite.tools.1.label>head</Astromite.tools.1.label>
+  <Stellapede.label>星际阔步虫</Stellapede.label>
+  <Stellapede.description>星际阔步虫（Stellapede）是能适应于真空的穴居阔步虫的异变种，厌氧的新陈代谢机制使其能无限期地存活于太空之中。虽然它们似乎以矿物维生，却会过分热切地猎杀所有感知到的有机物。</Stellapede.description>
+  <Stellapede.tools.0.label>head claw</Stellapede.tools.0.label>
+  <Stellapede.tools.1.label>head</Stellapede.tools.1.label>
+  <Cosmopillar.label>宙柱蛆</Cosmopillar.label>
+  <Cosmopillar.description>宇宙之柱(Cosmopillar)，又称宙柱蛆。风闻这种巨型的蛆虫拥有着“宇宙中最恶心的生物”的恶名。它们原本被设计成一种小行星矿虫巢群的先锋，能嚼穿坚实的石体并留下一条条粘稠滑溜的坑道。这个矿虫计划在很久以前就被中止，但它们已经穿行于边缘世界之中了，星际矿工们一直活在这些永不餍足的巨虫的阴影之下。\n\n有传闻宣称，最年长的宇宙之柱休眠于小行星的中心，不稳定的基因将促使它们化蛹成更为恐怖的物种...</Cosmopillar.description>
+  <Cosmopillar.tools.0.label>head claw</Cosmopillar.tools.0.label>
+  <Cosmopillar.tools.1.label>head</Cosmopillar.tools.1.label>
+  <SoSHologramRace.label>全息投影</SoSHologramRace.label>
+  <SoSHologramRace.description>拥有人类造型的全息投影。它们的本体可能是安装在全息投影构造舱中的人类意识，也可能是心存不轨的人格核心。\n\n全息投影被摧毁后，需要消耗一整天的时间进行重构，这不会对它们的本体造成任何影响。</SoSHologramRace.description>
+  <SoSHologramRace.tools.0.label>left fist</SoSHologramRace.tools.0.label>
+  <SoSHologramRace.tools.1.label>right fist</SoSHologramRace.tools.1.label>
+  <SoSHologramRace.tools.2.label>teeth</SoSHologramRace.tools.2.label>
+  <SoSHologramRace.tools.3.label>head</SoSHologramRace.tools.3.label>
+  <Astromite_Corpse.label>astromite corpse</Astromite_Corpse.label>
+  <Astromite_Corpse.description>astromite corpse</Astromite_Corpse.description>
+  <Stellapede_Corpse.label>stellapede corpse</Stellapede_Corpse.label>
+  <Stellapede_Corpse.description>stellapede corpse</Stellapede_Corpse.description>
+  <Cosmopillar_Corpse.label>cosmopillar corpse</Cosmopillar_Corpse.label>
+  <Cosmopillar_Corpse.description>cosmopillar corpse</Cosmopillar_Corpse.description>
+  <SoSHologramRace_Corpse.label>Deprecated - do not use corpse</SoSHologramRace_Corpse.label>
+  <SoSHologramRace_Corpse.description>Deprecated - do not use corpse</SoSHologramRace_Corpse.description>
+</LanguageData>

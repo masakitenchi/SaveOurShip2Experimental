@@ -751,7 +751,7 @@ namespace SaveOurShip2
 			}
 			if (!shipDef.core.shapeOrDef.NullOrEmpty() && wreckLevel < 3)
 			{
-				Building bridge = (Building)ThingMaker.MakeThing(ThingDef.Named(shipDef.core.shapeOrDef));
+				Building bridge = (Building)ThingMaker.MakeThing(ThingDef.Named(shipDef.core.shapeOrDef), GenStuff.RandomStuffFor(ThingDef.Named(shipDef.core.shapeOrDef)));
 				bridge.SetFaction(fac);
 				GenSpawn.Spawn(bridge, new IntVec3(offset.x + shipDef.core.x, 0, offset.z + shipDef.core.z), map, shipDef.core.rot);
 				bridge.TryGetComp<CompPowerTrader>().PowerOn = true;

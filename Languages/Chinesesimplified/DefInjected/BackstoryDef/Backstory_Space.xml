@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SoSHologram.title>machine persona</SoSHologram.title>
+  <SoSHologram.titleShort>persona</SoSHologram.titleShort>
+  <SoSHologram.baseDesc>[PAWN_nameDef] is a machine persona. [PAWN_pronoun] interacts with the world via a formgel, a swarm of mechanites which mimics a human body.</SoSHologram.baseDesc>
+</LanguageData>

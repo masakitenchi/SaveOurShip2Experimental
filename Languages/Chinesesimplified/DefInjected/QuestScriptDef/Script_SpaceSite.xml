@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SpaceSiteQuest.root.nodes.3.name>剩余时间：</SpaceSiteQuest.root.nodes.3.name>
+  <SpaceSiteQuest.root.nodes.4.node.nodes.0.label>任务过期：[resolvedQuestName]</SpaceSiteQuest.root.nodes.4.node.nodes.0.label>
+  <SpaceSiteQuest.root.nodes.4.node.nodes.0.text>随着划过大气层的一道绚烂火光，[site_label] 急速坠向下方的行星。有价值的东西都消失了。</SpaceSiteQuest.root.nodes.4.node.nodes.0.text>
+  <SpaceSiteQuest.questDescriptionRules.rulesStrings.0>questDescription->藉由飞船上安装的传感器，[worker_definite]成功扫描到了附近轨道上的 [site_label]。\n\n然而不幸的是，它轨道高度正在逐渐下降，且极有可能会在[timeoutTicks_duration]后重新坠入大气层，最终在与空气的剧烈摩擦中燃烧殆尽。\n\n到达此处需要消耗穿梭机最大燃料量的[fuelCost]%——请务必要确保留有足够的返程用燃料！\n\n[allSitePartsDescriptionsExceptFirst]</SpaceSiteQuest.questDescriptionRules.rulesStrings.0>
+  <SpaceSiteQuest.questNameRules.rulesStrings.0>questName->[site_label]</SpaceSiteQuest.questNameRules.rulesStrings.0>
+</LanguageData>

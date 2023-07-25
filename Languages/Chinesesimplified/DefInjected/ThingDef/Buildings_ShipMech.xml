@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Ship_BeamMech_Unpowered.label>机械船体（无动力）</Ship_BeamMech_Unpowered.label>
+  <Ship_BeamMech_Unpowered.description>用于组成机械飞船的重要外部结构，内部并未嵌有电缆、氧气管道和热能管道。</Ship_BeamMech_Unpowered.description>
+  <Ship_BeamMech.label>机械船体</Ship_BeamMech.label>
+  <Ship_BeamMech.description>The outer structural elements of a mechanoid ship's hull. Includes conduits for power and coolant. Integrated lighting system can be toggled at will if the Advanced Lighting research project is completed.</Ship_BeamMech.description>
+  <Ship_Beam_Light_Mech.label>ship light</Ship_Beam_Light_Mech.label>
+  <Ship_Beam_Light_Mech.description>Integrated lighting attached to a ship's hull.</Ship_Beam_Light_Mech.description>
+  <Ship_Beam_Light_Mech.comps.2.offMessage>Off for plant resting period</Ship_Beam_Light_Mech.comps.2.offMessage>
+  <Ship_Corner_OneOne_Mech.label>hull corner (1x1)</Ship_Corner_OneOne_Mech.label>
+  <Ship_Corner_OneOne_Mech.description>Angled armor for a ship's outer hull.</Ship_Corner_OneOne_Mech.description>
+  <Ship_Corner_OneOne_MechFlip.label>hull corner (1x1) flip</Ship_Corner_OneOne_MechFlip.label>
+  <Ship_Corner_OneOne_MechFlip.description>Angled armor for a ship's outer hull.</Ship_Corner_OneOne_MechFlip.description>
+  <Ship_Corner_OneTwo_Mech.label>hull corner (1x2)</Ship_Corner_OneTwo_Mech.label>
+  <Ship_Corner_OneTwo_Mech.description>Angled armor for a ship's outer hull.</Ship_Corner_OneTwo_Mech.description>
+  <Ship_Corner_OneTwoFlip_Mech.label>hull corner (1x2) flip</Ship_Corner_OneTwoFlip_Mech.label>
+  <Ship_Corner_OneTwoFlip_Mech.description>Angled armor for a ship's outer hull.</Ship_Corner_OneTwoFlip_Mech.description>
+  <Ship_Corner_OneThree_Mech.label>hull corner (1x3)</Ship_Corner_OneThree_Mech.label>
+  <Ship_Corner_OneThree_Mech.description>Angled armor for a ship's outer hull.</Ship_Corner_OneThree_Mech.description>
+  <Ship_Corner_OneThreeFlip_Mech.label>hull corner (1x3) flip</Ship_Corner_OneThreeFlip_Mech.label>
+  <Ship_Corner_OneThreeFlip_Mech.description>Angled armor for a ship's outer hull.</Ship_Corner_OneThreeFlip_Mech.description>
+  <ShipInside_SolarGeneratorMech.label>mechanoid solar generator</ShipInside_SolarGeneratorMech.label>
+  <ShipInside_SolarGeneratorMech.description>Produces electricity from sunlight. Does not work in the dark or under artificial light.</ShipInside_SolarGeneratorMech.description>
+  <ShipInside_PassiveVentMechanoid.label>mechanoid ship vent</ShipInside_PassiveVentMechanoid.label>
+  <ShipInside_PassiveVentMechanoid.description>Exchanges heat with the coolant network, cooling or heating a ship's interior to the desired temperature.\n\nCan also heat rooms with electricity.</ShipInside_PassiveVentMechanoid.description>
+  <ShipAirlockMech.label>mechanoid ship airlock</ShipAirlockMech.label>
+  <ShipAirlockMech.description>Allows access to a ship or divides rooms inside it. Low-energy plasma barriers prevent gases from escaping.</ShipAirlockMech.description>
+  <ShipHullTileMech.label>mechanoid hull plating</ShipHullTileMech.label>
+  <ShipHullTileMech.description>Spaceworthy hull plating built by mechanoids.</ShipHullTileMech.description>
+  <ShipInside_PassiveCoolerMechanoid.label>mechanoid ship radiator</ShipInside_PassiveCoolerMechanoid.label>
+  <ShipInside_PassiveCoolerMechanoid.description>能向太空中快速排放热量并冷却飞船内部的散热器，也能为飞船炮塔和护盾发生器提供少量的热容。\n\n当隐形装置或护盾发生器开启时，飞船散热器将无法向太空中排放热量。</ShipInside_PassiveCoolerMechanoid.description>
+</LanguageData>

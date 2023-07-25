@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Archocat.label>超凡猫</Archocat.label>
+  <Archocat.description>作为家猫的完美版本，这只可爱的毛球只想和船上的船员一起玩耍。除了频繁的亲昵外，超凡猫还会发出灵性的叫声，改善附近殖民者的情绪。从技术上讲，它可以通过在地板上击打物体来训练 "搬运"。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archocat.description>
+  <Archocat.tools.0.label>左爪</Archocat.tools.0.label>
+  <Archocat.tools.1.label>右爪</Archocat.tools.1.label>
+  <Archocat.tools.3.label>头</Archocat.tools.3.label>
+  <Archomutt.label>超凡狗</Archomutt.label>
+  <Archomutt.description>人类最好的朋友变得更棒了。超凡狗体型庞大且十分忠诚，它们有无穷的精力去玩耍——当家人受到威胁时，它们可以像重型机械族一样勇猛战斗。它们也是一种优秀的工作犬，只要经过细心训练，很快就可以学会搬运。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archomutt.description>
+  <Archomutt.tools.0.label>左爪</Archomutt.tools.0.label>
+  <Archomutt.tools.1.label>右爪</Archomutt.tools.1.label>
+  <Archomutt.tools.3.label>头</Archomutt.tools.3.label>
+  <Archostrich.label>超凡鸟</Archostrich.label>
+  <Archostrich.description>这种无法飞行的鸟类拥有着不同寻常的作用——它们既是稳定的食物来源，也是凶猛无比战兽。超凡鸟的移动速度要比大多数载具快上不少，它们有力的踢击甚至可以撕碎玻璃钢。它们可以通过心灵感知来了解附近人类的喜好，并据此来修改蛋的口味。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archostrich.description>
+  <Archostrich.tools.0.label>爪子</Archostrich.tools.0.label>
+  <Archostrich.tools.1.label>喙</Archostrich.tools.1.label>
+  <Archostrich.tools.2.label>头</Archostrich.tools.2.label>
+  <EggArchostrichFertilized.label>超凡鸟蛋（已受精）</EggArchostrichFertilized.label>
+  <EggArchostrichFertilized.description>已受精的超凡鸟蛋。如果一切顺利应该可以孵化出超凡鸟仔。可以生吃，但是最好烹饪后食用。</EggArchostrichFertilized.description>
+  <EggArchostrichUnfertilized.label>超凡鸟蛋（未受精）</EggArchostrichUnfertilized.label>
+  <EggArchostrichUnfertilized.description>未受精的超凡鸟蛋。可以生吃，但是最好烹饪后食用。</EggArchostrichUnfertilized.description>
+  <Archoffalo.label>超凡雪牛</Archoffalo.label>
+  <Archoffalo.description>你的超凡孢子尊重了边缘世界（泰南）不使用地面车辆的愿望，所以设计了超凡雪牛来代替它们。这种生物的毛发可以塑形和硬化，并形成袋子、平台或其他任何能用于运载货物的结构。当毛发变得太长时，可通过修剪来获得超织物。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archoffalo.description>
+  <Archoffalo.tools.0.label>头</Archoffalo.tools.0.label>
+  <Archoffalo.tools.1.label>左蹄</Archoffalo.tools.1.label>
+  <Archoffalo.tools.2.label>右蹄</Archoffalo.tools.2.label>
+  <Archospider.label>超凡巨型蜘蛛</Archospider.label>
+  <Archospider.description>也许你的超凡孢子讨厌蜘蛛恐惧症患者。创造这种畸形的生命体几乎没有其他的理由——超凡巨型蜘蛛拥有坦克般的装甲、能够轻易撕裂玻璃钢的口器和可以迅速摧毁星球生态系统的繁殖速度。至少到目前为止，它对主人的忠诚是不折不扣的。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archospider.description>
+  <Archospider.tools.0.label>head claw</Archospider.tools.0.label>
+  <Archospider.tools.1.label>头</Archospider.tools.1.label>
+  <Archolope.label>超凡爆炸羊</Archolope.label>
+  <Archolope.description>超凡爆炸羊是普通爆炸羊的改良版，它能以某种方式生产异形粒子，并安全的存放于富勒烯保护壳中。无论产生它们的过程是什么，似乎都是不稳定的——当一个超凡爆炸羊死亡时，它就会释放出热核怒火。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archolope.description>
+  <Archolope.tools.0.label>头</Archolope.tools.0.label>
+  <Archolope.tools.1.label>左蹄</Archolope.tools.1.label>
+  <Archolope.tools.2.label>右蹄</Archolope.tools.2.label>
+  <Archotortoise.label>超凡龟</Archotortoise.label>
+  <Archotortoise.description>超凡龟不亚于一座移动堡垒，坚固的玻璃钢外壳使它们可以自信地步入任何混战中。在和平时期，它们的外壳还能被收割成单独的玻璃钢。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archotortoise.description>
+  <Archotortoise.tools.0.label>喙</Archotortoise.tools.0.label>
+  <Archotortoise.tools.1.label>头</Archotortoise.tools.1.label>
+  <EggArchotortoiseFertilized.label>超凡龟蛋（已受精）</EggArchotortoiseFertilized.label>
+  <EggArchotortoiseFertilized.description>已受精的超凡龟蛋。如果一切顺利应该可以孵化出超凡龟仔。可以生吃，但是最好烹饪后食用。</EggArchotortoiseFertilized.description>
+  <Archopanda.label>超凡熊猫</Archopanda.label>
+  <Archopanda.description>这些憨态可掬的超凡熊猫是一种理想的宠物。温和的天性使它们并不适合战斗，但作为驮运动物和搬运工来说则是一流的。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archopanda.description>
+  <Archopanda.tools.0.label>左爪</Archopanda.tools.0.label>
+  <Archopanda.tools.1.label>右爪</Archopanda.tools.1.label>
+  <Archopanda.tools.3.label>头</Archopanda.tools.3.label>
+  <Archojerboa.label>超凡跳鼠</Archojerboa.label>
+  <Archojerboa.description>这种好动的啮齿类动物拥有很强的跳跃能力，它们喜欢落在主人的肩膀上，并发出“吱吱”的叫声。作为一种优秀的宠物，超凡跳鼠的繁殖能力可以确保你飞船上的每个殖民者都能拥有一只。在紧急情况下，超凡跳鼠还可以作为“活体炸弹”使用--在死亡后，它体内不稳定的虚空能量会引发大爆炸。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archojerboa.description>
+  <Archojerboa.tools.0.label>左爪</Archojerboa.tools.0.label>
+  <Archojerboa.tools.1.label>右爪</Archojerboa.tools.1.label>
+  <Archojerboa.tools.3.label>头</Archojerboa.tools.3.label>
+  <Archothrumbo.label>超凡敲击兽</Archothrumbo.label>
+  <Archothrumbo.description>完美的造物还可以改进吗？你的超凡孢子不假思索地答道「当然可以！」。超凡敲击兽跟普通敲击兽一样既华丽又强大，但没有贪婪的胃口。它们的角就像等离子剑一样炽热且锋利，有力的踢击还能释放EMP。没有比这只神兽更致命的战兽了。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archothrumbo.description>
+  <Archothrumbo.tools.0.label>角</Archothrumbo.tools.0.label>
+  <Archothrumbo.tools.2.label>左足</Archothrumbo.tools.2.label>
+  <Archothrumbo.tools.3.label>右足</Archothrumbo.tools.3.label>
+  <Archothrumbo.tools.4.label>头</Archothrumbo.tools.4.label>
+  <Archocat_Leather.label>archocat leather</Archocat_Leather.label>
+  <Archocat_Leather.description>archocat leather</Archocat_Leather.description>
+  <Archocat_Leather.stuffProps.stuffAdjective>archocat leather</Archocat_Leather.stuffProps.stuffAdjective>
+  <Archocat_Corpse.label>archocat corpse</Archocat_Corpse.label>
+  <Archocat_Corpse.description>archocat corpse</Archocat_Corpse.description>
+  <Archomutt_Leather.label>archomutt leather</Archomutt_Leather.label>
+  <Archomutt_Leather.description>archomutt leather</Archomutt_Leather.description>
+  <Archomutt_Leather.stuffProps.stuffAdjective>archomutt leather</Archomutt_Leather.stuffProps.stuffAdjective>
+  <Archomutt_Corpse.label>archomutt corpse</Archomutt_Corpse.label>
+  <Archomutt_Corpse.description>archomutt corpse</Archomutt_Corpse.description>
+  <Archostrich_Leather.label>archostrich leather</Archostrich_Leather.label>
+  <Archostrich_Leather.description>archostrich leather</Archostrich_Leather.description>
+  <Archostrich_Leather.stuffProps.stuffAdjective>archostrich leather</Archostrich_Leather.stuffProps.stuffAdjective>
+  <Archostrich_Corpse.label>archostrich corpse</Archostrich_Corpse.label>
+  <Archostrich_Corpse.description>archostrich corpse</Archostrich_Corpse.description>
+  <Archoffalo_Leather.label>archoffalo leather</Archoffalo_Leather.label>
+  <Archoffalo_Leather.description>archoffalo leather</Archoffalo_Leather.description>
+  <Archoffalo_Leather.stuffProps.stuffAdjective>archoffalo leather</Archoffalo_Leather.stuffProps.stuffAdjective>
+  <Archoffalo_Corpse.label>archoffalo corpse</Archoffalo_Corpse.label>
+  <Archoffalo_Corpse.description>archoffalo corpse</Archoffalo_Corpse.description>
+  <Archospider_Corpse.label>archospider corpse</Archospider_Corpse.label>
+  <Archospider_Corpse.description>archospider corpse</Archospider_Corpse.description>
+  <Archolope_Leather.label>archolope leather</Archolope_Leather.label>
+  <Archolope_Leather.description>archolope leather</Archolope_Leather.description>
+  <Archolope_Leather.stuffProps.stuffAdjective>archolope leather</Archolope_Leather.stuffProps.stuffAdjective>
+  <Archolope_Corpse.label>archolope corpse</Archolope_Corpse.label>
+  <Archolope_Corpse.description>archolope corpse</Archolope_Corpse.description>
+  <Archotortoise_Leather.label>archotortoise leather</Archotortoise_Leather.label>
+  <Archotortoise_Leather.description>archotortoise leather</Archotortoise_Leather.description>
+  <Archotortoise_Leather.stuffProps.stuffAdjective>archotortoise leather</Archotortoise_Leather.stuffProps.stuffAdjective>
+  <Archotortoise_Corpse.label>archotortoise corpse</Archotortoise_Corpse.label>
+  <Archotortoise_Corpse.description>archotortoise corpse</Archotortoise_Corpse.description>
+  <Archopanda_Leather.label>archopanda leather</Archopanda_Leather.label>
+  <Archopanda_Leather.description>archopanda leather</Archopanda_Leather.description>
+  <Archopanda_Leather.stuffProps.stuffAdjective>archopanda leather</Archopanda_Leather.stuffProps.stuffAdjective>
+  <Archopanda_Corpse.label>archopanda corpse</Archopanda_Corpse.label>
+  <Archopanda_Corpse.description>archopanda corpse</Archopanda_Corpse.description>
+  <Archojerboa_Leather.label>archojerboa leather</Archojerboa_Leather.label>
+  <Archojerboa_Leather.description>archojerboa leather</Archojerboa_Leather.description>
+  <Archojerboa_Leather.stuffProps.stuffAdjective>archojerboa leather</Archojerboa_Leather.stuffProps.stuffAdjective>
+  <Archojerboa_Corpse.label>archojerboa corpse</Archojerboa_Corpse.label>
+  <Archojerboa_Corpse.description>archojerboa corpse</Archojerboa_Corpse.description>
+  <Archothrumbo_Leather.label>archothrumbo leather</Archothrumbo_Leather.label>
+  <Archothrumbo_Leather.description>archothrumbo leather</Archothrumbo_Leather.description>
+  <Archothrumbo_Leather.stuffProps.stuffAdjective>archothrumbo leather</Archothrumbo_Leather.stuffProps.stuffAdjective>
+  <Archothrumbo_Corpse.label>archothrumbo corpse</Archothrumbo_Corpse.label>
+  <Archothrumbo_Corpse.description>archothrumbo corpse</Archothrumbo_Corpse.description>
+</LanguageData>

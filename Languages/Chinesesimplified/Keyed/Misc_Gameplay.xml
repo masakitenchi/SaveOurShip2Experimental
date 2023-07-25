@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ShipStatsShipName>飞船名字：{0}</ShipStatsShipName>
+  <ShipStatsNotoriety>声誉：{0}</ShipStatsNotoriety>
+  <ShipStatsShipMass>重量：{0}</ShipStatsShipMass>
+  <ShipStatsShipMaxTakeoff>最大起飞重量：{0}</ShipStatsShipMaxTakeoff>
+  <ShipStatsShipEnergy>储存的电力：{0}/{1} Wd</ShipStatsShipEnergy>
+  <ShipStatsShipHeat>储存的热量：{0}/{1}</ShipStatsShipHeat>
+  <ShipStatsShipCombatRating>战斗等级：{0}</ShipStatsShipCombatRating>
+  <ShipStatsShipCombatThrust>推力/重量比：{0}</ShipStatsShipCombatThrust>
+  <ShipStatsChemfuel>升空所需的化合燃料：{0}</ShipStatsChemfuel>
+  <ShipReportInterReady>已准备好进行星际航行了。</ShipReportInterReady>
+  <ShipReportInterNotReady>还没有做好星际航行的准备：</ShipReportInterNotReady>
+  <ShipReportNeedPilot>飞船需要驾驶员或者人格核心。</ShipReportNeedPilot>
+  <ShipNeedsMoreFuel>飞船有{0}单位燃料，但需要在引擎中有{1}单位。</ShipNeedsMoreFuel>
+  <ShipNeedsMorePower>飞船只存有{0}Wd的电力, 但它总共需要{0}Wd。</ShipNeedsMorePower>
+  <ShipNeedsMoreJTEngines>飞船过大，需要更多约翰逊-田中引擎。</ShipNeedsMoreJTEngines>
+  <ShipPlanetLeave>航向新世界</ShipPlanetLeave>
+  <ShipPlanetLeaveDesc>离开这个星球，寻找另一个可以定居的世界</ShipPlanetLeaveDesc>
+  <GameOverShipPlanetLeaveIntro>你到达了新世界！</GameOverShipPlanetLeaveIntro>
+  <GameOverShipPlanetLeaveEnding>Your machine persona will now navigate your ship out of planetary orbit. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou can however take matters into your own hands by starting a new colony, editing the scenario, adding a "Load ship" part and selecting your ship.</GameOverShipPlanetLeaveEnding>
+  <ShipAbandonColoniesWarning>我们即将踏上一段跨越数年或数十年的旅程，在这段时间里，你将无法与你的星球殖民地进行沟通。 他们不太可能独自生存下去。\n\n此外，船上的任何殖民者或动物除非处于睡眠状态，否则都无法在旅途中生存下来。\n\n只有当你愿意遗弃所有人和所有留下的东西的时候，你才能下达这个命令。</ShipAbandonColoniesWarning>
+  <ShipAbandonColoniesWarningPK>由于行星杀手即将到来，你将无法返回这个世界。\n\n此外，船上的任何殖民者或动物除非处于睡眠状态，否则都无法在旅途中生存下来。\n\n只有当你愿意遗弃所有人和所有留下的东西的时候，你才能下达这个命令。</ShipAbandonColoniesWarningPK>
+  <ChooseAllyToTakeColony>在你离开之前，你可以向一个盟友派系发送一个信息，向他们提供你殖民地的建筑和任何留下的殖民者。如果你回到这个星球，你可能会发现你以前的殖民地已经成为这个派系的一个欣欣向荣的聚居地。</ChooseAllyToTakeColony>
+  <SoSHibernatableHibernating>动量累积临界值</SoSHibernatableHibernating>
+  <SoSHibernatableStartingUp>释放</SoSHibernatableStartingUp>
+  <SoSHibernateWarningStandalone>驱动器准备开始释放它储存的动量。一旦这样做，你的殖民者将能够安全地拆卸驱动器并取回它的纠缠流形。\n\n这个过程大约需要15天，能量信号将会在很远的地方被探测到。这种能量特征表明了星际飞行的能力，并将吸引一群绝望的掠夺者和致命的机械族。\n\n你会受到前所未有的猛烈攻击。请先准备好你的防御。</SoSHibernateWarningStandalone>
+  <SoSCommandShipStartup>开始释放</SoSCommandShipStartup>
+  <SoSCommandShipStartupDesc>释放驱动器储存的动量。</SoSCommandShipStartupDesc>
+  <SpaceSiteFuelCost>燃料消耗: {0}%</SpaceSiteFuelCost>
+  <ShipForceExitAndRemoveMapCountdown>将在{0}后进入大气层</ShipForceExitAndRemoveMapCountdown>
+  <ShipBurnupPlayer>脱离轨道！</ShipBurnupPlayer>
+  <ShipBurnupPlayerDesc>由于最后的舰桥被摧毁，飞船无法保持当前轨道并将在{0}天后坠入大气层！\n\n这张图上的所有东西都会被摧毁！</ShipBurnupPlayerDesc>
+  <ShipBurnupPlayerPrevented>新建造的舰桥让你的飞船可以继续保持在稳定轨道上。</ShipBurnupPlayerPrevented>
+  <ShipBurnUpCountdown>将在{0}后进入大气层！</ShipBurnUpCountdown>
+  <ShipBurnUpCountdownTip>这张地图将在{0}后坠入大气层，摧毁其中的一切。</ShipBurnUpCountdownTip>
+  <UnfoldStatus>状态:</UnfoldStatus>
+  <UnfoldRetracted>收回</UnfoldRetracted>
+  <UnfoldExtended>扩展的</UnfoldExtended>
+  <UnfoldExtending>延伸</UnfoldExtending>
+  <UnfoldRetracting>收回</UnfoldRetracting>
+  <ShipHeatStored>散热网络系统蓄热量/容量: {0} HU / {1} HU</ShipHeatStored>
+  <CannotFireDueToHeat>{0}无法开火：热量贮存器的热容不足</CannotFireDueToHeat>
+  <CannotFireDueToPower>{0}无法开火：电力不足</CannotFireDueToPower>
+  <CannotFireDueToAmmo>{0}无法开火：弹药不足</CannotFireDueToAmmo>
+  <ShipCombatShieldBroken>由于抵达热容上限，我们的飞船护盾已破裂!</ShipCombatShieldBroken>
+  <ShipCombatShieldBrokenEnemy>由于抵达热容上限，敌人的飞船护盾已破裂!</ShipCombatShieldBrokenEnemy>
+  <ShipAirlockHacked>气闸骇入成功！</ShipAirlockHacked>
+  <ShipAirlockHackFailed>气闸骇入失败！</ShipAirlockHackFailed>
+  <ShipAirlockBreached>气闸被破坏了！</ShipAirlockBreached>
+  <ShipCombatTooltip>显示敌舰与你的距离，以及所有正在飞行的炮弹。\n\n红色区间：所有武器可以开火，但轨道炮塔的精度会降低。\n\n绿色区间：等离子炮塔、轨道炮塔和鱼雷都可以开火，轨道炮塔的精度适中。\n\n蓝色区间：只有轨道炮塔和鱼雷可以开火，轨道炮塔的精度将会大幅提高。</ShipCombatTooltip>
+  <ShipAmplifierCount>功放: {0}</ShipAmplifierCount>
+  <ShipSpinalCapNotFound>未找到脊峰电容器</ShipSpinalCapNotFound>
+  <ShipTorpedoLoaded>装载: {0}</ShipTorpedoLoaded>
+  <ShipTorpedoNotLoaded>空载</ShipTorpedoNotLoaded>
+  <shipTubeFullyLoaded>满载</shipTubeFullyLoaded>
+  <shipNoTorpedoes>没有鱼雷</shipNoTorpedoes>
+  <MessageTurretWontFireBecausePointDefense>警告：由于已切换至点防御模式，炮塔将不会攻击敌舰。</MessageTurretWontFireBecausePointDefense>
+  <MessageShuttleMustBePartiallyFueled>穿梭机必须至少有25%的燃料才能发动登船行动。</MessageShuttleMustBePartiallyFueled>
+  <MessageShuttleMustBeFueledToLand>穿梭机必须至少有15%的燃料才能着陆。</MessageShuttleMustBeFueledToLand>
+  <MessageShuttleMustBeFueledToOrbit>穿梭机必须至少有80%的燃料才能进入轨道。</MessageShuttleMustBeFueledToOrbit>
+  <SoSPodsArrived>你的穿梭机已经到达目的地。</SoSPodsArrived>
+  <MustPlaceNearSpinalMountPort>必须放置在其他脊峰火炮模块附近。</MustPlaceNearSpinalMountPort>
+  <MustPlaceInsideShipFramework>必须放置在仅由飞船部件划分出的舱室内。</MustPlaceInsideShipFramework>
+  <MustPlaceInsideShip>必须放置在完全封闭的船体内。</MustPlaceInsideShip>
+  <MustPlaceOnShipHull>必须放置在船体上。</MustPlaceOnShipHull>
+  <MustNotPlaceOnShipPart>空间已被占用。</MustNotPlaceOnShipPart>
+  <NoSalvageBays>缺少可用的回收港</NoSalvageBays>
+  <EnemyShipRetreating>敌舰正试图撤退！</EnemyShipRetreating>
+  <EnemyShipRetreated>敌舰逃走了！</EnemyShipRetreated>
+  <EnemyShipAdrift>敌舰开始漂移并偏离轨道！</EnemyShipAdrift>
+  <TradeShipComms>通讯</TradeShipComms>
+  <TradeShipTradeWith>要求和他们进行交易。</TradeShipTradeWith>
+  <TradeShipTradeDecline>{0}不想和恶名满贯的我们进行交易。</TradeShipTradeDecline>
+  <TradeShipPirate>要求他们交出货物（这是海盗行为！）</TradeShipPirate>
+  <TradeShipPirateEmpire>我们对帝国的海盗行为并没有被忽视!</TradeShipPirateEmpire>
+  <TradeShipTryingToFlee>已经关闭了通讯，并试图逃离！</TradeShipTryingToFlee>
+  <TradeShipAttack>追上他们！</TradeShipAttack>
+  <TradeShipFlee>让他们走吧。</TradeShipFlee>
+  <TradeShipPayBounty>支付你的赏金（费用：{0} 白银）</TradeShipPayBounty>
+  <NotEnoughForBounty>需要有{0}白银在轨道交易信标附近</NotEnoughForBounty>
+  <SoSDamagedReactorHurtsPawn>由于飞船裂变反应堆受损，{0}正沐浴在辐射中！</SoSDamagedReactorHurtsPawn>
+  <SoSShuttles>穿梭机</SoSShuttles>
+  <SporeNeedsName>超凡孢子要求我们给它起个名字。</SporeNeedsName>
+  <ArchoGift>解锁超凡恩惠</ArchoGift>
+  <ArchotechGoodwillPlus>通过心灵操控来提升好感度（+10，消耗3点心灵立场强度）</ArchotechGoodwillPlus>
+  <ArchotechGoodwillMinus>通过心灵操控来降低好感度（-10，消耗3点灵立场强度）</ArchotechGoodwillMinus>
+  <MechanitesInHomeArea>噬舰者纳米机械！</MechanitesInHomeArea>
+  <MechanitesInHomeAreaDesc>噬舰者纳米机械已侵蚀了我们的居住区。</MechanitesInHomeAreaDesc>
+  <ArchotechSporeMoodLow>超凡孢子不高兴</ArchotechSporeMoodLow>
+  <ArchotechSporeMoodLowDesc>超凡孢子心情低落，它可能会开始对殖民者们玩些"恶作剧"。\n\n孢子的心情可以通过让殖民者在附近冥想来慢慢改善，也可以通过献祭囚犯的大脑来快速改善。</ArchotechSporeMoodLowDesc>
+  <ArchotechSporeMoodLowDescNoRoyalty>超凡孢子心情低落，它可能会开始对殖民者们玩些"恶作剧"。\n\n孢子的心情可以通过献祭囚犯的大脑来快速改善。</ArchotechSporeMoodLowDescNoRoyalty>
+  <ShipQuestPillarA>进攻KSS地平线号</ShipQuestPillarA>
+  <ShipQuestPillarAdesc>尝试接触古代地形改造站以回收超凡科技立柱</ShipQuestPillarAdesc>
+  <ShipQuestPillarB>进攻月面基地</ShipQuestPillarB>
+  <ShipQuestPillarBdesc>进攻机械族的月面基地，回收超凡科技立柱。\n\n这同时也会激怒一艘机械族战舰！</ShipQuestPillarBdesc>
+  <MeditationFocusPerPillarAbstract>{1} 每个附近的超凡支柱（最大{0}）</MeditationFocusPerPillarAbstract>
+  <MeditationFocusPerPillar>{2} 每个附近的超凡支柱（{0} / {1}）</MeditationFocusPerPillar>
+  <ShipCombatAbandonPawns>WARNING!\n\nFleeing the enemy ship will leave behind any of your colonists still on board!</ShipCombatAbandonPawns>
+</LanguageData>

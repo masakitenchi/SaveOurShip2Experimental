@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Ship_Beam_Unpowered.label>船体（无动力）</Ship_Beam_Unpowered.label>
+  <Ship_Beam_Unpowered.description>用于组成飞船的重要外部结构，内部并未嵌有电缆、氧气管道和热能管道。</Ship_Beam_Unpowered.description>
+  <Ship_Beam_Light.label>ship light</Ship_Beam_Light.label>
+  <Ship_Beam_Light.description>Integrated lighting attached to a ship's hull.</Ship_Beam_Light.description>
+  <Ship_Beam_Light.comps.2.offMessage>Off for plant resting period</Ship_Beam_Light.comps.2.offMessage>
+  <Ship_Corner_OneOne.label>船体斜角（1×1）</Ship_Corner_OneOne.label>
+  <Ship_Corner_OneOne.description>船体的斜角部位。</Ship_Corner_OneOne.description>
+  <Ship_Corner_OneOneFlip.label>船体斜角（1×1）</Ship_Corner_OneOneFlip.label>
+  <Ship_Corner_OneOneFlip.description>船体的斜角部位。</Ship_Corner_OneOneFlip.description>
+  <Ship_Corner_OneTwo.label>船体斜角（1×2）</Ship_Corner_OneTwo.label>
+  <Ship_Corner_OneTwo.description>船体的斜角部位。</Ship_Corner_OneTwo.description>
+  <Ship_Corner_OneTwoFlip.label>船体斜角（1×2）</Ship_Corner_OneTwoFlip.label>
+  <Ship_Corner_OneTwoFlip.description>船体的斜角部位。</Ship_Corner_OneTwoFlip.description>
+  <Ship_Corner_OneThree.label>船体斜角（1×3）</Ship_Corner_OneThree.label>
+  <Ship_Corner_OneThree.description>船体的斜角部位。</Ship_Corner_OneThree.description>
+  <Ship_Corner_OneThreeFlip.label>船体斜角（1×3）</Ship_Corner_OneThreeFlip.label>
+  <Ship_Corner_OneThreeFlip.description>船体的斜角部位。</Ship_Corner_OneThreeFlip.description>
+  <ShipInside_SolarGenerator.label>飞船太阳能板</ShipInside_SolarGenerator.label>
+  <ShipInside_SolarGenerator.description>利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。</ShipInside_SolarGenerator.description>
+  <ShipInside_PassiveVent.label>飞船温控装置</ShipInside_PassiveVent.label>
+  <ShipInside_PassiveVent.description>与飞船散热系统相连的温控装置，可通过热交换原理来提高或降低飞船舱室内的温度。</ShipInside_PassiveVent.description>
+  <ShipInside_PassiveVent_Blueprint.label>飞船温控装置（蓝图）</ShipInside_PassiveVent_Blueprint.label>
+  <ShipInside_PassiveVent_Frame.label>飞船温控装置（正在建造）</ShipInside_PassiveVent_Frame.label>
+  <ShipInside_PassiveVent_Frame.description>与飞船散热系统相连的温控装置，可通过热交换原理来提高或降低飞船舱室内的温度。也可以使用电力加热。</ShipInside_PassiveVent_Frame.description>
+  <ShipAirlock.label>飞船气闸</ShipAirlock.label>
+  <ShipAirlock.description>用于飞船入口或分隔舱室。电力运转，人穿过气闸不会减速。产生的低能等离子体屏障可以防止氧气逸出。</ShipAirlock.description>
+  <ShipAirlock_Blueprint.label>飞船气闸（蓝图）</ShipAirlock_Blueprint.label>
+  <ShipAirlock_Frame.label>飞船气闸（正在建造）</ShipAirlock_Frame.label>
+  <ShipAirlock_Frame.description>用于飞船入口或分隔舱室。电力运转，人穿过气闸不会减速。产生的低能等离子体屏障可以防止氧气逸出。</ShipAirlock_Frame.description>
+  <ShipAirlockBeam.label>飞船对接口</ShipAirlockBeam.label>
+  <ShipAirlockBeam.description>One half of a system for attaching spacecraft. Place two of these directly adjacent to a vacuum-facing airlock, and that airlock will gain the ability to extend a 3x3 docking tube. No special equipment is necessary on the other end; simply line the tube up with the other ship's airlock.\n\nSpacecraft connected by the docking tube are treated as one unit for purposes of interplanetary travel, but the tube is not rated for atmospheric re-entry and ships will automatically decouple before landing.</ShipAirlockBeam.description>
+  <ShipHullTile.label>船体护板</ShipHullTile.label>
+  <ShipHullTile.description>用于组成飞船的重要内部结构，可以将其所在格（以及任何建造在上面的东西）视作为飞船的一部分。\n\n只能在由船体组成的封闭空间内进行铺设。</ShipHullTile.description>
+  <ShipHullTile_Blueprint.label>船体护板（蓝图）</ShipHullTile_Blueprint.label>
+  <ShipHullTile_Frame.label>船体护板（正在建造）</ShipHullTile_Frame.label>
+  <ShipHullTile_Frame.description>用于组成飞船的重要内部结构，可以将其所在格（以及任何建造在上面的东西）视作为飞船的一部分。\n\n只能在由船体组成的封闭空间内进行铺设。</ShipHullTile_Frame.description>
+  <ShipHardpointSmall.label>小型承力点</ShipHardpointSmall.label>
+  <ShipHardpointSmall.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力点搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得75%的减伤加成。</ShipHardpointSmall.description>
+  <ShipHardpointSmall_Blueprint.label>小型承力点（蓝图）</ShipHardpointSmall_Blueprint.label>
+  <ShipHardpointSmall_Frame.label>小型承力点（正在建造）</ShipHardpointSmall_Frame.label>
+  <ShipHardpointSmall_Frame.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力点搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得50%的减伤加成。</ShipHardpointSmall_Frame.description>
+  <ShipHardpoint.label>承力点</ShipHardpoint.label>
+  <ShipHardpoint.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力点搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得75%的减伤加成。</ShipHardpoint.description>
+  <ShipHardpoint_Blueprint.label>承力点（蓝图）</ShipHardpoint_Blueprint.label>
+  <ShipHardpoint_Frame.label>承力点（正在建造）</ShipHardpoint_Frame.label>
+  <ShipHardpoint_Frame.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力点搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得50%的减伤加成。</ShipHardpoint_Frame.description>
+  <ShipHardpointExtraMedium.label>大型承力点</ShipHardpointExtraMedium.label>
+  <ShipHardpointExtraMedium.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力点搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得75%的减伤加成。</ShipHardpointExtraMedium.description>
+  <ShipHardpointExtraMedium_Blueprint.label>大型承力点（蓝图）</ShipHardpointExtraMedium_Blueprint.label>
+  <ShipHardpointExtraMedium_Frame.label>大型承力点（正在建造）</ShipHardpointExtraMedium_Frame.label>
+  <ShipHardpointExtraMedium_Frame.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力点搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得50%的减伤加成。</ShipHardpointExtraMedium_Frame.description>
+  <ShipHardpointLarge.label>巨型承力点</ShipHardpointLarge.label>
+  <ShipHardpointLarge.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力点搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得75%的减伤加成。</ShipHardpointLarge.description>
+  <ShipHardpointLarge_Blueprint.label>巨型承力点（蓝图）</ShipHardpointLarge_Blueprint.label>
+  <ShipHardpointLarge_Frame.label>巨型承力点（正在建造）</ShipHardpointLarge_Frame.label>
+  <ShipHardpointLarge_Frame.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力点搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得50%的减伤加成。</ShipHardpointLarge_Frame.description>
+  <Ship_Engine_Small.label>小型火箭推进器</Ship_Engine_Small.label>
+  <Ship_Engine_Small.description>可以将飞船送至星球轨道上的化合燃料推进器。并不适合星际航行。\n\n推力：500\n燃料消耗：1 化合燃料/秒\n最大起飞重量：750</Ship_Engine_Small.description>
+  <Ship_Engine_Large.label>核能推进器</Ship_Engine_Large.label>
+  <Ship_Engine_Large.description>可以将飞船送至星球轨道上的核能推进器。虽然性能要比火箭推进器强得多，但会向周围区域散发辐射。并不适合星际航行。\n\n推力：3000\n燃料消耗：3 铀燃料罐/秒\n最大起飞重量：4000</Ship_Engine_Large.description>
+  <Ship_Thruster.label>RCS推进器</Ship_Thruster.label>
+  <Ship_Thruster.description>用于移动飞船的推进器。每2000的飞船重量需要一个。</Ship_Thruster.description>
+  <Ship_Engine_Interplanetary.label>约翰逊-田中驱动器</Ship_Engine_Interplanetary.label>
+  <Ship_Engine_Interplanetary.description>能够将飞船送入太空并且穿过广阔星际空间的高级无工质推进器。\n\n无法在行星大气层中使用。\n\n推力：500</Ship_Engine_Interplanetary.description>
+  <Ship_Engine_Interplanetary_Large.label>大型约翰逊-田中驱动器</Ship_Engine_Interplanetary_Large.label>
+  <Ship_Engine_Interplanetary_Large.description>能够将飞船送入太空并且穿过广阔星际空间的高级无工质推进器。\n\n无法在行星大气层中使用。这种使用两个纠缠流形的大型引擎通常可以在大型战舰上找到，效率比小型引擎更高。\n\n推力：1500</Ship_Engine_Interplanetary_Large.description>
+  <ShipPilotSeatMini.label>航行舰桥</ShipPilotSeatMini.label>
+  <ShipPilotSeatMini.description>允许殖民者操控飞船。</ShipPilotSeatMini.description>
+  <ShipConsoleTactical.label>战斗舰桥</ShipConsoleTactical.label>
+  <ShipConsoleTactical.description>提供武器选择和瞄准选项。提升武器的精准度。</ShipConsoleTactical.description>
+  <ShipConsoleScience.label>科学舰桥</ShipConsoleScience.label>
+  <ShipConsoleScience.description>允许殖民者扫描有价值的目标、从轨道上查看目标地点，以及在战斗中扫描敌方舰船的内部。</ShipConsoleScience.description>
+  <Ship_SensorClusterAdv.label>高级传感器</Ship_SensorClusterAdv.label>
+  <Ship_SensorClusterAdv.description>更加先进的高级传感器。与基础传感器相比，它还拥有额外的敌舰内部结构侦测功能。</Ship_SensorClusterAdv.description>
+  <Ship_LifeSupport.label>生命维持系统</Ship_LifeSupport.label>
+  <Ship_LifeSupport.description>用于产生和循环氧气的生命维持系统，可供殖民者和动物在飞船上正常生活。</Ship_LifeSupport.description>
+  <Ship_LifeSupport_Small.label>小型生命维持系统</Ship_LifeSupport_Small.label>
+  <Ship_LifeSupport_Small.description>用于产生和循环氧气的生命维持系统，可供殖民者和动物在飞船上正常生活。\n\n这种型号以耗电量为代价压缩了体积，也更适合配备在小型飞船上。</Ship_LifeSupport_Small.description>
+  <ShipCapacitorSmall.label>飞船电容器</ShipCapacitorSmall.label>
+  <ShipCapacitorSmall.description>储存多余的电力并在飞船交战时为火炮供给电力。可以存储1000Wd的电力。</ShipCapacitorSmall.description>
+  <ShipCapacitor.label>飞船电容阵列</ShipCapacitor.label>
+  <ShipCapacitor.description>储存多余的电力并在飞船交战时为火炮供给电力。可以存储10000Wd的电力。</ShipCapacitor.description>
+  <Ship_Reactor_Small.label>小型裂变反应堆</Ship_Reactor_Small.label>
+  <Ship_Reactor_Small.description>消耗铀燃料罐进行发电的紧凑型裂变反应堆，其运行时产生的热量会依据情况排放至散热系统或飞船舱室内。\n\n默认电力输出为3000W，但可以切换至风险逐级递增的过载模式以进行提高。</Ship_Reactor_Small.description>
+  <ShipShuttleBay.label>星港</ShipShuttleBay.label>
+  <ShipShuttleBay.description>可以装载、发射和对接穿梭机的平台设施。在建造时请确保周围没有障碍物。在四周建造飞船着陆信标以允许帝国的船只降落在这里。</ShipShuttleBay.description>
+  <ShipShuttleBayLarge.label>大型星港</ShipShuttleBayLarge.label>
+  <ShipShuttleBayLarge.description>可以装载、发射和对接穿梭机的平台设施。这种更大型的版本可以支持超重型穿梭机。在建造时请确保周围没有障碍物。在四周建造飞船着陆信标以允许帝国的船只降落。</ShipShuttleBayLarge.description>
+  <ShipSalvageBay.label>回收港</ShipSalvageBay.label>
+  <ShipSalvageBay.description>将敌舰残骸转移至当前地图的回收设施。大型残骸需要更多的回收港。也可以移动或移除你不需要的残骸。\n\n重量上限：5000</ShipSalvageBay.description>
+  <HullFoamDistributor.label>船体泡沫喷射器</HullFoamDistributor.label>
+  <HullFoamDistributor.description>在飞船内部喷射船体泡沫的泵站。当飞船的一部分在战斗中被摧毁时，这个系统会自动用船体泡沫修补洞口。</HullFoamDistributor.description>
+  <ShipCloakingDevice.label>隐形装置</ShipCloakingDevice.label>
+  <ShipCloakingDevice.description>可通过掩盖飞船的热量散射来防止敌人进行追踪的隐形装置。能有效规避非必要的飞船交战，但如果战斗已经开始，就起不到任何帮助了。\n\n隐形装置无法骗过那些专用于扫描恶名飞船的传感器。\n\n当隐形装置开启时，飞船散热器将无法向太空中排放热量。</ShipCloakingDevice.description>
+  <SpaceCrib.label>太空婴儿床</SpaceCrib.label>
+  <SpaceCrib.description>A high-tech bed perfect for a sleepy baby. In the event of life support failure, a protective shell will close around the occupant, recycling oxygen and regulating temperature. It also functions as an escape pod if the ship is critically damaged.\n\nIt is not a cryptosleep casket and cannot keep its occupant alive during interstellar journeys.</SpaceCrib.description>
+  <CrittersleepCasket.label>动物低温休眠舱（8）</CrittersleepCasket.label>
+  <CrittersleepCasket.description>能将8只小体型动物维持在生理暂停状态许多年的自供电型低温休眠舱。\n\n只有处于倒地或麻醉状态下的动物才能被装进动物低温休眠舱中。</CrittersleepCasket.description>
+  <CrittersleepCasketLarge.label>动物低温休眠舱（32）</CrittersleepCasketLarge.label>
+  <CrittersleepCasketLarge.description>能将32只小体型动物维持在生理暂停状态许多年的自供电型低温休眠舱。\n\n只有处于倒地或麻醉状态下的动物才能被装进动物低温休眠舱中。</CrittersleepCasketLarge.description>
+  <Cryptonest.label>低温休眠巢</Cryptonest.label>
+  <Cryptonest.description>能将16枚卵蛋维持在生理暂停状态许多年的自供电型低温休眠巢。</Cryptonest.description>
+  <Ship_AvatarCasket.label>「来世」全息投影构造舱</Ship_AvatarCasket.label>
+  <Ship_AvatarCasket.description>连接有全息投影仪的高级生命维持系统，能让刚刚逝去的人类大脑起死回生。\n\n将死亡的殖民者装入其中后，他们将以塑形凝胶的形式重获新生。</Ship_AvatarCasket.description>
+  <HullFoamWall.label>应急泡沫船体</HullFoamWall.label>
+  <HullFoamWall.description>用于应急封闭缺口的泡沫船体。</HullFoamWall.description>
+  <HullFoamWall_Blueprint.label>hullfoam (blueprint)</HullFoamWall_Blueprint.label>
+  <HullFoamWall_Frame.label>hullfoam (building)</HullFoamWall_Frame.label>
+  <HullFoamWall_Frame.description>An airtight slab of hullfoam.</HullFoamWall_Frame.description>
+  <ShipHullfoamTile.label>应急泡沫船体护板</ShipHullfoamTile.label>
+  <ShipHullfoamTile.description>用于应急封闭缺口的泡沫船体护板。</ShipHullfoamTile.description>
+  <ShipHullfoamTile_Blueprint.label>hullfoam plating (blueprint)</ShipHullfoamTile_Blueprint.label>
+  <ShipHullfoamTile_Frame.label>hullfoam plating (building)</ShipHullfoamTile_Frame.label>
+  <ShipHullfoamTile_Frame.description>Airtight hullfoam, sprayed to replace a missing hull plate.</ShipHullfoamTile_Frame.description>
+  <ShipAirlockBeamWall.label>airlock wall</ShipAirlockBeamWall.label>
+  <ShipAirlockBeamWall.description>An airtight extended airlock wall.</ShipAirlockBeamWall.description>
+  <ShipAirlockBeamTile.label>airlock floor</ShipAirlockBeamTile.label>
+  <ShipBPBomberHeavy.label>ship blueprint (heavy bomber)</ShipBPBomberHeavy.label>
+  <ShipBPBomberHeavy.description>Class: Heavy bomber\nA heavily armed ship but incapable of extended operations in space.\n\nMass: 1092\nSize: 28 x 26\nT/W ratio: 3.161\nCombat rating: 110\n\nWeapons: \n1x large railgun turret\n2x laser turret\n2x torpedo launcher\n\nRequired resources: \nsteel: 5057\nplasteel: 1777\nadvanced component: 77\ncomponent: 162\nuranium: 120\nsilver: 225\n\nRequired research: \nstarflight basics, ship navigation, cruiser armaments, air conditioning, heatsinks, ship fission reactor, rocket propulsion, laser turrets, firefoam, ship shields, capacitor arrays, ship torpedoes, ship life support</ShipBPBomberHeavy.description>
+  <ShipBPCargoFirefly.label>ship blueprint (firefly transport)</ShipBPCargoFirefly.label>
+  <ShipBPCargoFirefly.description>Class: Firefly class transport\nAn unarmed transport ship with a large cargo hold.\n\nMass: 4705\nSize: 79 x 50\nT/W ratio: 1.648\nCombat rating: 63\n\nWeapons: \nnone\nRequired resources: \nsteel: 24379\nplasteel: 5890\nadvanced component: 202\ncomponent: 740\ngold: 16\nuranium: 170\nentanglement manifold: 1\nsilver: 100\n\nRequired research: \nstarflight basics, ship navigation, advanced ship sensors, microelectronics, rocket propulsion, escape pods, air conditioning, electricity, solar panel, ship life support, salvage bay, vitals monitor, shuttle bay, complex furniture, heatsinks, machining, ship fission reactor, firefoam, hospital bed, capacitor arrays, Johnson-Tanaka Drive</ShipBPCargoFirefly.description>
+  <ShipBPCorvette.label>ship blueprint (corvette)</ShipBPCorvette.label>
+  <ShipBPCorvette.description>Class: Corvette\nA small corvette.\n\nMass: 1860\nSize: 36 x 20\nT/W ratio: 2.383\nCombat rating: 132\n\nWeapons: \n2x torpedo launcher\n4x laser turret\n2x railgun turret\n\nRequired resources: \nsteel: 9172\nplasteel: 2992\nadvanced component: 132\ncomponent: 314\nsilver: 900\ngold: 4\nuranium: 120\n\nRequired research: \nstarflight basics, ship navigation, heatsinks, air conditioning, ship shields, microelectronics, salvage bay, basic ship sensors, ship fission reactor, ship torpedoes, ship life support, machining, firefoam, rocket propulsion, tube television, laser turrets, capacitor arrays, railgun turrets</ShipBPCorvette.description>
+  <ShipBPCorvetteGunship.label>ship blueprint (corvette gunship)</ShipBPCorvetteGunship.label>
+  <ShipBPCorvetteGunship.description>Class: Corvette\nA slow but heavily armed corvette.\n\nMass: 3685\nSize: 69 x 26\nT/W ratio: 1.403\nCombat rating: 262\n\nWeapons: \n8x laser turret\n2x large railgun turret\n2x large plasma turret\n\nRequired resources: \nsteel: 19819\nadvanced component: 245\nplasteel: 6390\ncomponent: 651\nuranium: 530\ngold: 4\nsilver: 1700\n\nRequired research: \nship navigation, starflight basics, laser turrets, air conditioning, basic ship sensors, microelectronics, ship shields, heatsinks, cruiser armaments, firefoam, capacitor arrays, flatscreen television, electricity, hospital bed, escape pods, rocket propulsion, ship fission reactor, machining, salvage bay, ship life support, vitals monitor</ShipBPCorvetteGunship.description>
+  <ShipBPCorvetteTorp.label>ship blueprint (torpedo corvette)</ShipBPCorvetteTorp.label>
+  <ShipBPCorvetteTorp.description>Class: Corvette\nA heavily armed torpedo corvette.\n\nMass: 3731\nSize: 60 x 36\nT/W ratio: 1.853\nCombat rating: 313\n\nWeapons: \n6x laser turret\n2x large plasma turret\n2x torpedo launcher (2)\n\nRequired resources: \nsteel: 21001\nplasteel: 6070\nadvanced component: 275\ncomponent: 651\nuranium: 325\nsilver: 900\ngold: 20\n\nRequired research: \nstarflight basics, ship navigation, laser turrets, cruiser armaments, air conditioning, microelectronics, capacitor arrays, electricity, escape pods, tube television, rocket propulsion, heatsinks, hospital bed, ship shields, ship life support, vitals monitor, basic ship sensors, ship fission reactor, ship torpedoes, firefoam, purge ports, advanced ship sensors, salvage bay, machining</ShipBPCorvetteTorp.description>
+  <ShipBPCorvetteWinged.label>ship blueprint (corvette)</ShipBPCorvetteWinged.label>
+  <ShipBPCorvetteWinged.description>Class: Corvette\nA winged corvette.\n\nMass: 3092\nSize: 44 x 48\nT/W ratio: 1.763\nCombat rating: 178\n\nWeapons: \n1x large railgun turret\n6x laser turret\n2x torpedo launcher\n\nRequired resources: \nsteel: 15183\nadvanced component: 172\nplasteel: 4794\ncomponent: 547\nuranium: 220\nsilver: 900\ngold: 4\n\nRequired research: \nship navigation, starflight basics, capacitor arrays, cruiser armaments, air conditioning, microelectronics, ship life support, ship shields, salvage bay, heatsinks, escape pods, tube television, vitals monitor, hospital bed, basic ship sensors, rocket propulsion, laser turrets, ship torpedoes, ship fission reactor</ShipBPCorvetteWinged.description>
+  <ShipBPFrigateArcher.label>ship blueprint (archer frigate)</ShipBPFrigateArcher.label>
+  <ShipBPFrigateArcher.description>Class: Archer class frigate\nAn agile frigate that prefers to engage targets from long range with its large railgun.\n\nMass: 7422\nSize: 76 x 44\nT/W ratio: 1.909\nCombat rating: 575\n\nWeapons: \n10x laser turret\n2x large plasma turret\n1x spinal barrel: railgun\n2x torpedo launcher\n\nRequired resources: \nsteel: 39694\nadvanced component: 548\nplasteel: 12097\ncomponent: 1091\nuranium: 750\nsilver: 1100\ngold: 52\ncloth: 130\nwood: 55\n\nRequired research: \nship navigation, starflight basics, laser turrets, capital ship armaments, microelectronics, escape pods, air conditioning, hullfoam, ship shields, advanced ship sensors, heatsinks, hospital bed, ship life support, capacitor arrays, cruiser armaments, rocket propulsion, machining, fabrication, ship fission reactor, purge ports, firefoam, shuttle bay, salvage bay, multi-analyzer, hydroponics, ship torpedoes, electricity, complex furniture, drug production, complex clothing, vitals monitor, flatscreen television</ShipBPFrigateArcher.description>
+  <ShipBPFrigateWinged.label>ship blueprint (frigate)</ShipBPFrigateWinged.label>
+  <ShipBPFrigateWinged.description>Class: Frigate\nA large and powerful frigate.\n\nMass: 8249\nSize: 77 x 60\nT/W ratio: 1.781\nCombat rating: 629\n\nWeapons: \n2x plasma turret\n2x torpedo launcher (2)\n2x large railgun turret\n10x laser turret\n1x spinal barrel: railgun\n1x large laser turret\n\nRequired resources: \nsteel: 44394\nadvanced component: 566\nplasteel: 13290\ncomponent: 1323\nuranium: 800\ncloth: 50\nwood: 25\ngold: 52\nsilver: 1100\n\nRequired research: \nship navigation, starflight basics, salvage bay, electricity, capacitor arrays, microelectronics, shuttle bay, plasma turrets, air conditioning, escape pods, ship life support, ship torpedoes, hospital bed, hydroponics, vitals monitor, hullfoam, machining, complex furniture, advanced ship sensors, ship shields, firefoam, cruiser armaments, laser turrets, heatsinks, rocket propulsion, capital ship armaments, ship fission reactor, multi-analyzer, fabrication, purge ports, flatscreen television</ShipBPFrigateWinged.description>
+  <ShipBPTachinante.label>ship blueprint (ancient martian corvette)</ShipBPTachinante.label>
+  <ShipBPTachinante.description>Class: Ancient martian corvette\nAn ancient design that stood the test of time.\n\nMass: 2459\nSize: 59 x 22\nT/W ratio: 1.737\nCombat rating: 136\n\nWeapons: \n6x cannon turret\n1x torpedo launcher (2)\n\nRequired resources: \nsteel: 12505\nplasteel: 3607\nadvanced component: 144\ngold: 20\ncomponent: 397\nuranium: 300\nsilver: 100\n\nRequired research: \nstarflight basics, ship navigation, basic ship sensors, ship cannons, microelectronics, air conditioning, hydroponics, rocket propulsion, ship fission reactor, heatsinks, capacitor arrays, electricity, machining, salvage bay, advanced ship sensors, flatscreen television, ship torpedoes, hospital bed, vitals monitor, ship life support</ShipBPTachinante.description>
+  <ShipBPTransportSmall.label>ship blueprint (small transport)</ShipBPTransportSmall.label>
+  <ShipBPTransportSmall.description>Class: Small transport\nA small lightly armed transport ship.\n\nMass: 1469\nSize: 30 x 22\nT/W ratio: 1.978\nCombat rating: 44\n\nWeapons: \n2x laser turret\n\nRequired resources: \nsteel: 7296\nplasteel: 2084\nadvanced component: 91\ncomponent: 249\ngold: 4\nuranium: 40\nsilver: 250\n\nRequired research: \nstarflight basics, ship navigation, microelectronics, flatscreen television, air conditioning, ship life support, basic ship sensors, salvage bay, heatsinks, laser turrets, ship fission reactor, ship shields, machining, hospital bed, vitals monitor, firefoam, rocket propulsion, capacitor arrays</ShipBPTransportSmall.description>
+  <ShipMoveBlueprint.label>飞船的新位置</ShipMoveBlueprint.label>
+  <ShipMoveBlueprint.description>选择想要将飞船移动至的新位置。</ShipMoveBlueprint.description>
+  <MinifiedThingShipMove.label>minified thing</MinifiedThingShipMove.label>
+  <Ship_FakeBeam.label>船体</Ship_FakeBeam.label>
+  <Ship_FakeBeam.description>用于组成飞船的重要外部结构，内部嵌有电缆、氧气管道和热能管道。</Ship_FakeBeam.description>
+  <SoS2DummyObject.label>Dummy Object</SoS2DummyObject.label>
+  <PawnSpawnerStart.label>starting pawn spawner</PawnSpawnerStart.label>
+  <PawnSpawnerStart.description>Will spawn starting pawns on this location instead of resorting to backups - crypto casket, salvage bay, bridge. Use only on starting maps.</PawnSpawnerStart.description>
+  <ShipPilotSeat.label>舰桥</ShipPilotSeat.label>
+  <ShipPilotSeat.description>允许殖民者操控飞船。</ShipPilotSeat.description>
+  <ShipInside_PassiveCooler.label>飞船散热器</ShipInside_PassiveCooler.label>
+  <ShipInside_PassiveCooler.description>能向太空中排放热量并冷却飞船内部的散热器，也能为飞船炮塔和护盾发生器提供少量的热容。\n\n当隐形装置或护盾发生器开启时，飞船散热器将无法向太空中排放热量。</ShipInside_PassiveCooler.description>
+  <ShipInside_PassiveCoolerAdvanced.label>高级飞船散热器</ShipInside_PassiveCoolerAdvanced.label>
+  <ShipInside_PassiveCoolerAdvanced.description>能向太空中快速排放热量并冷却飞船内部的散热器，也能为飞船炮塔和护盾发生器提供少量的热容。\n\n当隐形装置或护盾发生器开启时，飞船散热器将无法向太空中排放热量。</ShipInside_PassiveCoolerAdvanced.description>
+  <Ship_Beam_Unpowered_Blueprint.label>ship hull (unpowered) (blueprint)</Ship_Beam_Unpowered_Blueprint.label>
+  <Ship_Beam_Unpowered_Frame.label>ship hull (unpowered) (building)</Ship_Beam_Unpowered_Frame.label>
+  <Ship_Beam_Unpowered_Frame.description>The outer structural elements of a ship's hull. Does not include conduits for power or coolant.</Ship_Beam_Unpowered_Frame.description>
+  <Ship_Corner_OneOne_Blueprint.label>hull corner (1x1) (blueprint)</Ship_Corner_OneOne_Blueprint.label>
+  <Ship_Corner_OneOne_Frame.label>hull corner (1x1) (building)</Ship_Corner_OneOne_Frame.label>
+  <Ship_Corner_OneOne_Frame.description>Angled armor for a ship's outer hull.</Ship_Corner_OneOne_Frame.description>
+  <Ship_Corner_OneOneFlip_Blueprint.label>hull corner (1x1) flip (blueprint)</Ship_Corner_OneOneFlip_Blueprint.label>
+  <Ship_Corner_OneOneFlip_Frame.label>hull corner (1x1) flip (building)</Ship_Corner_OneOneFlip_Frame.label>
+  <Ship_Corner_OneOneFlip_Frame.description>Angled armor for a ship's outer hull.</Ship_Corner_OneOneFlip_Frame.description>
+  <Ship_Corner_OneTwo_Blueprint.label>hull corner (1x2) (blueprint)</Ship_Corner_OneTwo_Blueprint.label>
+  <Ship_Corner_OneTwo_Frame.label>hull corner (1x2) (building)</Ship_Corner_OneTwo_Frame.label>
+  <Ship_Corner_OneTwo_Frame.description>Angled armor for a ship's outer hull.</Ship_Corner_OneTwo_Frame.description>
+  <Ship_Corner_OneTwoFlip_Blueprint.label>hull corner (1x2) flip (blueprint)</Ship_Corner_OneTwoFlip_Blueprint.label>
+  <Ship_Corner_OneTwoFlip_Frame.label>hull corner (1x2) flip (building)</Ship_Corner_OneTwoFlip_Frame.label>
+  <Ship_Corner_OneTwoFlip_Frame.description>Angled armor for a ship's outer hull.</Ship_Corner_OneTwoFlip_Frame.description>
+  <Ship_Corner_OneThree_Blueprint.label>hull corner (1x3) (blueprint)</Ship_Corner_OneThree_Blueprint.label>
+  <Ship_Corner_OneThree_Frame.label>hull corner (1x3) (building)</Ship_Corner_OneThree_Frame.label>
+  <Ship_Corner_OneThree_Frame.description>Angled armor for a ship's outer hull.</Ship_Corner_OneThree_Frame.description>
+  <Ship_Corner_OneThreeFlip_Blueprint.label>hull corner (1x3) flip (blueprint)</Ship_Corner_OneThreeFlip_Blueprint.label>
+  <Ship_Corner_OneThreeFlip_Frame.label>hull corner (1x3) flip (building)</Ship_Corner_OneThreeFlip_Frame.label>
+  <Ship_Corner_OneThreeFlip_Frame.description>Angled armor for a ship's outer hull.</Ship_Corner_OneThreeFlip_Frame.description>
+  <ShipInside_SolarGenerator_Blueprint.label>solar generator (blueprint)</ShipInside_SolarGenerator_Blueprint.label>
+  <ShipInside_SolarGenerator_Frame.label>solar generator (building)</ShipInside_SolarGenerator_Frame.label>
+  <ShipInside_SolarGenerator_Frame.description>Produces electricity from sunlight. Does not work in the dark or under artificial light.</ShipInside_SolarGenerator_Frame.description>
+  <ShipAirlockBeam_Blueprint.label>docking clamp (blueprint)</ShipAirlockBeam_Blueprint.label>
+  <ShipAirlockBeam_Frame.label>docking clamp (building)</ShipAirlockBeam_Frame.label>
+  <ShipAirlockBeam_Frame.description>One half of a system for attaching spacecraft. Place two of these directly adjacent to a vacuum-facing airlock, and that airlock will gain the ability to extend a 3x3 docking tube. No special equipment is necessary on the other end; simply line the tube up with the other ship's airlock.\n\nSpacecraft connected by the docking tube are treated as one unit for purposes of interplanetary travel, but the tube is not rated for atmospheric re-entry and ships will automatically decouple before landing.</ShipAirlockBeam_Frame.description>
+  <Ship_Engine_Small_Blueprint.label>small rocket engine (blueprint)</Ship_Engine_Small_Blueprint.label>
+  <Ship_Engine_Small_Frame.label>small rocket engine (building)</Ship_Engine_Small_Frame.label>
+  <Ship_Engine_Small_Frame.description>A chemfuel-powered engine capable of launching a ship into orbit. Not suitable for interplanetary travel.\n\nThrust: 500\nFuel use: 1 chemfuel/s\nMax takeoff strength: 750</Ship_Engine_Small_Frame.description>
+  <Ship_Engine_Large_Blueprint.label>nuclear engine (blueprint)</Ship_Engine_Large_Blueprint.label>
+  <Ship_Engine_Large_Frame.label>nuclear engine (building)</Ship_Engine_Large_Frame.label>
+  <Ship_Engine_Large_Frame.description>A nuclear-powered engine capable of launching a ship into orbit at. Will cause pollution. Not suitable for interplanetary travel.\n\nThrust: 3000\nFuel use: 3 fuel pods/s\nMax takeoff strength: 4000</Ship_Engine_Large_Frame.description>
+  <Ship_Thruster_Blueprint.label>RCS thruster (blueprint)</Ship_Thruster_Blueprint.label>
+  <Ship_Thruster_Frame.label>RCS thruster (building)</Ship_Thruster_Frame.label>
+  <Ship_Thruster_Frame.description>A small thruster that is required to reposition ships. One is required for every 2000 weight.</Ship_Thruster_Frame.description>
+  <Ship_Engine_Interplanetary_Blueprint.label>Johnson-Tanaka drive (blueprint)</Ship_Engine_Interplanetary_Blueprint.label>
+  <Ship_Engine_Interplanetary_Frame.label>Johnson-Tanaka drive (building)</Ship_Engine_Interplanetary_Frame.label>
+  <Ship_Engine_Interplanetary_Frame.description>An advanced reactionless engine capable of interplanetary and interstellar travel.\n\nCannot be used inside a planets' athmopshere.\n\nThrust: 500</Ship_Engine_Interplanetary_Frame.description>
+  <Ship_Engine_Interplanetary_Large_Blueprint.label>large Johnson-Tanaka drive (blueprint)</Ship_Engine_Interplanetary_Large_Blueprint.label>
+  <Ship_Engine_Interplanetary_Large_Frame.label>large Johnson-Tanaka drive (building)</Ship_Engine_Interplanetary_Large_Frame.label>
+  <Ship_Engine_Interplanetary_Large_Frame.description>An advanced reactionless engine capable of interplanetary and interstellar travel.\n\nCannot be used inside a planets' athmopshere. This larger version usually found on big warships using two manifolds in a more efficient configuration.\n\nThrust: 1500</Ship_Engine_Interplanetary_Large_Frame.description>
+  <ShipPilotSeatMini_Blueprint.label>pilot console (blueprint)</ShipPilotSeatMini_Blueprint.label>
+  <ShipPilotSeatMini_Frame.label>pilot console (building)</ShipPilotSeatMini_Frame.label>
+  <ShipPilotSeatMini_Frame.description>Allows colonists to pilot a starship.</ShipPilotSeatMini_Frame.description>
+  <ShipConsoleTactical_Blueprint.label>tactical console (blueprint)</ShipConsoleTactical_Blueprint.label>
+  <ShipConsoleTactical_Frame.label>tactical console (building)</ShipConsoleTactical_Frame.label>
+  <ShipConsoleTactical_Frame.description>Provides weapon selection and targeting options. Increases weapon accuracy.</ShipConsoleTactical_Frame.description>
+  <ShipConsoleScience_Blueprint.label>science console (blueprint)</ShipConsoleScience_Blueprint.label>
+  <ShipConsoleScience_Frame.label>science console (building)</ShipConsoleScience_Frame.label>
+  <ShipConsoleScience_Frame.description>Allows colonists to scan for objects of interest, observe sites from orbit and scan enemy ship interiors in combat.</ShipConsoleScience_Frame.description>
+  <Ship_SensorClusterAdv_Blueprint.label>advanced sensors (blueprint)</Ship_SensorClusterAdv_Blueprint.label>
+  <Ship_SensorClusterAdv_Frame.label>advanced sensors (building)</Ship_SensorClusterAdv_Frame.label>
+  <Ship_SensorClusterAdv_Frame.description>Advanced ship sensors. Automatically scans for nearby sites of interest. Capable of scanning the interiors of enemy ships.</Ship_SensorClusterAdv_Frame.description>
+  <Ship_LifeSupport_Blueprint.label>Life Support System (blueprint)</Ship_LifeSupport_Blueprint.label>
+  <Ship_LifeSupport_Frame.label>Life Support System (building)</Ship_LifeSupport_Frame.label>
+  <Ship_LifeSupport_Frame.description>Recycles oxygen in all fully-enclosed ship rooms. Required to keep non-cryptosleeping colonists and animals alive.</Ship_LifeSupport_Frame.description>
+  <Ship_LifeSupport_Small_Blueprint.label>Small Life Support System (blueprint)</Ship_LifeSupport_Small_Blueprint.label>
+  <Ship_LifeSupport_Small_Frame.label>Small Life Support System (building)</Ship_LifeSupport_Small_Frame.label>
+  <Ship_LifeSupport_Small_Frame.description>Recycles oxygen in all fully-enclosed ship rooms. Required to keep non-cryptosleeping colonists and animals alive.\n\n This version sacrifices power efficiency for a more compact design that can fit on small ships.</Ship_LifeSupport_Small_Frame.description>
+  <ShipCapacitorSmall_Blueprint.label>ship capacitor (blueprint)</ShipCapacitorSmall_Blueprint.label>
+  <ShipCapacitorSmall_Blueprint_Install.label>ship capacitor (blueprint)</ShipCapacitorSmall_Blueprint_Install.label>
+  <ShipCapacitorSmall_Frame.label>ship capacitor (building)</ShipCapacitorSmall_Frame.label>
+  <ShipCapacitorSmall_Frame.description>Efficiently stores up to 1,000Wd of energy.</ShipCapacitorSmall_Frame.description>
+  <ShipCapacitor_Blueprint.label>capacitor array (blueprint)</ShipCapacitor_Blueprint.label>
+  <ShipCapacitor_Frame.label>capacitor array (building)</ShipCapacitor_Frame.label>
+  <ShipCapacitor_Frame.description>Efficiently stores up to 10,000Wd of energy.</ShipCapacitor_Frame.description>
+  <Ship_Reactor_Small_Blueprint.label>small fission reactor (blueprint)</Ship_Reactor_Small_Blueprint.label>
+  <Ship_Reactor_Small_Frame.label>small fission reactor (building)</Ship_Reactor_Small_Frame.label>
+  <Ship_Reactor_Small_Frame.description>A compact, self-contained fission reactor. Burns uranium fuel pods. Vents heat into a heatsink network if available, or into the surrounding room if not.\n\nIts base power production of 3,000W can be boosted with several increasingly risky overdrive modes.</Ship_Reactor_Small_Frame.description>
+  <ShipShuttleBay_Blueprint.label>shuttle bay (blueprint)</ShipShuttleBay_Blueprint.label>
+  <ShipShuttleBay_Frame.label>shuttle bay (building)</ShipShuttleBay_Frame.label>
+  <ShipShuttleBay_Frame.description>Provides docking facilities for shuttles. Must be kept clear of obstructions. Place beacons around it to allow Imperial shuttles to land on it.</ShipShuttleBay_Frame.description>
+  <ShipShuttleBayLarge_Blueprint.label>large shuttle bay (blueprint)</ShipShuttleBayLarge_Blueprint.label>
+  <ShipShuttleBayLarge_Frame.label>large shuttle bay (building)</ShipShuttleBayLarge_Frame.label>
+  <ShipShuttleBayLarge_Frame.description>Provides docking facilities for shuttles. This version is large enough to support the superheavy dropship. Must be kept clear of obstructions. Place beacons around it to allow Imperial shuttles to land on it.</ShipShuttleBayLarge_Frame.description>
+  <ShipSalvageBay_Blueprint.label>salvage bay (blueprint)</ShipSalvageBay_Blueprint.label>
+  <ShipSalvageBay_Frame.label>salvage bay (building)</ShipSalvageBay_Frame.label>
+  <ShipSalvageBay_Frame.description>Moves enemy ship wrecks to your map. More bays are required for larger ships. Can also move and get rid of unwanted wrecks.\n\nWeight limit: 5000</ShipSalvageBay_Frame.description>
+  <HullFoamDistributor_Blueprint.label>hullfoam distributor (blueprint)</HullFoamDistributor_Blueprint.label>
+  <HullFoamDistributor_Frame.label>hullfoam distributor (building)</HullFoamDistributor_Frame.label>
+  <HullFoamDistributor_Frame.description>A pumping station for distributing hullfoam throughout a ship. When a portion of the ship's hull is destroyed in combat, this system will automatically patch the hole with hullfoam.</HullFoamDistributor_Frame.description>
+  <ShipCloakingDevice_Blueprint.label>cloaking device (blueprint)</ShipCloakingDevice_Blueprint.label>
+  <ShipCloakingDevice_Frame.label>cloaking device (building)</ShipCloakingDevice_Frame.label>
+  <ShipCloakingDevice_Frame.description>Generates a field which masks heat emissions, hiding your ship from passive scans. This prevents random ship battles from starting, but is not helpful once combat has already begun. It also cannot protect you from the powerful scanners used to find ships with high Notoriety.\n\nWhile the device is active, your ship's radiators will be disabled and heat will accumulate.</ShipCloakingDevice_Frame.description>
+  <SpaceCrib_Blueprint.label>spacer crib (blueprint)</SpaceCrib_Blueprint.label>
+  <SpaceCrib_Blueprint_Install.label>spacer crib (blueprint)</SpaceCrib_Blueprint_Install.label>
+  <SpaceCrib_Frame.label>spacer crib (building)</SpaceCrib_Frame.label>
+  <SpaceCrib_Frame.description>A high-tech bed perfect for a sleepy baby. In the event of life support failure, a protective shell will close around the occupant, recycling oxygen and regulating temperature. It also functions as an escape pod if the ship is critically damaged.\n\nIt is not a cryptosleep casket and cannot keep its occupant alive during interstellar journeys.</SpaceCrib_Frame.description>
+  <CrittersleepCasket_Blueprint.label>crittersleep caskets (8) (blueprint)</CrittersleepCasket_Blueprint.label>
+  <CrittersleepCasket_Frame.label>crittersleep caskets (8) (building)</CrittersleepCasket_Frame.label>
+  <CrittersleepCasket_Frame.description>An array of self-powered sarcophagi capable of keeping up to eight small animals in stasis. Animals should be medically anesthetized before being placed into cryptosleep.</CrittersleepCasket_Frame.description>
+  <CrittersleepCasketLarge_Blueprint.label>crittersleep caskets (32) (blueprint)</CrittersleepCasketLarge_Blueprint.label>
+  <CrittersleepCasketLarge_Frame.label>crittersleep caskets (32) (building)</CrittersleepCasketLarge_Frame.label>
+  <CrittersleepCasketLarge_Frame.description>A large array of self-powered sarcophagi capable of keeping up to thirty-two small animals in stasis. Animals should be medically anesthetized before being placed into cryptosleep.</CrittersleepCasketLarge_Frame.description>
+  <Cryptonest_Blueprint.label>cryptonest (blueprint)</Cryptonest_Blueprint.label>
+  <Cryptonest_Frame.label>cryptonest (building)</Cryptonest_Frame.label>
+  <Cryptonest_Frame.description>A self-powered sarcophagus capable of keeping up to sixteen eggs in stasis.</Cryptonest_Frame.description>
+  <Ship_AvatarCasket_Blueprint.label>afterlife casket (blueprint)</Ship_AvatarCasket_Blueprint.label>
+  <Ship_AvatarCasket_Blueprint_Install.label>afterlife casket (blueprint)</Ship_AvatarCasket_Blueprint_Install.label>
+  <Ship_AvatarCasket_Frame.label>afterlife casket (building)</Ship_AvatarCasket_Frame.label>
+  <Ship_AvatarCasket_Frame.description>A tank of advanced mechanites capable of dismantling a deceased human body and constructing a formgel swarm which mimics the subject's original biological functions.\nThe subject's consciousness is transferred with perfect fidelity to an artificial neuro-psychic substrate which remains in the tank, remotely controlling its formgel via psychic entanglement. An afterlife casket can preserve only a single consciousness at a time.</Ship_AvatarCasket_Frame.description>
+  <ShipBPBomberHeavy_Blueprint_Install.label>ship blueprint (heavy bomber) (blueprint)</ShipBPBomberHeavy_Blueprint_Install.label>
+  <ShipBPCargoFirefly_Blueprint_Install.label>ship blueprint (firefly transport) (blueprint)</ShipBPCargoFirefly_Blueprint_Install.label>
+  <ShipBPCorvette_Blueprint_Install.label>ship blueprint (corvette) (blueprint)</ShipBPCorvette_Blueprint_Install.label>
+  <ShipBPCorvetteGunship_Blueprint_Install.label>ship blueprint (corvette gunship) (blueprint)</ShipBPCorvetteGunship_Blueprint_Install.label>
+  <ShipBPCorvetteTorp_Blueprint_Install.label>ship blueprint (torpedo corvette) (blueprint)</ShipBPCorvetteTorp_Blueprint_Install.label>
+  <ShipBPCorvetteWinged_Blueprint_Install.label>ship blueprint (corvette) (blueprint)</ShipBPCorvetteWinged_Blueprint_Install.label>
+  <ShipBPFrigateArcher_Blueprint_Install.label>ship blueprint (archer frigate) (blueprint)</ShipBPFrigateArcher_Blueprint_Install.label>
+  <ShipBPFrigateWinged_Blueprint_Install.label>ship blueprint (frigate) (blueprint)</ShipBPFrigateWinged_Blueprint_Install.label>
+  <ShipBPTachinante_Blueprint_Install.label>ship blueprint (ancient martian corvette) (blueprint)</ShipBPTachinante_Blueprint_Install.label>
+  <ShipBPTransportSmall_Blueprint_Install.label>ship blueprint (small transport) (blueprint)</ShipBPTransportSmall_Blueprint_Install.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PersonalShuttle.label>私人穿梭机</PersonalShuttle.label>
+  <PersonalShuttle.description>结构紧凑的私人穿梭机。往返飞行需要消耗化合燃料。可用于运输、奇袭或者增援战场。\n\n【载重量】：150kg</PersonalShuttle.description>
+  <CargoShuttle.label>货运穿梭机</CargoShuttle.label>
+  <CargoShuttle.description>载重量比私人穿梭机更多的货运穿梭机。往返飞行需要消耗铀燃料罐。可用于运输、奇袭或者增援战场。\n\n【载重量】：1000kg</CargoShuttle.description>
+  <HeavyShuttle.label>重型货运穿梭机</HeavyShuttle.label>
+  <HeavyShuttle.description>载重量比货运穿梭机更多的重型货运穿梭机。往返飞行需要消耗铀燃料罐。可用于运输、奇袭或者增援战场。\n\n【载重量】：2000kg</HeavyShuttle.description>
+  <DropshipShuttle.label>超重型货运穿梭机</DropshipShuttle.label>
+  <DropshipShuttle.description>载重量比重型货运穿梭机更多的超重型货运穿梭机。往返飞行需要消耗铀燃料罐。可用于运输、奇袭或者增援战场。这种体积惊人的货运穿梭机只能停靠在大型星港上。\n\n【载重量】：4000kg</DropshipShuttle.description>
+  <PersonalShuttle_Blueprint.label>personal shuttle (blueprint)</PersonalShuttle_Blueprint.label>
+  <PersonalShuttle_Blueprint_Install.label>personal shuttle (blueprint)</PersonalShuttle_Blueprint_Install.label>
+  <PersonalShuttle_Frame.label>personal shuttle (building)</PersonalShuttle_Frame.label>
+  <PersonalShuttle_Frame.description>结构紧凑的私人穿梭机。往返飞行需要消耗化合燃料。可用于运输、奇袭或者增援战场。\n\n【载重量】：150kg</PersonalShuttle_Frame.description>
+  <CargoShuttle_Blueprint.label>cargo shuttle (blueprint)</CargoShuttle_Blueprint.label>
+  <CargoShuttle_Blueprint_Install.label>cargo shuttle (blueprint)</CargoShuttle_Blueprint_Install.label>
+  <CargoShuttle_Frame.label>cargo shuttle (building)</CargoShuttle_Frame.label>
+  <CargoShuttle_Frame.description>载重量比私人穿梭机更多的货运穿梭机。往返飞行需要消耗铀燃料罐。可用于运输、奇袭或者增援战场。\n\n【载重量】：1000kg</CargoShuttle_Frame.description>
+  <HeavyShuttle_Blueprint.label>heavy cargo shuttle (blueprint)</HeavyShuttle_Blueprint.label>
+  <HeavyShuttle_Blueprint_Install.label>heavy cargo shuttle (blueprint)</HeavyShuttle_Blueprint_Install.label>
+  <HeavyShuttle_Frame.label>heavy cargo shuttle (building)</HeavyShuttle_Frame.label>
+  <HeavyShuttle_Frame.description>载重量比货运穿梭机更多的重型货运穿梭机。往返飞行需要消耗铀燃料罐。可用于运输、奇袭或者增援战场。\n\n【载重量】：2000kg</HeavyShuttle_Frame.description>
+  <DropshipShuttle_Blueprint.label>superheavy dropship (blueprint)</DropshipShuttle_Blueprint.label>
+  <DropshipShuttle_Blueprint_Install.label>superheavy dropship (blueprint)</DropshipShuttle_Blueprint_Install.label>
+  <DropshipShuttle_Frame.label>superheavy dropship (building)</DropshipShuttle_Frame.label>
+  <DropshipShuttle_Frame.description>载重量比重型货运穿梭机更多的超重型货运穿梭机。往返飞行需要消耗铀燃料罐。可用于运输、奇袭或者增援战场。这种体积惊人的货运穿梭机只能停靠在大型星港上。\n\n【载重量】：4000kg</DropshipShuttle_Frame.description>
+</LanguageData>

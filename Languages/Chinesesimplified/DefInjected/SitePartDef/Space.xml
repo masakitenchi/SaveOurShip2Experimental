@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SpaceValuableAsteroids.label>有开采价值的小行星</SpaceValuableAsteroids.label>
+  <SpaceValuableAsteroids.description>含有大量珍惜材料和矿石的小行星。似乎在很久以前就被引力捕获至星球轨道上了，但由于某种未知的原因从未被开采过。</SpaceValuableAsteroids.description>
+  <SpaceHackableSatellite.label>受损的卫星</SpaceHackableSatellite.label>
+  <SpaceHackableSatellite.description>这种古老的卫星似乎和这颗星球的地形起源有关。如果可以将其修复，它们能发挥出很大的作用。</SpaceHackableSatellite.description>
+  <BlackBoxMission.label>飞船船艏</BlackBoxMission.label>
+  <BlackBoxMission.description>一艘远古飞船的船艏。扫描结果显示，其内部似乎仍有生命迹象和有效的能量信号。</BlackBoxMission.description>
+  <SoSMayday.label>坠毁的飞船</SoSMayday.label>
+  <SoSMayday.description>一艘坠毁的飞船。</SoSMayday.description>
+</LanguageData>

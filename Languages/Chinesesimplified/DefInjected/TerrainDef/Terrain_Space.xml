@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EmptySpace.label>真空</EmptySpace.label>
+  <FakeFloorInsideShip.label>飞船</FakeFloorInsideShip.label>
+  <FakeFloorInsideShipMech.label>机械族飞船</FakeFloorInsideShipMech.label>
+  <FakeFloorInsideShipArchotech.label>超凡飞船</FakeFloorInsideShipArchotech.label>
+  <ShipWreckageTerrain.label>残骸</ShipWreckageTerrain.label>
+  <FakeFloorInsideShipFoam.label>应急泡沫船体</FakeFloorInsideShipFoam.label>
+  <SoilShip.label>人造土壤基质</SoilShip.label>
+  <SoilShip.description>掺有催化剂和微生物的合成土壤，理论上甚至在飞船上也能自我维持。</SoilShip.description>
+  <SoilShip.tools.0.label>土</SoilShip.tools.0.label>
+</LanguageData>

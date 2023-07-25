@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CommandToggleHover>开关盘旋模式</CommandToggleHover>
+  <CommandHoverOnDesc>激活这艘穿梭机的盘旋模式，将允许它加入远行队。</CommandHoverOnDesc>
+  <CommandHoverOffDesc>取消这艘穿梭机的盘旋模式，将允许它被装载或发射。</CommandHoverOffDesc>
+  <MessageShuttleMustBeFullyFueled>只有填满燃料的穿梭机才能从星球轨道发射或飞往星球轨道。</MessageShuttleMustBeFullyFueled>
+  <NeedOpenShuttleBay>穿梭机找不到畅通无阻的星港。</NeedOpenShuttleBay>
+  <MessageShuttleOnlyPods>Enemy ship has active engines. Use personal shuttles to directly assault the enemy ship or disable its engines.</MessageShuttleOnlyPods>
+  <MessageShuttleNeedsMoreFuel>你的穿梭机必须拥有至少{0}%燃料才能抵达这个事件点。为了避免无法返程的尴尬情况发生，请记得备好双倍的燃料！</MessageShuttleNeedsMoreFuel>
+  <MustLaunchFromOrbit>若想抵达这个事件点，穿梭机只能从星球轨道上发射。</MustLaunchFromOrbit>
+  <ShuttleChangeColor>更改颜色</ShuttleChangeColor>
+  <ShuttleChangeColorDesc>更改这艘穿梭机的颜色。</ShuttleChangeColorDesc>
+  <ShuttleCommandLaunchGroup>发射至敌舰</ShuttleCommandLaunchGroup>
+  <ShuttleCommandLaunchGroupDesc>起飞</ShuttleCommandLaunchGroupDesc>
+  <ShipInsideMoveWestFar>向西行驶（长距离）</ShipInsideMoveWestFar>
+  <ShipInsideMoveWestFarDesc>把飞船往西开。</ShipInsideMoveWestFarDesc>
+  <ShipInsideMoveWest>向西行驶（短距离）</ShipInsideMoveWest>
+  <ShipInsideMoveWestDesc>把飞船往西开。</ShipInsideMoveWestDesc>
+  <ShipInsideMoveEast>向东行驶（长距离）</ShipInsideMoveEast>
+  <ShipInsideMoveEastDesc>把飞船往东开。</ShipInsideMoveEastDesc>
+  <ShipInsideMoveEastFar>向东行驶（短距离）</ShipInsideMoveEastFar>
+  <ShipInsideMoveEastFarDesc>把飞船往东开。</ShipInsideMoveEastFarDesc>
+  <ShipInsideMoveComplete>轨道定位完成</ShipInsideMoveComplete>
+  <ShipInsideAbandonHome>遗弃飞船</ShipInsideAbandonHome>
+  <ShipInsideAbandonHomeDesc>遗弃你的飞船，所有殖民者都将死亡。</ShipInsideAbandonHomeDesc>
+  <ShipInsideLeaveGraveyard>丢弃残骸</ShipInsideLeaveGraveyard>
+  <ShipInsideLeaveGraveyardDesc>让这块残骸迎接自己的命运。</ShipInsideLeaveGraveyardDesc>
+  <ShipInsideToggleScanShips>扫描飞船</ShipInsideToggleScanShips>
+  <ShipInsideToggleScanShipsDesc>切换是否扫描其他飞船。</ShipInsideToggleScanShipsDesc>
+  <ShipInsideToggleScanSites>扫描空间站</ShipInsideToggleScanSites>
+  <ShipInsideToggleScanSitesDesc>切换是否扫描其他空间站。</ShipInsideToggleScanSitesDesc>
+  <ShipInsideToggleShields>开关护盾</ShipInsideToggleShields>
+  <ShipInsideToggleShieldsDesc>启动或关闭飞船上的护盾发生器。</ShipInsideToggleShieldsDesc>
+  <ShipInsideToggleCloak>开关隐形装置</ShipInsideToggleCloak>
+  <ShipInsideToggleCloakDesc>启动或关闭飞船上的隐形装置。</ShipInsideToggleCloakDesc>
+  <ShipInsideShipInfo>显示飞船信息</ShipInsideShipInfo>
+  <ShipInsideShipInfoDesc>显示飞船属性和星际航行的准备情况。</ShipInsideShipInfoDesc>
+  <ShipInsideRename>飞船重命名</ShipInsideRename>
+  <ShipInsideRenameDesc>给这艘飞船起个响亮的新名字。</ShipInsideRenameDesc>
+  <ShipInsideMove>移动飞船</ShipInsideMove>
+  <ShipInsideMoveDesc>将飞船移动到地图上的其他位置。</ShipInsideMoveDesc>
+  <ShipInsideMoveFlip>翻转舰船</ShipInsideMoveFlip>
+  <ShipInsideMoveFlipDesc>将飞船水平翻转。</ShipInsideMoveFlipDesc>
+  <ShipInsideMoveRot>旋转飞船</ShipInsideMoveRot>
+  <ShipInsideMoveRotNo>飞船上有不可旋转的建筑！</ShipInsideMoveRotNo>
+  <ShipInsideMoveRotDesc>逆时针旋转飞船</ShipInsideMoveRotDesc>
+  <ShipInsideLand>降落飞船</ShipInsideLand>
+  <ShipInsideLandDesc>将飞船降落至</ShipInsideLandDesc>
+  <ShipMoveDesc>取消选择以确认位置</ShipMoveDesc>
+  <ShipCombatEscape>逃离战斗</ShipCombatEscape>
+  <ShipCombatEscapeDesc>从飞船交战中逃离出来，并放弃所有仍在敌舰处滞留的殖民者。</ShipCombatEscapeDesc>
+  <ShipCombatRetreat>撤退</ShipCombatRetreat>
+  <ShipCombatRetreatDesc>尝试逃离敌舰。</ShipCombatRetreatDesc>
+  <ShipCombatStop>停止</ShipCombatStop>
+  <ShipCombatStopDesc>切断飞船推进器的电力供应。</ShipCombatStopDesc>
+  <ShipCombatMaintain>保持距离</ShipCombatMaintain>
+  <ShipCombatMaintainDesc>与敌舰间保持一定距离。</ShipCombatMaintainDesc>
+  <ShipCombatAdvance>前进</ShipCombatAdvance>
+  <ShipCombatAdvanceDesc>尝试靠近敌舰。</ShipCombatAdvanceDesc>
+  <CommandScuttleShip>放弃飞船</CommandScuttleShip>
+  <CommandScuttleShipDesc>启动自毁系统，摧毁这艘飞船，并杀死所有未处于自动弹射休眠舱内的殖民者。\n\n休眠舱内的殖民者和飞船残骸会降落在星球上的一个随机位置。</CommandScuttleShipDesc>
+  <CommandScuttleShipPods>在有运输仓发射至/自飞船时无法遗弃飞船！</CommandScuttleShipPods>
+  <ShipInsideNoLoadedPods>No loaded crypto pods</ShipInsideNoLoadedPods>
+  <CommandLaunchCryptoNotLoaded>Crypto pod not loaded</CommandLaunchCryptoNotLoaded>
+  <CommandWithdrawShip>撤退</CommandWithdrawShip>
+  <CommandWithdrawShipDesc>让这艘飞船自当前战斗中撤离</CommandWithdrawShipDesc>
+  <CommandWithdrawShipLast>最后一艘船无法撤离战斗</CommandWithdrawShipLast>
+  <ShipInsideSelectWeapons>选取所有舰载武器</ShipInsideSelectWeapons>
+  <ShipInsideSelectWeaponsDesc>选取飞船上搭载的所有炮塔。</ShipInsideSelectWeaponsDesc>
+  <ShipInsideHoldFire>停火</ShipInsideHoldFire>
+  <ShipInsideHoldFireDesc>让所有对舰武器停止射击</ShipInsideHoldFireDesc>
+  <NotAtMaxShipRange>未处于最大射程内</NotAtMaxShipRange>
+  <ShipOnEnemyMap>飞船处于敌人控制的区域内</ShipOnEnemyMap>
+  <ShipInsideToggleDock>开关可扩展对接口</ShipInsideToggleDock>
+  <ShipInsideToggleDockDesc>展开或收回对接口。（最远3格）</ShipInsideToggleDockDesc>
+  <ShipInsideReturnShip>返回轨道</ShipInsideReturnShip>
+  <ShipInsideReturnShipDesc>重新入轨</ShipInsideReturnShipDesc>
+  <ShipInsideCaptureShip>俘获飞船</ShipInsideCaptureShip>
+  <ShipInsideCaptureShipDesc>将这艘飞船移动至你飞船所在的地图</ShipInsideCaptureShipDesc>
+  <ShipLaunchFailPawns>船上没有玩家控制的角色，终止起飞。</ShipLaunchFailPawns>
+  <ShipMoveFailPawns>Player pawn in {0}, ship move aborted.</ShipMoveFailPawns>
+  <ShipMoveWreckCommand>移动残骸</ShipMoveWreckCommand>
+  <ShipMoveWreckCommandDesc>将残骸移动至另一处</ShipMoveWreckCommandDesc>
+  <ShipMoveWreckFlipCommand>翻转残骸</ShipMoveWreckFlipCommand>
+  <ShipMoveWreckFlipCommandDesc>左右翻转并移动残骸</ShipMoveWreckFlipCommandDesc>
+  <ShipMoveWreckRotCommand>旋转残骸</ShipMoveWreckRotCommand>
+  <ShipMoveWreckRotCommandDesc>顺时针旋转并移动残骸</ShipMoveWreckRotCommandDesc>
+  <ShipSalvageCommand>获取残骸</ShipSalvageCommand>
+  <ShipSalvageCommandDesc>从目标舰船处获取残骸</ShipSalvageCommandDesc>
+  <ShipSalvageDisabled>战斗中禁止使用</ShipSalvageDisabled>
+  <ShipSalvageAbandonConfirm>Are you sure you want to discard the target?\nEverything connected to it will burn up in the atmosphere!</ShipSalvageAbandonConfirm>
+  <ShipSalvageBridge>回收港无法移动舰桥完整的飞船。你需要先骇入或摧毁它。</ShipSalvageBridge>
+  <ShipSalvageCount>回收港不足。残骸重量/回收港上限：{0}/{1}</ShipSalvageCount>
+  <ShipClaimWrecksCommand>占据残骸</ShipClaimWrecksCommand>
+  <ShipClaimWrecksCommandDesc>占据当前地图上的所有残骸</ShipClaimWrecksCommandDesc>
+  <ShipClaimWrecksSuccess>占据了 {0} 个建筑！</ShipClaimWrecksSuccess>
+  <ShipClaimWrecksDisabled>有敌对势力！</ShipClaimWrecksDisabled>
+  <ShipRemoveWrecksCommand>移除残骸</ShipRemoveWrecksCommand>
+  <ShipRemoveWrecksCommandDesc>从当前地图上移除目标残骸</ShipRemoveWrecksCommandDesc>
+  <ShipInsideHeatWithPower>使用电力加热</ShipInsideHeatWithPower>
+  <ShipInsideHeatWithPowerDesc>当散热网络系统中没有足够的热量时，使用电力进行加热。</ShipInsideHeatWithPowerDesc>
+  <SoSPurgeHeat>紧急排热</SoSPurgeHeat>
+  <SoSPurgeHeatDesc>将熔融态的银喷射到太空中，以达到快速排出热量的目的。\n\n启用紧急排热时，飞船的护盾发生器将会暂时关闭！</SoSPurgeHeatDesc>
+  <MessageTurretWontFireBecauseNotInShipCombat>警告：非飞船交战状态下，炮塔将不会开火。</MessageTurretWontFireBecauseNotInShipCombat>
+  <CommandExtractShipTorpedo>卸装鱼雷</CommandExtractShipTorpedo>
+  <CommandExtractShipTorpedoDesc>卸下当前装载的鱼雷，以便可以替换装载其他弹药。</CommandExtractShipTorpedoDesc>
+  <CommandShipOptimalRange>使用最佳射程</CommandShipOptimalRange>
+  <CommandShipOptimalRangeDesc>开启时，对舰武器仅会在最佳射程（长条）内射击</CommandShipOptimalRangeDesc>
+  <CommandShipPointDefense>点防御模式</CommandShipPointDefense>
+  <CommandShipPointDefenseDesc>切换至可以拦截鱼雷的点防御模式。</CommandShipPointDefenseDesc>
+  <CommandShipTorpedoAllowedDesc>关闭以停止射击这种鱼雷</CommandShipTorpedoAllowedDesc>
+  <ShipCombatPodDestroyedPlayer>你的穿梭机被敌人的点防御武器击毁了！</ShipCombatPodDestroyedPlayer>
+  <ShipCombatPodDestroyedEnemy>敌人的穿梭机被你的点防御武器击毁了！</ShipCombatPodDestroyedEnemy>
+  <ShipInsidescanRegion>扫描</ShipInsidescanRegion>
+  <ShipInsidescanRegionDesc>揭示星球表面的一个区域。</ShipInsidescanRegionDesc>
+  <SoSScanMap>观察区域</SoSScanMap>
+  <SoSScanMapDesc>从轨道上观察指定区域的地图。</SoSScanMapDesc>
+  <SoSStopScanMap>停止观察</SoSStopScanMap>
+  <SoSStopScanMapDesc>停止观察{0}。这将导致该地图消失，除非有殖民者在该地图。</SoSStopScanMapDesc>
+  <ShipInsideRadius>当前半径/设置：</ShipInsideRadius>
+  <CommandResetShieldRadius>重置护盾半径</CommandResetShieldRadius>
+  <CommandResetShieldRadiusDesc>将护盾半径重置为默认的40。</CommandResetShieldRadiusDesc>
+  <CommandDecShieldRadius>缩小护盾半径。</CommandDecShieldRadius>
+  <CommandIncShieldRadius>扩大护盾半径。</CommandIncShieldRadius>
+  <ShipReactorOverdrive>过载模式（I档）</ShipReactorOverdrive>
+  <ShipReactorOverdriveDesc>以增加热量产出和燃料消耗量为代价，提高反应堆的运转功率。</ShipReactorOverdriveDesc>
+  <ShipReactorOverdrive2>过载模式（II档）</ShipReactorOverdrive2>
+  <ShipReactorOverdrive2Desc>以增加热量产出和燃料消耗量为代价，大幅提高提升反应堆功率。反应堆会因此变得较为不稳定，且可能会引发火灾和辐射泄漏。</ShipReactorOverdrive2Desc>
+  <ShipReactorOverdrive3>过载模式（III档）</ShipReactorOverdrive3>
+  <ShipReactorOverdrive3Desc>以增加热量产出和燃料消耗量为代价，极大幅提高反应堆功率。反应堆会因此变得十分不稳定，且非常可能会引发火灾和辐射泄漏。</ShipReactorOverdrive3Desc>
+  <SelectEverything>选取所有物品</SelectEverything>
+  <SelectEverythingDesc>选取所有物品。</SelectEverythingDesc>
+  <ShipBlueprintDisabled>需要研究「星际航行基础」科技</ShipBlueprintDisabled>
+  <ShipBlueprintFailed>Blueprint placement failed! Area must support heavy construction and be clear of non-owned objects and mountain roof.</ShipBlueprintFailed>
+  <ShipBlueprintPlace1>Plating blueprints</ShipBlueprintPlace1>
+  <ShipBlueprintPlace1Desc>Place ship plating blueprints. Construct this before placing hull blueprints.</ShipBlueprintPlace1Desc>
+  <ShipBlueprintPlace2>Hull blueprints</ShipBlueprintPlace2>
+  <ShipBlueprintPlace2Desc>Place ship hull blueprints. Construct this before placing interior blueprints.</ShipBlueprintPlace2Desc>
+  <ShipBlueprintPlace3>Place interior blueprints</ShipBlueprintPlace3>
+  <ShipBlueprintPlace3Desc>Place ship interior blueprints.</ShipBlueprintPlace3Desc>
+  <SoSSpawnHologram>生成全息投影</SoSSpawnHologram>
+  <SoSSpawnHologramDesc>投射一个由人类意识、人格核心或超凡孢子控制的全息投影。</SoSSpawnHologramDesc>
+  <SoSDespawnHologram>关闭全息投影</SoSDespawnHologram>
+  <SoSDespawnHologramDesc>停止生成全息投影。</SoSDespawnHologramDesc>
+  <ShipInsideRenameAI>AI重命名</ShipInsideRenameAI>
+  <ShipInsideRenameAIDesc>给这个AI起个响亮的新名字。</ShipInsideRenameAIDesc>
+  <ShipInsideInstallConsciousness>安装人类意识</ShipInsideInstallConsciousness>
+  <ShipInsideInstallConsciousnessThisOne>安装人类意识：{0}</ShipInsideInstallConsciousnessThisOne>
+  <ShipInsideInstallConsciousnessDesc>向此装置内安装一个人类意识。</ShipInsideInstallConsciousnessDesc>
+  <ShipInsideInstallCore>安装人格核心</ShipInsideInstallCore>
+  <ShipInsideInstallCoreDesc>向此装置内安装一个人格核心。</ShipInsideInstallCoreDesc>
+  <ShipInsideNoBrains>缺少可用的意识。</ShipInsideNoBrains>
+  <ShipInsideNoCores>缺少可用的人格核心。</ShipInsideNoCores>
+  <SoSSpawnHologramDelay>全息投影正在重构。剩余时间：{0}</SoSSpawnHologramDelay>
+  <SoSHologramColor>更改全息投影颜色</SoSHologramColor>
+  <SoSHologramColorDesc>为这个意识控制的全息投影更改颜色。</SoSHologramColorDesc>
+  <SoSHologramDrug>模拟成瘾品</SoSHologramDrug>
+  <SoSHologramDrugDesc>为全息投影模拟成瘾品带来的效果。</SoSHologramDrugDesc>
+  <SoSHologramDrugTaken>{1}对{0}的影响。</SoSHologramDrugTaken>
+  <SoSHologramRelay>全息中继</SoSHologramRelay>
+  <SoSHologramRelayDesc>将身处其他地方的全息投影暂时投射至当前地图上。</SoSHologramRelayDesc>
+  <SoSHologramRelayStop>停止全息中继</SoSHologramRelayStop>
+  <SoSHologramRelayStopDesc>将{0}送回到其之前所处的地方。</SoSHologramRelayStopDesc>
+  <SoSHologramApparel>更改全息投影衣物</SoSHologramApparel>
+  <SoSHologramApparelDesc>为这个意识控制的全息投影模拟衣物。</SoSHologramApparelDesc>
+  <ShipInsideEquipRanged>远程模式</ShipInsideEquipRanged>
+  <ShipInsideEquipRangedDesc>切换至使用全息激光攻击的远程模式。</ShipInsideEquipRangedDesc>
+  <ShipInsideEquipMelee>近战模式</ShipInsideEquipMelee>
+  <ShipInsideEquipMeleeDesc>切换至使用全息剑攻击的近战模式。</ShipInsideEquipMeleeDesc>
+  <ShipInsideResurrectBrain>复活</ShipInsideResurrectBrain>
+  <ShipInsideResurrectBrainDesc>使用复活机械液来为此装置内的人类意识塑造新的肉体。</ShipInsideResurrectBrainDesc>
+  <ArchotechNotEnoughFieldStrength>心灵立场强度不足</ArchotechNotEnoughFieldStrength>
+  <ArchotechCommandSoothe>心灵抚慰</ArchotechCommandSoothe>
+  <ArchotechCommandSootheDesc>在当前地图释放心灵抚慰波（消耗2点心灵立场强度）</ArchotechCommandSootheDesc>
+  <ArchotechCommandShock>心灵冲击</ArchotechCommandShock>
+  <ArchotechCommandShockDesc>在当前地图释放心灵冲击波（消耗0.5点心灵立场强度）</ArchotechCommandShockDesc>
+  <ArchotechCommandInsanity>心灵错乱</ArchotechCommandInsanity>
+  <ArchotechCommandInsanityDesc>在当前地图释放心灵错乱波（消耗1点心灵立场强度）</ArchotechCommandInsanityDesc>
+  <ArchotechCommandPsylink>启灵神经</ArchotechCommandPsylink>
+  <ArchotechCommandPsylinkDesc>提升一个殖民者的启灵等级（消耗10点心灵立场强度）</ArchotechCommandPsylinkDesc>
+  <CraftArchocat>孵化超凡猫</CraftArchocat>
+  <CraftArchomutt>孵化超凡狗</CraftArchomutt>
+  <CraftArchostrich>孵化超凡鸟</CraftArchostrich>
+  <CraftArchoffalo>孵化超凡雪牛</CraftArchoffalo>
+  <CraftArchospider>孵化超凡巨型蜘蛛</CraftArchospider>
+  <CraftArcholope>孵化超凡爆炸羊</CraftArcholope>
+  <CraftArchotortoise>孵化超凡龟</CraftArchotortoise>
+  <CraftArchopanda>孵化超凡熊猫</CraftArchopanda>
+  <CraftArchojerboa>孵化超凡跳鼠</CraftArchojerboa>
+  <CraftArchothrumbo>孵化超凡敲击兽</CraftArchothrumbo>
+  <ArchotechOptimizeMatter>飞船结构升级</ArchotechOptimizeMatter>
+  <ArchotechOptimizeMatterDesc>将作用范围内的船体和船体护板逐渐升级至超凡版本。作用范围会随着时间的流逝而不断扩大。对热量贮存器、护盾发生器等大型结构无效。</ArchotechOptimizeMatterDesc>
+  <ArchotechDemandGift>索求恩惠</ArchotechDemandGift>
+  <ArchotechDemandGiftDesc>立即向超凡孢子索求一份恩惠。此举将给超凡孢子一个可以叠加的-40的心情减益！</ArchotechDemandGiftDesc>
+  <ArchotechNoGiftsUnlocked>缺少通过研究项目解锁的恩惠</ArchotechNoGiftsUnlocked>
+  <ArchotechSporeEvolve>开始超凡智能进化</ArchotechSporeEvolve>
+  <ArchotechSporeEvolveDesc>将超凡孢子进化为真正的超凡智能，为这个世界开启崭新的时代。\n\n此举将会使游戏迎来结局！</ArchotechSporeEvolveDesc>
+  <SalvageShip>打捞敌舰</SalvageShip>
+  <SalvageShipCancel>抛弃敌舰</SalvageShipCancel>
+  <SalvageShipCancelDesc>抛弃敌舰，不进行打捞。如果你的殖民者还在敌舰处滞留，请不要这么做。</SalvageShipCancelDesc>
+  <SoSEmergencyJTFar>紧急推进（长距离）</SoSEmergencyJTFar>
+  <SoSEmergencyJTFarDesc>启用约翰逊-田中驱动器的紧急模式，立即向前推进一大段距离。此举将消耗总共{0}Wd的电力，且需要对驱动器进行修理维护。</SoSEmergencyJTFarDesc>
+  <SoSEmergencyJTNear>紧急推进（短距离）</SoSEmergencyJTNear>
+  <SoSEmergencyJTNearDesc>启用约翰逊-田中驱动器的紧急模式，立即向前推进一小段距离。此举将消耗总共{0}Wd的电力，且需要对驱动器进行修理维护。</SoSEmergencyJTNearDesc>
+  <ArcholifeChangeSkin>改变外观</ArcholifeChangeSkin>
+  <ArcholifeChangeSkinDesc>This creature seems able to change shape at will, but only between a few discrete forms.</ArcholifeChangeSkinDesc>
+  <ShipWallLight>Toggle lighting</ShipWallLight>
+  <ShipWallLightDesc>Toggle this ship part's integrated lighting system</ShipWallLightDesc>
+  <ShipWallLightRotate>Rotate lighting</ShipWallLightRotate>
+  <ShipWallLightRotateDesc>Rotate this ship part's integrated lighting system</ShipWallLightRotateDesc>
+  <ShipWallLightSun>太阳灯模式</ShipWallLightSun>
+  <ShipWallLightSunDesc>开启时增加耗电量以发出可供植物生长的光</ShipWallLightSunDesc>
+  <ShipWallLightColor>Lighting color</ShipWallLightColor>
+  <ShipWallLightColorDesc>Select a color for this ship part's lighting</ShipWallLightColorDesc>
+  <ShipWallLightDisco>迪厅模式</ShipWallLightDisco>
+  <ShipWallLightDiscoDesc>让这盏灯的颜色循环变化</ShipWallLightDiscoDesc>
+  <ShipWallLightAdjacency>No adjacent rooms</ShipWallLightAdjacency>
+  <ShipHeatPurge>开启主动排热</ShipHeatPurge>
+  <ShipHeatPurgeDesc>主动排热开启后，关闭当前散热系统中的护盾、武器和匿踪装置以换取五倍的排热速度。\n\n这会同时排放掉一部分的冷却剂，降低散热系统的最大热容量。一经开启便无法关闭。降低的最大热容会在战斗外缓慢恢复。</ShipHeatPurgeDesc>
+  <ShipHeatPurgeVenting>正在主动排热</ShipHeatPurgeVenting>
+  <ShipHeatPurgeNotEnough>热量不足，无法主动散热</ShipHeatPurgeNotEnough>
+  <ShipInsideMoveFailRCS>Not enough RCS thrusters to move ship, required {0}</ShipInsideMoveFailRCS>
+  <ShipInsideMoveFailFuel>Not enough fuel to move ship, required {0} fuel</ShipInsideMoveFailFuel>
+  <ShipInsideMoveFailPilot>Ship requires a pilot to move.</ShipInsideMoveFailPilot>
+  <ShipInsideToggleEngines>Engage ship engines</ShipInsideToggleEngines>
+  <ShipInsideToggleEnginesDesc>Engage ship engines to clear hazards.</ShipInsideToggleEnginesDesc>
+</LanguageData>

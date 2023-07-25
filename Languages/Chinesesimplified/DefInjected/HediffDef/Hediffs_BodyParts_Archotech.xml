@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SoSArchotechEar.label>超凡仿生耳</SoSArchotechEar.label>
+  <SoSArchotechEar.description>一只已安装的超凡仿生耳。</SoSArchotechEar.description>
+  <SoSArchotechEar.labelNoun>超凡仿生耳</SoSArchotechEar.labelNoun>
+  <SoSArchotechNose.label>超凡仿生鼻</SoSArchotechNose.label>
+  <SoSArchotechNose.description>一个已安装的超凡仿生鼻。</SoSArchotechNose.description>
+  <SoSArchotechNose.labelNoun>超凡仿生鼻</SoSArchotechNose.labelNoun>
+  <SoSArchotechJaw.label>超凡仿生颌</SoSArchotechJaw.label>
+  <SoSArchotechJaw.description>一个已安装的超凡仿生颌。</SoSArchotechJaw.description>
+  <SoSArchotechJaw.comps.0.tools.0.label>牙</SoSArchotechJaw.comps.0.tools.0.label>
+  <SoSArchotechJaw.labelNoun>超凡仿生颌</SoSArchotechJaw.labelNoun>
+  <SoSArchotechHeart.label>超凡仿生心</SoSArchotechHeart.label>
+  <SoSArchotechHeart.description>一个已安装的超凡仿生心。</SoSArchotechHeart.description>
+  <SoSArchotechHeart.labelNoun>超凡仿生心</SoSArchotechHeart.labelNoun>
+  <SoSArchotechLung.label>超凡仿生肺</SoSArchotechLung.label>
+  <SoSArchotechLung.description>一个已安装的超凡仿生肺。</SoSArchotechLung.description>
+  <SoSArchotechLung.labelNoun>超凡仿生肺</SoSArchotechLung.labelNoun>
+  <SoSArchotechStomach.label>超凡仿生胃</SoSArchotechStomach.label>
+  <SoSArchotechStomach.description>一个已安装的超凡仿生胃。</SoSArchotechStomach.description>
+  <SoSArchotechStomach.labelNoun>超凡仿生胃</SoSArchotechStomach.labelNoun>
+  <SoSArchotechKidney.label>超凡仿生肾</SoSArchotechKidney.label>
+  <SoSArchotechKidney.description>一个已安装的超凡仿生肾。</SoSArchotechKidney.description>
+  <SoSArchotechKidney.labelNoun>超凡仿生肾</SoSArchotechKidney.labelNoun>
+  <SoSArchotechLiver.label>超凡仿生肝</SoSArchotechLiver.label>
+  <SoSArchotechLiver.description>一个已安装的超凡仿生肝。</SoSArchotechLiver.description>
+  <SoSArchotechLiver.labelNoun>超凡仿生肝</SoSArchotechLiver.labelNoun>
+  <SoSArchotechSpine.label>超凡仿生脊椎</SoSArchotechSpine.label>
+  <SoSArchotechSpine.description>一根已安装的超凡仿生脊椎。</SoSArchotechSpine.description>
+  <SoSArchotechSpine.labelNoun>超凡仿生脊椎</SoSArchotechSpine.labelNoun>
+  <SoSArchotechSkin.label>超凡仿生皮肤</SoSArchotechSkin.label>
+  <SoSArchotechSkin.description>已安装的超凡科技皮肤。</SoSArchotechSkin.description>
+  <SoSPsychicPredictor.label>心灵预测装置</SoSPsychicPredictor.label>
+  <SoSPsychicPredictor.description>一个已安装的心灵预测装置。</SoSPsychicPredictor.description>
+  <SoSPsychicPredictor.labelNoun>心灵预测装置</SoSPsychicPredictor.labelNoun>
+  <SoSPsychicManipulator.label>心灵操纵装置</SoSPsychicManipulator.label>
+  <SoSPsychicManipulator.description>一个已安装的心灵操纵装置。</SoSPsychicManipulator.description>
+  <SoSPsychicManipulator.labelNoun>心灵操纵装置</SoSPsychicManipulator.labelNoun>
+</LanguageData>

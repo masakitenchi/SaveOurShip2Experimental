@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <ShipCombatLaserMote.label>Mote</ShipCombatLaserMote.label>
+  <Mote_HeatsinkPurge.label>Mote</Mote_HeatsinkPurge.label>
+  <Mote_BlastMechanite.label>Mote</Mote_BlastMechanite.label>
+
+
+</LanguageData>

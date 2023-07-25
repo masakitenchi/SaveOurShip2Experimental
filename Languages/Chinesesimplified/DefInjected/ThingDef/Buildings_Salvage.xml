@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Ship_Beam_Wrecked.label>船体残骸</Ship_Beam_Wrecked.label>
+  <Ship_Beam_Wrecked.description>用于组成飞船的重要外部结构。看起来已经完全无法修复了。</Ship_Beam_Wrecked.description>
+  <ShipAirlockWrecked.label>受损的气闸</ShipAirlockWrecked.label>
+  <ShipAirlockWrecked.description>已严重受损的飞船气闸，几乎完全失去了原本的功能。</ShipAirlockWrecked.description>
+  <ShipHullTileWrecked.label>船体残骸</ShipHullTileWrecked.label>
+  <ShipHullTileWrecked.description>毫无利用价值的船体残骸。</ShipHullTileWrecked.description>
+  <ShipChunkSalvage.label>高级飞船残骸</ShipChunkSalvage.label>
+  <ShipChunkSalvage.description>内部结构相对完好的高级飞船残骸。看起来还能从中回收少量有用的材料和高级零部件。</ShipChunkSalvage.description>
+  <ShipChunkSalvage_Blueprint_Install.label>ship salvage (blueprint)</ShipChunkSalvage_Blueprint_Install.label>
+  <Space_Satellite_Core.label>卫星系统核心</Space_Satellite_Core.label>
+  <Space_Satellite_Core.description>远古通信网络系统的核心装置。无论修复还是破解都需要相当高的技能等级，而且任何一步出了差错都可能会激活防卫协议。\n\n不过，胜利的果实显然是价值不菲的——这颗卫星可用来执行轨道轰炸、轨道能量束打击或操控天气。\n\n当然，你也可以直接把它拆掉，但这必然会直接激活其中的防卫协议。</Space_Satellite_Core.description>
+  <Ship_DamagedReactor.label>受损的裂变反应堆</Ship_DamagedReactor.label>
+  <Ship_DamagedReactor.description>已严重受损的老旧裂变反应堆。在将其关闭前，它会对附近的任何生物造成严重的辐射疾病。</Ship_DamagedReactor.description>
+  <Ship_LabConsole.label>实验室控制台</Ship_LabConsole.label>
+  <Ship_LabConsole.description>老旧但功能完备的的控制台。智识技能等级高的殖民者或许可以用它来关闭飞船的裂变反应堆。</Ship_LabConsole.description>
+  <Ship_SecurityConsole.label>安保控制台</Ship_SecurityConsole.label>
+  <Ship_SecurityConsole.description>老旧但功能完备的的控制台。智识技能等级高的殖民者可以用它来打开飞船上那些陷入锁定状态的气闸。</Ship_SecurityConsole.description>
+  <BlackBoxAI.label>失控的AI</BlackBoxAI.label>
+  <BlackBoxAI.description>远古飞船上搭载的人格核心。充满敌意，且极富攻击性。只有社交技能等级非常高的殖民者才有希望说服它放弃启动自毁程序，但机会也仅有一次。</BlackBoxAI.description>
+  <JTDriveSalvage.label>远古约翰逊-田中驱动器</JTDriveSalvage.label>
+  <JTDriveSalvage.description>能够将飞船送入太空并且穿过广阔星际空间的高级无工质推进器。虽然在重返大气层时受到了损伤，但各项功能却依旧完好。\n\n安全地启动驱动器进并行逆向工程需要花费很长时间，而因此产生的能量波动也必定会招来袭击者。</JTDriveSalvage.description>
+  <SpaceHive.label>太空虫巢</SpaceHive.label>
+  <SpaceHive.description>一个巨型虫族的巢穴。如果被唤醒，随着时间会不断繁殖出巨型虫族和新巢穴。也会产生珍贵的虫胶。</SpaceHive.description>
+  <DetachedShipPart.label>Detached Ship Part</DetachedShipPart.label>
+  <DetachedShipPart.description>被摧毁的船体的一部分。</DetachedShipPart.description>
+  <Ship_Beam_Wrecked_Fake.label>船体残骸</Ship_Beam_Wrecked_Fake.label>
+  <Ship_Beam_Wrecked_Fake.description>用于组成飞船的重要外部结构。看起来已经完全无法修复了。</Ship_Beam_Wrecked_Fake.description>
+  <ShipHullTileWreckedFake.label>船体残骸</ShipHullTileWreckedFake.label>
+  <ShipHullTileWreckedFake.description>毫无利用价值的船体残骸。</ShipHullTileWreckedFake.description>
+</LanguageData>

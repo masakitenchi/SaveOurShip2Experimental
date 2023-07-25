@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CarryToCryptonest.reportString>正在将动物卵运送至低温休眠巢。</CarryToCryptonest.reportString>
+  <OperateScannerSpace.reportString>正在扫描TargetA。</OperateScannerSpace.reportString>
+  <HackSatellite.reportString>正在骇入TargetA。</HackSatellite.reportString>
+  <RepairSatellite.reportString>正在修理TargetA。</RepairSatellite.reportString>
+  <PersuadeAI.reportString>正在说服TargetA。</PersuadeAI.reportString>
+  <HackBlackBoxConsole.reportString>正在骇入TargetA。</HackBlackBoxConsole.reportString>
+  <LoadTorpedoTube.reportString>正在装填鱼雷发射管。</LoadTorpedoTube.reportString>
+  <LoadShipBuilding.reportString>正在给 TargetA 补充燃料。</LoadShipBuilding.reportString>
+  <ManShipBridge.reportString>正在驻守舰桥。</ManShipBridge.reportString>
+  <HackEnemyShip.reportString>正在骇入TargetA。</HackEnemyShip.reportString>
+  <HackAirlock.reportString>正在骇入TargetA。</HackAirlock.reportString>
+  <BreachAirlock.reportString>正在破拆TargetA。</BreachAirlock.reportString>
+  <RepairItemWithGel.reportString>正在修理TargetA。</RepairItemWithGel.reportString>
+  <SacrificeToArchotech.reportString>正在献祭TargetA。</SacrificeToArchotech.reportString>
+  <FleeVacuum.reportString>正在逃离真空。</FleeVacuum.reportString>
+  <InstallConsciousness.reportString>正在安装TargetB的意识。</InstallConsciousness.reportString>
+  <MergeWithSpore.reportString>与超凡孢子融合。</MergeWithSpore.reportString>
+  <ResurrectHologram.reportString>正在向TargetA中注入复活机械液。</ResurrectHologram.reportString>
+</LanguageData>

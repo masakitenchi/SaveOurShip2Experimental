@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PsychicFlayer.label>心灵崩毁</PsychicFlayer.label>
+  <PsychicFlayer.deathMessage>{0}的心智被磨灭了。</PsychicFlayer.deathMessage>
+  <BombMechanite.label>炸伤</BombMechanite.label>
+  <BombMechanite.deathMessage>{0}被炸死了。</BombMechanite.deathMessage>
+</LanguageData>

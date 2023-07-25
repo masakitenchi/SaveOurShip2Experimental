@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Archocat.label>超凡猫</Archocat.label>
+  <Archocat.labelPlural>超凡猫</Archocat.labelPlural>
+  <Archocat.lifeStages.0.label>超凡猫</Archocat.lifeStages.0.label>
+  <Archocat.lifeStages.0.labelPlural>超凡猫</Archocat.lifeStages.0.labelPlural>
+  <Archocat.lifeStages.0.labelMale>公超凡猫</Archocat.lifeStages.0.labelMale>
+  <Archocat.lifeStages.0.labelMalePlural>公超凡猫</Archocat.lifeStages.0.labelMalePlural>
+  <Archocat.lifeStages.0.labelFemale>母超凡猫</Archocat.lifeStages.0.labelFemale>
+  <Archocat.lifeStages.0.labelFemalePlural>母超凡猫</Archocat.lifeStages.0.labelFemalePlural>
+  <Archocat.lifeStages.1.label>超凡猫</Archocat.lifeStages.1.label>
+  <Archocat.lifeStages.1.labelPlural>超凡猫</Archocat.lifeStages.1.labelPlural>
+  <Archocat.lifeStages.1.labelMale>公超凡猫</Archocat.lifeStages.1.labelMale>
+  <Archocat.lifeStages.1.labelMalePlural>公超凡猫</Archocat.lifeStages.1.labelMalePlural>
+  <Archocat.lifeStages.1.labelFemale>母超凡猫</Archocat.lifeStages.1.labelFemale>
+  <Archocat.lifeStages.1.labelFemalePlural>母超凡猫</Archocat.lifeStages.1.labelFemalePlural>
+  <Archocat.lifeStages.2.label>超凡猫</Archocat.lifeStages.2.label>
+  <Archocat.lifeStages.2.labelPlural>超凡猫</Archocat.lifeStages.2.labelPlural>
+  <Archocat.lifeStages.2.labelMale>公超凡猫</Archocat.lifeStages.2.labelMale>
+  <Archocat.lifeStages.2.labelMalePlural>公超凡猫</Archocat.lifeStages.2.labelMalePlural>
+  <Archocat.lifeStages.2.labelFemale>母超凡猫</Archocat.lifeStages.2.labelFemale>
+  <Archocat.lifeStages.2.labelFemalePlural>母超凡猫</Archocat.lifeStages.2.labelFemalePlural>
+  <Archocat.labelMale>公超凡猫</Archocat.labelMale>
+  <Archocat.labelMalePlural>公超凡猫</Archocat.labelMalePlural>
+  <Archocat.labelFemale>母超凡猫</Archocat.labelFemale>
+  <Archocat.labelFemalePlural>母超凡猫</Archocat.labelFemalePlural>
+  <Archomutt.label>超凡狗</Archomutt.label>
+  <Archomutt.labelPlural>超凡狗</Archomutt.labelPlural>
+  <Archomutt.lifeStages.0.label>archopuppy</Archomutt.lifeStages.0.label>
+  <Archomutt.lifeStages.0.labelPlural>archopuppies</Archomutt.lifeStages.0.labelPlural>
+  <Archomutt.lifeStages.0.labelMale>male archopuppy</Archomutt.lifeStages.0.labelMale>
+  <Archomutt.lifeStages.0.labelMalePlural>male archopuppies</Archomutt.lifeStages.0.labelMalePlural>
+  <Archomutt.lifeStages.0.labelFemale>female archopuppy</Archomutt.lifeStages.0.labelFemale>
+  <Archomutt.lifeStages.0.labelFemalePlural>female archopuppies</Archomutt.lifeStages.0.labelFemalePlural>
+  <Archomutt.lifeStages.1.label>超凡狗</Archomutt.lifeStages.1.label>
+  <Archomutt.lifeStages.1.labelPlural>超凡狗</Archomutt.lifeStages.1.labelPlural>
+  <Archomutt.lifeStages.1.labelMale>公超凡狗</Archomutt.lifeStages.1.labelMale>
+  <Archomutt.lifeStages.1.labelMalePlural>公超凡狗</Archomutt.lifeStages.1.labelMalePlural>
+  <Archomutt.lifeStages.1.labelFemale>母超凡狗</Archomutt.lifeStages.1.labelFemale>
+  <Archomutt.lifeStages.1.labelFemalePlural>母超凡狗</Archomutt.lifeStages.1.labelFemalePlural>
+  <Archomutt.lifeStages.2.label>超凡狗</Archomutt.lifeStages.2.label>
+  <Archomutt.lifeStages.2.labelPlural>超凡狗</Archomutt.lifeStages.2.labelPlural>
+  <Archomutt.lifeStages.2.labelMale>公超凡狗</Archomutt.lifeStages.2.labelMale>
+  <Archomutt.lifeStages.2.labelMalePlural>公超凡狗</Archomutt.lifeStages.2.labelMalePlural>
+  <Archomutt.lifeStages.2.labelFemale>母超凡狗</Archomutt.lifeStages.2.labelFemale>
+  <Archomutt.lifeStages.2.labelFemalePlural>母超凡狗</Archomutt.lifeStages.2.labelFemalePlural>
+  <Archomutt.labelMale>公超凡狗</Archomutt.labelMale>
+  <Archomutt.labelMalePlural>公超凡狗</Archomutt.labelMalePlural>
+  <Archomutt.labelFemale>母超凡狗</Archomutt.labelFemale>
+  <Archomutt.labelFemalePlural>母超凡狗</Archomutt.labelFemalePlural>
+  <Archostrich.label>超凡鸟</Archostrich.label>
+  <Archostrich.labelPlural>超凡鸟</Archostrich.labelPlural>
+  <Archostrich.lifeStages.0.label>超凡鸟</Archostrich.lifeStages.0.label>
+  <Archostrich.lifeStages.0.labelPlural>超凡鸟</Archostrich.lifeStages.0.labelPlural>
+  <Archostrich.lifeStages.0.labelMale>公超凡鸟</Archostrich.lifeStages.0.labelMale>
+  <Archostrich.lifeStages.0.labelMalePlural>公超凡鸟</Archostrich.lifeStages.0.labelMalePlural>
+  <Archostrich.lifeStages.0.labelFemale>母超凡鸟</Archostrich.lifeStages.0.labelFemale>
+  <Archostrich.lifeStages.0.labelFemalePlural>母超凡鸟</Archostrich.lifeStages.0.labelFemalePlural>
+  <Archostrich.lifeStages.1.label>超凡鸟</Archostrich.lifeStages.1.label>
+  <Archostrich.lifeStages.1.labelPlural>超凡鸟</Archostrich.lifeStages.1.labelPlural>
+  <Archostrich.lifeStages.1.labelMale>公超凡鸟</Archostrich.lifeStages.1.labelMale>
+  <Archostrich.lifeStages.1.labelMalePlural>公超凡鸟</Archostrich.lifeStages.1.labelMalePlural>
+  <Archostrich.lifeStages.1.labelFemale>母超凡鸟</Archostrich.lifeStages.1.labelFemale>
+  <Archostrich.lifeStages.1.labelFemalePlural>母超凡鸟</Archostrich.lifeStages.1.labelFemalePlural>
+  <Archostrich.lifeStages.2.label>超凡鸟</Archostrich.lifeStages.2.label>
+  <Archostrich.lifeStages.2.labelPlural>超凡鸟</Archostrich.lifeStages.2.labelPlural>
+  <Archostrich.lifeStages.2.labelMale>公超凡鸟</Archostrich.lifeStages.2.labelMale>
+  <Archostrich.lifeStages.2.labelMalePlural>公超凡鸟</Archostrich.lifeStages.2.labelMalePlural>
+  <Archostrich.lifeStages.2.labelFemale>母超凡鸟</Archostrich.lifeStages.2.labelFemale>
+  <Archostrich.lifeStages.2.labelFemalePlural>母超凡鸟</Archostrich.lifeStages.2.labelFemalePlural>
+  <Archostrich.labelMale>公超凡鸟</Archostrich.labelMale>
+  <Archostrich.labelMalePlural>公超凡鸟</Archostrich.labelMalePlural>
+  <Archostrich.labelFemale>母超凡鸟</Archostrich.labelFemale>
+  <Archostrich.labelFemalePlural>母超凡鸟</Archostrich.labelFemalePlural>
+  <Archoffalo.label>超凡雪牛</Archoffalo.label>
+  <Archoffalo.labelPlural>超凡雪牛</Archoffalo.labelPlural>
+  <Archoffalo.lifeStages.0.label>archoffalo calf</Archoffalo.lifeStages.0.label>
+  <Archoffalo.lifeStages.0.labelPlural>archoffalo calves</Archoffalo.lifeStages.0.labelPlural>
+  <Archoffalo.lifeStages.0.labelMale>male archoffalo calf</Archoffalo.lifeStages.0.labelMale>
+  <Archoffalo.lifeStages.0.labelMalePlural>male archoffalo calves</Archoffalo.lifeStages.0.labelMalePlural>
+  <Archoffalo.lifeStages.0.labelFemale>female archoffalo calf</Archoffalo.lifeStages.0.labelFemale>
+  <Archoffalo.lifeStages.0.labelFemalePlural>female archoffalo calves</Archoffalo.lifeStages.0.labelFemalePlural>
+  <Archoffalo.lifeStages.1.label>超凡雪牛</Archoffalo.lifeStages.1.label>
+  <Archoffalo.lifeStages.1.labelPlural>超凡雪牛</Archoffalo.lifeStages.1.labelPlural>
+  <Archoffalo.lifeStages.1.labelMale>公超凡雪牛</Archoffalo.lifeStages.1.labelMale>
+  <Archoffalo.lifeStages.1.labelMalePlural>公超凡雪牛</Archoffalo.lifeStages.1.labelMalePlural>
+  <Archoffalo.lifeStages.1.labelFemale>母超凡雪牛</Archoffalo.lifeStages.1.labelFemale>
+  <Archoffalo.lifeStages.1.labelFemalePlural>母超凡雪牛</Archoffalo.lifeStages.1.labelFemalePlural>
+  <Archoffalo.lifeStages.2.label>超凡雪牛</Archoffalo.lifeStages.2.label>
+  <Archoffalo.lifeStages.2.labelPlural>超凡雪牛</Archoffalo.lifeStages.2.labelPlural>
+  <Archoffalo.lifeStages.2.labelMale>公超凡雪牛</Archoffalo.lifeStages.2.labelMale>
+  <Archoffalo.lifeStages.2.labelMalePlural>公超凡雪牛</Archoffalo.lifeStages.2.labelMalePlural>
+  <Archoffalo.lifeStages.2.labelFemale>母超凡雪牛</Archoffalo.lifeStages.2.labelFemale>
+  <Archoffalo.lifeStages.2.labelFemalePlural>母超凡雪牛</Archoffalo.lifeStages.2.labelFemalePlural>
+  <Archoffalo.labelMale>公超凡雪牛</Archoffalo.labelMale>
+  <Archoffalo.labelMalePlural>公超凡雪牛</Archoffalo.labelMalePlural>
+  <Archoffalo.labelFemale>母超凡雪牛</Archoffalo.labelFemale>
+  <Archoffalo.labelFemalePlural>母超凡雪牛</Archoffalo.labelFemalePlural>
+  <Archospider.label>超凡巨型蜘蛛</Archospider.label>
+  <Archospider.labelPlural>超凡巨型蜘蛛</Archospider.labelPlural>
+  <Archospider.lifeStages.0.label>超凡巨型蜘蛛</Archospider.lifeStages.0.label>
+  <Archospider.lifeStages.0.labelPlural>超凡巨型蜘蛛</Archospider.lifeStages.0.labelPlural>
+  <Archospider.lifeStages.0.labelMale>公超凡巨型蜘蛛</Archospider.lifeStages.0.labelMale>
+  <Archospider.lifeStages.0.labelMalePlural>公超凡巨型蜘蛛</Archospider.lifeStages.0.labelMalePlural>
+  <Archospider.lifeStages.0.labelFemale>母超凡巨型蜘蛛</Archospider.lifeStages.0.labelFemale>
+  <Archospider.lifeStages.0.labelFemalePlural>母超凡巨型蜘蛛</Archospider.lifeStages.0.labelFemalePlural>
+  <Archospider.lifeStages.1.label>超凡巨型蜘蛛</Archospider.lifeStages.1.label>
+  <Archospider.lifeStages.1.labelPlural>超凡巨型蜘蛛</Archospider.lifeStages.1.labelPlural>
+  <Archospider.lifeStages.1.labelMale>公超凡巨型蜘蛛</Archospider.lifeStages.1.labelMale>
+  <Archospider.lifeStages.1.labelMalePlural>公超凡巨型蜘蛛</Archospider.lifeStages.1.labelMalePlural>
+  <Archospider.lifeStages.1.labelFemale>母超凡巨型蜘蛛</Archospider.lifeStages.1.labelFemale>
+  <Archospider.lifeStages.1.labelFemalePlural>母超凡巨型蜘蛛</Archospider.lifeStages.1.labelFemalePlural>
+  <Archospider.lifeStages.2.label>超凡巨型蜘蛛</Archospider.lifeStages.2.label>
+  <Archospider.lifeStages.2.labelPlural>超凡巨型蜘蛛</Archospider.lifeStages.2.labelPlural>
+  <Archospider.lifeStages.2.labelMale>公超凡巨型蜘蛛</Archospider.lifeStages.2.labelMale>
+  <Archospider.lifeStages.2.labelMalePlural>公超凡巨型蜘蛛</Archospider.lifeStages.2.labelMalePlural>
+  <Archospider.lifeStages.2.labelFemale>母超凡巨型蜘蛛</Archospider.lifeStages.2.labelFemale>
+  <Archospider.lifeStages.2.labelFemalePlural>母超凡巨型蜘蛛</Archospider.lifeStages.2.labelFemalePlural>
+  <Archospider.labelMale>公超凡巨型蜘蛛</Archospider.labelMale>
+  <Archospider.labelMalePlural>公超凡巨型蜘蛛</Archospider.labelMalePlural>
+  <Archospider.labelFemale>母超凡巨型蜘蛛</Archospider.labelFemale>
+  <Archospider.labelFemalePlural>母超凡巨型蜘蛛</Archospider.labelFemalePlural>
+  <Archolope.label>超凡爆炸羊</Archolope.label>
+  <Archolope.labelPlural>超凡爆炸羊</Archolope.labelPlural>
+  <Archolope.lifeStages.0.label>archolope calf</Archolope.lifeStages.0.label>
+  <Archolope.lifeStages.0.labelPlural>archolope calves</Archolope.lifeStages.0.labelPlural>
+  <Archolope.lifeStages.0.labelMale>male archolope calf</Archolope.lifeStages.0.labelMale>
+  <Archolope.lifeStages.0.labelMalePlural>male archolope calves</Archolope.lifeStages.0.labelMalePlural>
+  <Archolope.lifeStages.0.labelFemale>female archolope calf</Archolope.lifeStages.0.labelFemale>
+  <Archolope.lifeStages.0.labelFemalePlural>female archolope calves</Archolope.lifeStages.0.labelFemalePlural>
+  <Archolope.lifeStages.1.label>超凡爆炸羊</Archolope.lifeStages.1.label>
+  <Archolope.lifeStages.1.labelPlural>超凡爆炸羊</Archolope.lifeStages.1.labelPlural>
+  <Archolope.lifeStages.1.labelMale>公超凡爆炸羊</Archolope.lifeStages.1.labelMale>
+  <Archolope.lifeStages.1.labelMalePlural>公超凡爆炸羊</Archolope.lifeStages.1.labelMalePlural>
+  <Archolope.lifeStages.1.labelFemale>母超凡爆炸羊</Archolope.lifeStages.1.labelFemale>
+  <Archolope.lifeStages.1.labelFemalePlural>母超凡爆炸羊</Archolope.lifeStages.1.labelFemalePlural>
+  <Archolope.lifeStages.2.label>超凡爆炸羊</Archolope.lifeStages.2.label>
+  <Archolope.lifeStages.2.labelPlural>超凡爆炸羊</Archolope.lifeStages.2.labelPlural>
+  <Archolope.lifeStages.2.labelMale>公超凡爆炸羊</Archolope.lifeStages.2.labelMale>
+  <Archolope.lifeStages.2.labelMalePlural>公超凡爆炸羊</Archolope.lifeStages.2.labelMalePlural>
+  <Archolope.lifeStages.2.labelFemale>母超凡爆炸羊</Archolope.lifeStages.2.labelFemale>
+  <Archolope.lifeStages.2.labelFemalePlural>母超凡爆炸羊</Archolope.lifeStages.2.labelFemalePlural>
+  <Archolope.labelMale>公超凡爆炸羊</Archolope.labelMale>
+  <Archolope.labelMalePlural>公超凡爆炸羊</Archolope.labelMalePlural>
+  <Archolope.labelFemale>母超凡爆炸羊</Archolope.labelFemale>
+  <Archolope.labelFemalePlural>母超凡爆炸羊</Archolope.labelFemalePlural>
+  <Archotortoise.label>超凡龟</Archotortoise.label>
+  <Archotortoise.labelPlural>超凡龟</Archotortoise.labelPlural>
+  <Archotortoise.lifeStages.0.label>超凡龟</Archotortoise.lifeStages.0.label>
+  <Archotortoise.lifeStages.0.labelPlural>超凡龟</Archotortoise.lifeStages.0.labelPlural>
+  <Archotortoise.lifeStages.0.labelMale>公超凡龟</Archotortoise.lifeStages.0.labelMale>
+  <Archotortoise.lifeStages.0.labelMalePlural>公超凡龟</Archotortoise.lifeStages.0.labelMalePlural>
+  <Archotortoise.lifeStages.0.labelFemale>母超凡龟</Archotortoise.lifeStages.0.labelFemale>
+  <Archotortoise.lifeStages.0.labelFemalePlural>母超凡龟</Archotortoise.lifeStages.0.labelFemalePlural>
+  <Archotortoise.lifeStages.1.label>超凡龟</Archotortoise.lifeStages.1.label>
+  <Archotortoise.lifeStages.1.labelPlural>超凡龟</Archotortoise.lifeStages.1.labelPlural>
+  <Archotortoise.lifeStages.1.labelMale>公超凡龟</Archotortoise.lifeStages.1.labelMale>
+  <Archotortoise.lifeStages.1.labelMalePlural>公超凡龟</Archotortoise.lifeStages.1.labelMalePlural>
+  <Archotortoise.lifeStages.1.labelFemale>母超凡龟</Archotortoise.lifeStages.1.labelFemale>
+  <Archotortoise.lifeStages.1.labelFemalePlural>母超凡龟</Archotortoise.lifeStages.1.labelFemalePlural>
+  <Archotortoise.lifeStages.2.label>超凡龟</Archotortoise.lifeStages.2.label>
+  <Archotortoise.lifeStages.2.labelPlural>超凡龟</Archotortoise.lifeStages.2.labelPlural>
+  <Archotortoise.lifeStages.2.labelMale>公超凡龟</Archotortoise.lifeStages.2.labelMale>
+  <Archotortoise.lifeStages.2.labelMalePlural>公超凡龟</Archotortoise.lifeStages.2.labelMalePlural>
+  <Archotortoise.lifeStages.2.labelFemale>母超凡龟</Archotortoise.lifeStages.2.labelFemale>
+  <Archotortoise.lifeStages.2.labelFemalePlural>母超凡龟</Archotortoise.lifeStages.2.labelFemalePlural>
+  <Archotortoise.labelMale>公超凡龟</Archotortoise.labelMale>
+  <Archotortoise.labelMalePlural>公超凡龟</Archotortoise.labelMalePlural>
+  <Archotortoise.labelFemale>母超凡龟</Archotortoise.labelFemale>
+  <Archotortoise.labelFemalePlural>母超凡龟</Archotortoise.labelFemalePlural>
+  <Archopanda.label>超凡熊猫</Archopanda.label>
+  <Archopanda.labelPlural>超凡熊猫</Archopanda.labelPlural>
+  <Archopanda.lifeStages.0.label>超凡熊猫</Archopanda.lifeStages.0.label>
+  <Archopanda.lifeStages.0.labelPlural>超凡熊猫</Archopanda.lifeStages.0.labelPlural>
+  <Archopanda.lifeStages.0.labelMale>公超凡熊猫</Archopanda.lifeStages.0.labelMale>
+  <Archopanda.lifeStages.0.labelMalePlural>公超凡熊猫</Archopanda.lifeStages.0.labelMalePlural>
+  <Archopanda.lifeStages.0.labelFemale>母超凡熊猫</Archopanda.lifeStages.0.labelFemale>
+  <Archopanda.lifeStages.0.labelFemalePlural>母超凡熊猫</Archopanda.lifeStages.0.labelFemalePlural>
+  <Archopanda.lifeStages.1.label>超凡熊猫</Archopanda.lifeStages.1.label>
+  <Archopanda.lifeStages.1.labelPlural>超凡熊猫</Archopanda.lifeStages.1.labelPlural>
+  <Archopanda.lifeStages.1.labelMale>公超凡熊猫</Archopanda.lifeStages.1.labelMale>
+  <Archopanda.lifeStages.1.labelMalePlural>公超凡熊猫</Archopanda.lifeStages.1.labelMalePlural>
+  <Archopanda.lifeStages.1.labelFemale>母超凡熊猫</Archopanda.lifeStages.1.labelFemale>
+  <Archopanda.lifeStages.1.labelFemalePlural>母超凡熊猫</Archopanda.lifeStages.1.labelFemalePlural>
+  <Archopanda.lifeStages.2.label>超凡熊猫</Archopanda.lifeStages.2.label>
+  <Archopanda.lifeStages.2.labelPlural>超凡熊猫</Archopanda.lifeStages.2.labelPlural>
+  <Archopanda.lifeStages.2.labelMale>公超凡熊猫</Archopanda.lifeStages.2.labelMale>
+  <Archopanda.lifeStages.2.labelMalePlural>公超凡熊猫</Archopanda.lifeStages.2.labelMalePlural>
+  <Archopanda.lifeStages.2.labelFemale>母超凡熊猫</Archopanda.lifeStages.2.labelFemale>
+  <Archopanda.lifeStages.2.labelFemalePlural>母超凡熊猫</Archopanda.lifeStages.2.labelFemalePlural>
+  <Archopanda.labelMale>公超凡熊猫</Archopanda.labelMale>
+  <Archopanda.labelMalePlural>公超凡熊猫</Archopanda.labelMalePlural>
+  <Archopanda.labelFemale>母超凡熊猫</Archopanda.labelFemale>
+  <Archopanda.labelFemalePlural>母超凡熊猫</Archopanda.labelFemalePlural>
+  <Archojerboa.label>超凡跳鼠</Archojerboa.label>
+  <Archojerboa.labelPlural>超凡跳鼠</Archojerboa.labelPlural>
+  <Archojerboa.lifeStages.0.label>超凡跳鼠</Archojerboa.lifeStages.0.label>
+  <Archojerboa.lifeStages.0.labelPlural>超凡跳鼠</Archojerboa.lifeStages.0.labelPlural>
+  <Archojerboa.lifeStages.0.labelMale>公超凡跳鼠</Archojerboa.lifeStages.0.labelMale>
+  <Archojerboa.lifeStages.0.labelMalePlural>公超凡跳鼠</Archojerboa.lifeStages.0.labelMalePlural>
+  <Archojerboa.lifeStages.0.labelFemale>母超凡跳鼠</Archojerboa.lifeStages.0.labelFemale>
+  <Archojerboa.lifeStages.0.labelFemalePlural>母超凡跳鼠</Archojerboa.lifeStages.0.labelFemalePlural>
+  <Archojerboa.lifeStages.1.label>超凡跳鼠</Archojerboa.lifeStages.1.label>
+  <Archojerboa.lifeStages.1.labelPlural>超凡跳鼠</Archojerboa.lifeStages.1.labelPlural>
+  <Archojerboa.lifeStages.1.labelMale>公超凡跳鼠</Archojerboa.lifeStages.1.labelMale>
+  <Archojerboa.lifeStages.1.labelMalePlural>公超凡跳鼠</Archojerboa.lifeStages.1.labelMalePlural>
+  <Archojerboa.lifeStages.1.labelFemale>母超凡跳鼠</Archojerboa.lifeStages.1.labelFemale>
+  <Archojerboa.lifeStages.1.labelFemalePlural>母超凡跳鼠</Archojerboa.lifeStages.1.labelFemalePlural>
+  <Archojerboa.lifeStages.2.label>超凡跳鼠</Archojerboa.lifeStages.2.label>
+  <Archojerboa.lifeStages.2.labelPlural>超凡跳鼠</Archojerboa.lifeStages.2.labelPlural>
+  <Archojerboa.lifeStages.2.labelMale>公超凡跳鼠</Archojerboa.lifeStages.2.labelMale>
+  <Archojerboa.lifeStages.2.labelMalePlural>公超凡跳鼠</Archojerboa.lifeStages.2.labelMalePlural>
+  <Archojerboa.lifeStages.2.labelFemale>母超凡跳鼠</Archojerboa.lifeStages.2.labelFemale>
+  <Archojerboa.lifeStages.2.labelFemalePlural>母超凡跳鼠</Archojerboa.lifeStages.2.labelFemalePlural>
+  <Archojerboa.labelMale>公超凡跳鼠</Archojerboa.labelMale>
+  <Archojerboa.labelMalePlural>公超凡跳鼠</Archojerboa.labelMalePlural>
+  <Archojerboa.labelFemale>母超凡跳鼠</Archojerboa.labelFemale>
+  <Archojerboa.labelFemalePlural>母超凡跳鼠</Archojerboa.labelFemalePlural>
+  <Archothrumbo.label>超凡敲击兽</Archothrumbo.label>
+  <Archothrumbo.labelPlural>超凡敲击兽</Archothrumbo.labelPlural>
+  <Archothrumbo.lifeStages.0.label>archothrumbo calf</Archothrumbo.lifeStages.0.label>
+  <Archothrumbo.lifeStages.0.labelPlural>archothrumbo calves</Archothrumbo.lifeStages.0.labelPlural>
+  <Archothrumbo.lifeStages.0.labelMale>male archothrumbo calf</Archothrumbo.lifeStages.0.labelMale>
+  <Archothrumbo.lifeStages.0.labelMalePlural>male archothrumbo calves</Archothrumbo.lifeStages.0.labelMalePlural>
+  <Archothrumbo.lifeStages.0.labelFemale>female archothrumbo calf</Archothrumbo.lifeStages.0.labelFemale>
+  <Archothrumbo.lifeStages.0.labelFemalePlural>female archothrumbo calves</Archothrumbo.lifeStages.0.labelFemalePlural>
+  <Archothrumbo.lifeStages.1.label>超凡敲击兽</Archothrumbo.lifeStages.1.label>
+  <Archothrumbo.lifeStages.1.labelPlural>超凡敲击兽</Archothrumbo.lifeStages.1.labelPlural>
+  <Archothrumbo.lifeStages.1.labelMale>公超凡敲击兽</Archothrumbo.lifeStages.1.labelMale>
+  <Archothrumbo.lifeStages.1.labelMalePlural>公超凡敲击兽</Archothrumbo.lifeStages.1.labelMalePlural>
+  <Archothrumbo.lifeStages.1.labelFemale>母超凡敲击兽</Archothrumbo.lifeStages.1.labelFemale>
+  <Archothrumbo.lifeStages.1.labelFemalePlural>母超凡敲击兽</Archothrumbo.lifeStages.1.labelFemalePlural>
+  <Archothrumbo.lifeStages.2.label>超凡敲击兽</Archothrumbo.lifeStages.2.label>
+  <Archothrumbo.lifeStages.2.labelPlural>超凡敲击兽</Archothrumbo.lifeStages.2.labelPlural>
+  <Archothrumbo.lifeStages.2.labelMale>公超凡敲击兽</Archothrumbo.lifeStages.2.labelMale>
+  <Archothrumbo.lifeStages.2.labelMalePlural>公超凡敲击兽</Archothrumbo.lifeStages.2.labelMalePlural>
+  <Archothrumbo.lifeStages.2.labelFemale>母超凡敲击兽</Archothrumbo.lifeStages.2.labelFemale>
+  <Archothrumbo.lifeStages.2.labelFemalePlural>母超凡敲击兽</Archothrumbo.lifeStages.2.labelFemalePlural>
+  <Archothrumbo.labelMale>公超凡敲击兽</Archothrumbo.labelMale>
+  <Archothrumbo.labelMalePlural>公超凡敲击兽</Archothrumbo.labelMalePlural>
+  <Archothrumbo.labelFemale>母超凡敲击兽</Archothrumbo.labelFemale>
+  <Archothrumbo.labelFemalePlural>母超凡敲击兽</Archothrumbo.labelFemalePlural>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ShuttlePersonalRace.label>私人穿梭机（悬停模式）</ShuttlePersonalRace.label>
+  <ShuttlePersonalRace.description>已切换至悬停模式的私人穿梭机，在远行队中时可以像驮运动物一样发挥作用。</ShuttlePersonalRace.description>
+  <ShuttleCargoRace.label>货运穿梭机（悬停模式）</ShuttleCargoRace.label>
+  <ShuttleCargoRace.description>已切换至悬停模式的货运穿梭机，在远行队中时可以像驮运动物一样发挥作用。</ShuttleCargoRace.description>
+  <ShuttleHeavyRace.label>重型货运穿梭机（悬停模式）</ShuttleHeavyRace.label>
+  <ShuttleHeavyRace.description>已切换至悬停模式的重型货运穿梭机，在远行队中时可以像驮运动物一样发挥作用。</ShuttleHeavyRace.description>
+  <ShuttleDropshipRace.label>超重型货运穿梭机（悬停模式）</ShuttleDropshipRace.label>
+  <ShuttleDropshipRace.description>已切换至悬停模式的超重型货运穿梭机，在远行队中时可以像驮运动物一样发挥作用。</ShuttleDropshipRace.description>
+  <ShuttlePersonalRace_Corpse.label>Personal Shuttle (hover mode) corpse</ShuttlePersonalRace_Corpse.label>
+  <ShuttlePersonalRace_Corpse.description>Personal Shuttle (hover mode) corpse</ShuttlePersonalRace_Corpse.description>
+  <ShuttleCargoRace_Corpse.label>Cargo Shuttle (hover mode) corpse</ShuttleCargoRace_Corpse.label>
+  <ShuttleCargoRace_Corpse.description>Cargo Shuttle (hover mode) corpse</ShuttleCargoRace_Corpse.description>
+  <ShuttleHeavyRace_Corpse.label>Heavy Cargo Shuttle (hover mode) corpse</ShuttleHeavyRace_Corpse.label>
+  <ShuttleHeavyRace_Corpse.description>Heavy Cargo Shuttle (hover mode) corpse</ShuttleHeavyRace_Corpse.description>
+  <ShuttleDropshipRace_Corpse.label>Superheavy Dropship (hover mode) corpse</ShuttleDropshipRace_Corpse.label>
+  <ShuttleDropshipRace_Corpse.description>Superheavy Dropship (hover mode) corpse</ShuttleDropshipRace_Corpse.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SoSMayday.root.nodes.7.node.nodes.0.label>任务过期：[resolvedQuestName]</SoSMayday.root.nodes.7.node.nodes.0.label>
+  <SoSMayday.root.nodes.7.node.nodes.0.text>拦截的通讯表明，这艘飞船上所有有价值的物品已被洗劫一空。任务 [resolvedQuestName] 已过期。</SoSMayday.root.nodes.7.node.nodes.0.text>
+  <SoSMayday.questDescriptionRules.rulesStrings.0>questDescription->“求救，求救...操控系统...失效...是该死的...海盗...已经没有...响应...要...撞上...”一道耀眼的闪光划过天际，我们也同时接收到了这些内容模糊不清的无线电信号。那艘飞船似乎即将坠毁在 [map_definite] 的附近。\n\n各路的海盗、劫掠者和宝藏猎人们自然不会放过这个好机会。即便我们及时抵达了坠毁地点，想要回收有用的飞船残骸也相当困难。\n\n看起来 [allSitePartsDescriptionsExceptFirst]</SoSMayday.questDescriptionRules.rulesStrings.0>
+  <SoSMayday.questNameRules.rulesStrings.0>questName->舰船求援</SoSMayday.questNameRules.rulesStrings.0>
+</LanguageData>

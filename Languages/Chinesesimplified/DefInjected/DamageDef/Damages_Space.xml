@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <VacuumDamage.label>失压伤</VacuumDamage.label>
+  <VacuumDamage.deathMessage>{0}的身体四分五裂了。</VacuumDamage.deathMessage>
+  <FormgelSlime.label>formgel slime</FormgelSlime.label>
+  <FormgelSlime.deathMessage>{0} has been killed.</FormgelSlime.deathMessage>
+</LanguageData>

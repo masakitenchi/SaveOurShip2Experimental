@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ScanSpace.label>扫描星球轨道</ScanSpace.label>
+  <ScanSpace.verb>扫描</ScanSpace.verb>
+  <ScanSpace.gerund>扫描于</ScanSpace.gerund>
+  <LoadTorpedoTube.label>装载鱼雷</LoadTorpedoTube.label>
+  <LoadTorpedoTube.verb>装载</LoadTorpedoTube.verb>
+  <LoadTorpedoTube.gerund>装载</LoadTorpedoTube.gerund>
+  <FightMechanites.label>处理纳米机械</FightMechanites.label>
+  <FightMechanites.verb>处理</FightMechanites.verb>
+  <FightMechanites.gerund>处理</FightMechanites.gerund>
+  <DoArchotechSacrifice.label>献祭囚犯</DoArchotechSacrifice.label>
+  <DoArchotechSacrifice.verb>献祭</DoArchotechSacrifice.verb>
+  <DoArchotechSacrifice.gerund>献祭</DoArchotechSacrifice.gerund>
+  <DoBillsRecyclotron.label>回收物品</DoBillsRecyclotron.label>
+  <DoBillsRecyclotron.verb>回收</DoBillsRecyclotron.verb>
+  <DoBillsRecyclotron.gerund>回收于</DoBillsRecyclotron.gerund>
+  <InstallConsciousness.label>载入意识</InstallConsciousness.label>
+  <InstallConsciousness.verb>载入</InstallConsciousness.verb>
+  <InstallConsciousness.gerund>载入意识于</InstallConsciousness.gerund>
+</LanguageData>

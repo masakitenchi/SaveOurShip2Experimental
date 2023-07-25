@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Apparel_SpaceSuitBody.label>舱外活动套装</Apparel_SpaceSuitBody.label>
+  <Apparel_SpaceSuitBody.description>一套用于支持穿戴者在太空中活动的衣物，在设计时还额外加装了能够辅助移动的小型推进器。</Apparel_SpaceSuitBody.description>
+  <Apparel_SpaceSuitBodyChild.label>儿童舱外活动套装</Apparel_SpaceSuitBodyChild.label>
+  <Apparel_SpaceSuitBodyChild.description>一套用于支持儿童在太空中活动的衣物，在设计时还额外加装了能够辅助移动的小型推进器。</Apparel_SpaceSuitBodyChild.description>
+  <Apparel_SpaceSuitHelmet.label>舱外活动头盔</Apparel_SpaceSuitHelmet.label>
+  <Apparel_SpaceSuitHelmet.description>一顶用于支持穿戴者在太空中活动的头盔。</Apparel_SpaceSuitHelmet.description>
+  <Apparel_SpaceSuitHelmetChild.label>儿童舱外活动头盔</Apparel_SpaceSuitHelmetChild.label>
+  <Apparel_SpaceSuitHelmetChild.description>一顶用于支持儿童在太空中活动的头盔。</Apparel_SpaceSuitHelmetChild.description>
+  <Apparel_SpaceSuitBodyHeavy.label>重型舱外活动套装</Apparel_SpaceSuitBodyHeavy.label>
+  <Apparel_SpaceSuitBodyHeavy.description>一套用于支持穿戴者在太空中活动的动力装甲，在设计时还额外加装了能够辅助移动的小型推进器。</Apparel_SpaceSuitBodyHeavy.description>
+  <Apparel_SpaceSuitHelmetHeavy.label>重型舱外活动头盔</Apparel_SpaceSuitHelmetHeavy.label>
+  <Apparel_SpaceSuitHelmetHeavy.description>一顶用于支持穿戴者在太空中活动的动力装甲头盔。</Apparel_SpaceSuitHelmetHeavy.description>
+  <Apparel_SpaceSurvivalBelt.label>救生腰带</Apparel_SpaceSurvivalBelt.label>
+  <Apparel_SpaceSurvivalBelt.description>常由飞船船员使用的紧急救生腰带。在气压未发生变化时，它会一直保持休眠状态。而一旦暴露在真空中，腰带就会在使用者身体上释放出一层半液膜，并开始产生可供生物呼吸的氧气。在接下来的三个小时里，使用者可以在真空环境中生存，尽管这会减慢他们的移动速度。\n\n这种救生腰带是一次性物品。</Apparel_SpaceSurvivalBelt.description>
+  <Apparel_SpaceSurvivalBeltDummy.label>救生腰带（激活）</Apparel_SpaceSurvivalBeltDummy.label>
+  <Apparel_SpaceSurvivalBeltDummy.description>常由飞船船员使用的紧急救生腰带。它在使用者的身体上释放出一层半液膜，并源源不断地产生可供生物呼吸的氧气。在接下来的三个小时里，使用者可以在真空环境中生存，尽管这会减慢他们的移动速度。\n\n这种救生腰带是一次性物品。</Apparel_SpaceSurvivalBeltDummy.description>
+</LanguageData>

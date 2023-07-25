@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SoSDerelict.label>废弃飞船</SoSDerelict.label>
+  <SoSDerelict.description>你们三人在刺耳的警报声与金属碎裂声中从低温休眠舱内醒来。一场微型陨石风暴撕裂了飞船的船体，并摧毁了约翰逊-田中驱动器。飞船被困在一个未知的边缘世界的近地轨道上，你们必须想办法修理好受损的飞船，并制定一份长期的生存计划。</SoSDerelict.description>
+  <SoSDerelict.scenario.name>废弃飞船</SoSDerelict.scenario.name>
+  <SoSDerelict.scenario.summary>三名幸存者及一艘受损的飞船。</SoSDerelict.scenario.summary>
+  <SoSDerelict.scenario.description>你们三人在刺耳的警报声与金属碎裂声中从低温休眠舱内醒来。一场微型陨石风暴撕裂了飞船的船体，并摧毁了约翰逊-田中驱动器。飞船被困在一个未知的边缘世界的近地轨道上，你们必须想办法修理好受损的飞船，并制定一份长期的生存计划。</SoSDerelict.scenario.description>
+  <SoSDerelict.scenario.parts.14.text>你们三人在刺耳的警报声与金属碎裂声中从低温休眠舱内醒来。一场微型陨石风暴撕裂了飞船的船体，并摧毁了约翰逊-田中驱动器。飞船被困在一个未知的边缘世界的近地轨道上，你们必须想办法修理好受损的飞船，并制定一份长期的生存计划。\n\n你可以通过扫描轨道站点获取资源，或者将传感器对准行星表面寻找降落地点。无论如何，你都需要从头发展科技以修复你的船只。</SoSDerelict.scenario.parts.14.text>
+  <SoSDungeon.label>废弃空间站</SoSDungeon.label>
+  <SoSDungeon.description>你们三人离开家乡加入了一支星际船队，签下了在边缘世界长期采矿作业的合同。\n\n至少你们认为是这样的。\n\n在刺耳的警报声中从低温休眠舱内醒来后，你们发现自己正处于一颗小行星的中心。采矿基地显然早就被废弃了。生命维持和人工生态系统已经失控，站内也被疯狂生长的野生植物所占据。你们到底被埋在这儿了多久了？</SoSDungeon.description>
+  <SoSDungeon.scenario.name>废弃空间站</SoSDungeon.scenario.name>
+  <SoSDungeon.scenario.summary>三名幸存者及一个受损的小行星基地。</SoSDungeon.scenario.summary>
+  <SoSDungeon.scenario.description>你们三人离开家乡加入了一支星际船队，签下了在边缘世界长期采矿作业的合同。\n\n至少你们认为是这样的。\n\n在刺耳的警报声中从低温休眠舱内醒来后，你们发现自己正处于一颗小行星的中心。采矿基地显然早就被废弃了。生命维持和人工生态系统已经失控，站内也被疯狂生长的野生植物所占据。你们到底被埋在这儿了多久了？</SoSDungeon.scenario.description>
+  <SoSDungeon.scenario.parts.14.text>你们三人离开家乡加入了一支星际船队，签下了在边缘世界长期采矿作业的合同。\n\n至少你们认为是这样的。\n\n在刺耳的警报声中从低温休眠舱内醒来后，你们发现自己正处于一颗小行星的中心。采矿基地显然早就被废弃了。生命维持和人工生态系统已经失控，站内也被疯狂生长的野生植物所占据。你们到底被埋在这儿了多久了？\n\n看起来是一条采矿隧道的塌陷让基地的能源重新上线了。两台反应堆只有一台还在正常运行，另一台的燃料早已耗尽。你可以选择过载那台反应堆，或者试试后备的化合燃料发电机以保证能源充足。\n\n在远离边缘世界的这里你不太可能获救，而且冥冥中有一种感觉提醒着你，你并不孤独……</SoSDungeon.scenario.parts.14.text>
+  <SoSAfterlifeVault.label>来世苍穹</SoSAfterlifeVault.label>
+  <SoSAfterlifeVault.description>你们几人早已在曾经席卷整个边缘世界的浩劫战争中死去。当社会秩序分崩离析时，那些巨企资本家们建造了“来世苍穹”来存放已故亲人的思维意识。由于项目受阻，真正完工的“来世苍穹”只有寥寥几艘。随着全球电网的瘫痪，其搭载的AI决定进入休眠状态。\n\n现在，几个世纪的时光已悄然流逝，AI也因此得出了“被救援几率为0%”的最终结论。你构造舱上的全息投影装置已被重新激活，但现有的电力供应也仅能维持一到两个全息投影。\n\n你能带给这些死去很久的人一个崭新的未来吗？</SoSAfterlifeVault.description>
+  <SoSAfterlifeVault.scenario.name>来世苍穹</SoSAfterlifeVault.scenario.name>
+  <SoSAfterlifeVault.scenario.summary>六名全息殖民者和一个友好的AI，但你缺少足够的能量来同时运行它们。</SoSAfterlifeVault.scenario.summary>
+  <SoSAfterlifeVault.scenario.description>你们几人早已在曾经席卷整个边缘世界的浩劫战争中死去。当社会秩序分崩离析时，那些巨企资本家们建造了“来世苍穹”来存放已故亲人的思维意识。由于项目受阻，真正完工的“来世苍穹”只有寥寥几艘。随着全球电网的瘫痪，其搭载的AI决定进入休眠状态。\n\n现在，几个世纪的时光已悄然流逝，AI也因此得出了“被救援几率为0%”的最终结论。你构造舱上的全息投影装置已被重新激活，但现有的电力供应也仅能维持一到两个全息投影。\n\n你能带给这些死去很久的人一个崭新的未来吗？</SoSAfterlifeVault.scenario.description>
+  <SoSAfterlifeVault.scenario.parts.3.text>Some of you picked up a charge rifle and died for your country; others were ignominiously crushed under rubble when the first round of orbital bombings hit. In any case, you are all well and truly dead, casualties of this rimworld's apocalyptic wars.\n\nBefore society collapsed, your wealthy loved ones secured you a spot in one of the new "Afterlife Vaults," with the promise of your revived brain being able to interact with the world as a formgel - a swarm of mechanites which perfectly imitates your original body. And wouldn't you know it, the outlandish promises all turned out to be true.\n\nOf course, that was before the collapse of the global power grid. Over the centuries, the mechanoids guarding your tomb have one by one failed or been destroyed. The AI has finally calculated the odds of rescue to be negligible, and re-enabled your consciousnes.\n\nAt the moment, there is only enough power to run one or two formgels at a time. Can you build out power infrastructure and secure a future for the dead?</SoSAfterlifeVault.scenario.parts.3.text>
+</LanguageData>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SoilShip_Blueprint.label>人造土壤基质（蓝图）</SoilShip_Blueprint.label>
+  <SoilShip_Frame.label>人造土壤基质（正在建造）</SoilShip_Frame.label>
+  <SoilShip_Frame.description>正在建造地形中。</SoilShip_Frame.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SpaceDebris.label>space debris</SpaceDebris.label>
+  <SpaceDebris.description>A space debris field.</SpaceDebris.description>
+  <SpaceDebris.endMessage>Ship has cleared the debris field.</SpaceDebris.endMessage>
+  <SpaceDebris.letterText>Ship has entered a debris field. Engage engines to evade or brace for impact!</SpaceDebris.letterText>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ArcholifePod.label>超凡生物培养荚</ArcholifePod.label>
+  <ArcholifePod.description>装有合成细胞浆质的一次性孵化器,使用后（选择一名殖民者，再右键单击超凡生物培养荚）可立即孵化出一只指定的超凡生物。\n\n孵化超凡敲击兽需要消耗10个堆叠在一起的超凡生物培养荚。</ArcholifePod.description>
+  <ArchotechRepairGel.label>纳米机械修复凝胶</ArchotechRepairGel.label>
+  <ArchotechRepairGel.description>可用于修补受损物品的一次性纳米机械。将其涂抹在武器或衣物上后，可使物品复原至完好如初的状态。</ArchotechRepairGel.description>
+  <ArchotechMechaniteCore.label>噬舰者纳米机械核心</ArchotechMechaniteCore.label>
+  <ArchotechMechaniteCore.description>用于装配噬舰者纳米机械的核心工厂装置。</ArchotechMechaniteCore.description>
+  <ArchotechPsychicCore.label>弑灵者核心</ArchotechPsychicCore.label>
+  <ArchotechPsychicCore.description>这种大号的心灵装置可以扰乱远处敌人的心智。可用于建造脊峰火炮。</ArchotechPsychicCore.description>
+  <ArchotechExoticParticles.label>异形粒子</ArchotechExoticParticles.label>
+  <ArchotechExoticParticles.description>这种粒子被安全地保存在罐中，它们所展现出的奇异特性显然超出了我们对物理学的认知。可用于建造各种各样的设备。</ArchotechExoticParticles.description>
+  <ArchotechRepairGel.comps.1.useLabel>使用修复凝胶</ArchotechRepairGel.comps.1.useLabel>
+</LanguageData>

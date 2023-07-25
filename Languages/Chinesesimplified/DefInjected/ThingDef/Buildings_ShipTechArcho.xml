@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Ship_BeamArchotech_Unpowered.label>超凡船体（无动力）</Ship_BeamArchotech_Unpowered.label>
+  <Ship_BeamArchotech_Unpowered.description>用于组成超凡飞船的重要外部结构，内部并未嵌有电缆、氧气管道和热能管道。</Ship_BeamArchotech_Unpowered.description>
+  <Ship_BeamArchotech.label>超凡船体</Ship_BeamArchotech.label>
+  <Ship_BeamArchotech.description>用于组成超凡飞船的重要外部结构，内部嵌有电缆、氧气管道和热能管道。</Ship_BeamArchotech.description>
+  <Ship_Beam_Light_Archo.label>ship light</Ship_Beam_Light_Archo.label>
+  <Ship_Beam_Light_Archo.description>Integrated lighting attached to a ship's hull.</Ship_Beam_Light_Archo.description>
+  <Ship_Beam_Light_Archo.comps.2.offMessage>Off for plant resting period</Ship_Beam_Light_Archo.comps.2.offMessage>
+  <Ship_Corner_Archo_OneOne.label>超凡船体斜角 (1x1)</Ship_Corner_Archo_OneOne.label>
+  <Ship_Corner_Archo_OneOne.description>超凡船体的斜角部位。</Ship_Corner_Archo_OneOne.description>
+  <Ship_Corner_Archo_OneOneFlip.label>超凡船体斜角 (1x1)</Ship_Corner_Archo_OneOneFlip.label>
+  <Ship_Corner_Archo_OneOneFlip.description>超凡船体的斜角部位。</Ship_Corner_Archo_OneOneFlip.description>
+  <Ship_Corner_Archo_OneTwo.label>超凡船体斜角 (1x2)</Ship_Corner_Archo_OneTwo.label>
+  <Ship_Corner_Archo_OneTwo.description>超凡船体的斜角部位。</Ship_Corner_Archo_OneTwo.description>
+  <Ship_Corner_Archo_OneTwoFlip.label>超凡船体斜角 (1x2)</Ship_Corner_Archo_OneTwoFlip.label>
+  <Ship_Corner_Archo_OneTwoFlip.description>超凡船体的斜角部位。</Ship_Corner_Archo_OneTwoFlip.description>
+  <Ship_Corner_Archo_OneThree.label>超凡船体斜角 (1x3)</Ship_Corner_Archo_OneThree.label>
+  <Ship_Corner_Archo_OneThree.description>超凡船体的斜角部位。</Ship_Corner_Archo_OneThree.description>
+  <Ship_Corner_Archo_OneThreeFlip.label>超凡船体斜角 (1x3)</Ship_Corner_Archo_OneThreeFlip.label>
+  <Ship_Corner_Archo_OneThreeFlip.description>超凡船体的斜角部位。</Ship_Corner_Archo_OneThreeFlip.description>
+  <ShipInside_SolarGeneratorArchotech.label>超凡飞船太阳能板</ShipInside_SolarGeneratorArchotech.label>
+  <ShipInside_SolarGeneratorArchotech.description>通过光量子与恒星光球层间的纠缠作用来发电，效率远超普通的飞船太阳能板。在阳光不足时不工作，人工光源无法用作发电。</ShipInside_SolarGeneratorArchotech.description>
+  <ShipInside_PassiveVentArchotech.label>超凡飞船温控装置</ShipInside_PassiveVentArchotech.label>
+  <ShipInside_PassiveVentArchotech.description>与飞船散热系统相连的温控装置，可通过热交换原理来提高或降低飞船舱室内的温度。也可以使用电力加热。</ShipInside_PassiveVentArchotech.description>
+  <ShipInside_PassiveVentArchotech_Blueprint.label>超凡飞船温控装置（蓝图）</ShipInside_PassiveVentArchotech_Blueprint.label>
+  <ShipInside_PassiveVentArchotech_Frame.label>archotech ship vent (building)</ShipInside_PassiveVentArchotech_Frame.label>
+  <ShipInside_PassiveVentArchotech_Frame.description>与飞船散热系统相连的温控装置，可通过热交换原理来提高或降低飞船舱室内的温度。也可以使用电力加热。</ShipInside_PassiveVentArchotech_Frame.description>
+  <ShipAirlockArchotech.label>超凡飞船气闸</ShipAirlockArchotech.label>
+  <ShipAirlockArchotech.description>用于飞船入口或分隔舱室。电力运转，人穿过气闸不会减速。产生的低能等离子体屏障可以防止氧气逸出。</ShipAirlockArchotech.description>
+  <ShipAirlockArchotech_Blueprint.label>超凡飞船气闸（蓝图）</ShipAirlockArchotech_Blueprint.label>
+  <ShipAirlockArchotech_Frame.label>archotech ship airlock (building)</ShipAirlockArchotech_Frame.label>
+  <ShipAirlockArchotech_Frame.description>用于飞船入口或分隔舱室。电力运转，人穿过气闸不会减速。产生的低能等离子体屏障可以防止氧气逸出。</ShipAirlockArchotech_Frame.description>
+  <ShipHullTileArchotech.label>超凡船体护板</ShipHullTileArchotech.label>
+  <ShipHullTileArchotech.description>用于组成超凡飞船的重要内部结构，可以将其所在格（以及任何建造在上面的东西）视作为飞船的一部分。\n\n只能在由船体组成的封闭空间内进行铺设。</ShipHullTileArchotech.description>
+  <ShipHullTileArchotech_Blueprint.label>超凡船体护板（蓝图）</ShipHullTileArchotech_Blueprint.label>
+  <ShipHullTileArchotech_Frame.label>archotech hull plating (building)</ShipHullTileArchotech_Frame.label>
+  <ShipHullTileArchotech_Frame.description>Spaceworthy hull plating designed by an archotech.</ShipHullTileArchotech_Frame.description>
+  <Ship_Engine_Archotech.label>反物质推进器</Ship_Engine_Archotech.label>
+  <Ship_Engine_Archotech.description>可以在短时间内大幅提速的高级战斗型推进器，需要消耗异形粒子作为燃料。并不适合在大气层内行驶。\n\n推力：9000\n燃料消耗：1 异形粒子/秒</Ship_Engine_Archotech.description>
+  <ArchotechAntimatterReactor.label>反物质反应堆</ArchotechAntimatterReactor.label>
+  <ArchotechAntimatterReactor.description>通过湮灭异形粒子进行高效发电的反应堆。受损严重时很可能会引发灾难性的后果。</ArchotechAntimatterReactor.description>
+  <ShipHeatsinkAntiEntropy.label>反熵热量贮存器</ShipHeatsinkAntiEntropy.label>
+  <ShipHeatsinkAntiEntropy.description>由超凡智能设计的高级热量贮存器，可通过我们仍无法完全理解的原理来热能转化成电力。\n\n【热容量】：200Hu\n【热能转化】： 5Hu/秒→1kW/秒</ShipHeatsinkAntiEntropy.description>
+  <ShipHeatsinkAntiEntropy_Blueprint.label>反熵热量贮存器（蓝图）</ShipHeatsinkAntiEntropy_Blueprint.label>
+  <ShipHeatsinkAntiEntropy_Frame.label>anti-entropic heatbank (building)</ShipHeatsinkAntiEntropy_Frame.label>
+  <ShipHeatsinkAntiEntropy_Frame.description>由超凡智能设计的高级热量贮存器，可通过我们仍无法完全理解的原理来热能转化成电力。\n\n【热容量】：200Hu\n【热能转化】： 5Hu/秒→1kW/秒</ShipHeatsinkAntiEntropy_Frame.description>
+  <ArchotechShieldGenerator.label>超凡护盾发生器</ArchotechShieldGenerator.label>
+  <ArchotechShieldGenerator.description>一个能产生动量排斥场的设备。能够向外射击，但无法射入。\n\n超凡护盾拦截攻击时产生的热量只有普通护盾的75%，如果散热系统的热容不足，不仅护盾会失效，发生器本身也会损坏。\n\n为了避免飞船变成能烤死人的金属蒸笼，建议在热容即将达到上限时手动关闭护盾发生器。</ArchotechShieldGenerator.description>
+  <ShipArchotechSpore.label>超凡孢子</ShipArchotechSpore.label>
+  <ShipArchotechSpore.description>内部载有未知心智的超凡培养装置。虽然我们尚不清楚这个集群型心智是如何诞生的，但它们似乎已经在逐渐进化成新生的超凡智能了。\n\n超凡孢子的计算能力远远超出了人类的想象。虽然它的内部构造对于所有人来说都是个迷，但用来取代飞船电脑核心显然是小菜一碟的。\n\n殖民者在附近冥想或献祭囚犯都可以取悦超凡孢子。如果超凡孢子情绪不佳，它很可能会对殖民者们施以“小小的恶作剧”。\n\n建造多个超凡孢子并不会使恩惠的给予速度变快，它们产生的心灵立场强度也是独立计算的。</ShipArchotechSpore.description>
+  <ArchotechUplink.label>超凡上行链路</ArchotechUplink.label>
+  <ArchotechUplink.description>藉由这台装置，你可以让殖民地中的研究员与超凡孢子的部分思想达成合作。能提高研究速度，并解锁超凡科技的研究权限。需要放置在高级研究台附近。一个研究台只能连接一个超凡上行链路。</ArchotechUplink.description>
+  <ShipArchotechPillarA.label>超凡支柱-阿尔法</ShipArchotechPillarA.label>
+  <ShipArchotechPillarA.description>散发着古怪气息的超精密装置。虽然它的内部构造对于所有人来说都是个迷，但显然对我们的“超凡孢子项目”有所帮助。\n\n同种类型的支柱只需一根即可。</ShipArchotechPillarA.description>
+  <ShipArchotechPillarB.label>超凡支柱-贝塔</ShipArchotechPillarB.label>
+  <ShipArchotechPillarB.description>散发着古怪气息的超精密装置。虽然它的内部构造对于所有人来说都是个迷，但显然对我们的“超凡孢子项目”有所帮助。\n\n同种类型的支柱只需一根即可。</ShipArchotechPillarB.description>
+  <ShipArchotechPillarC.label>超凡支柱-伽马</ShipArchotechPillarC.label>
+  <ShipArchotechPillarC.description>散发着古怪气息的超精密装置。虽然它的内部构造对于所有人来说都是个迷，但显然对我们的“超凡孢子项目”有所帮助。\n\n同种类型的支柱只需一根即可。</ShipArchotechPillarC.description>
+  <ShipArchotechPillarD.label>超凡支柱-德尔塔</ShipArchotechPillarD.label>
+  <ShipArchotechPillarD.description>散发着古怪气息的超精密装置。虽然它的内部构造对于所有人来说都是个迷，但显然对我们的“超凡孢子项目”有所帮助。\n\n同种类型的支柱只需一根即可。</ShipArchotechPillarD.description>
+  <ShipSpinalBarrelPsychic.label>脊峰火炮：弑灵者炮管</ShipSpinalBarrelPsychic.label>
+  <ShipSpinalBarrelPsychic.description>用于组成脊峰火炮的最后部件，可以向敌舰发射能够穿透船体（无法穿透护盾）的定向心灵冲击波，攻击船员的精神心智，并有概率造成大脑损伤。如果你不想给船体上多开几个...咳咳，实际上弑灵者并不会对船体造成破坏。</ShipSpinalBarrelPsychic.description>
+  <ShipTurret_SpinalMountTopPsychic.label>脊峰火炮</ShipTurret_SpinalMountTopPsychic.label>
+  <ShipTurret_SpinalMountTopPsychic.description>主力舰使用的脊峰火炮。</ShipTurret_SpinalMountTopPsychic.description>
+  <ShipTurret_SpinalMountTopPsychic.verbs.0.label>shoot</ShipTurret_SpinalMountTopPsychic.verbs.0.label>
+  <Bullet_Fake_Psychic.label>心灵爆破</Bullet_Fake_Psychic.label>
+  <Proj_ShipTurretPsychic.label>心灵爆破</Proj_ShipTurretPsychic.label>
+  <ShipSpinalBarrelMechanite.label>脊峰火炮：噬舰者炮管</ShipSpinalBarrelMechanite.label>
+  <ShipSpinalBarrelMechanite.description>用于组成脊峰火炮的最后部件，可以向敌舰发射噬舰者纳米机械。如果你不想给船体上多开几个大洞的话，那就把它建造在飞船的外部。</ShipSpinalBarrelMechanite.description>
+  <ShipTurret_SpinalMountTopMechanite.label>脊峰火炮</ShipTurret_SpinalMountTopMechanite.label>
+  <ShipTurret_SpinalMountTopMechanite.description>主力舰使用的脊峰火炮。</ShipTurret_SpinalMountTopMechanite.description>
+  <ShipTurret_SpinalMountTopMechanite.verbs.0.label>shoot</ShipTurret_SpinalMountTopMechanite.verbs.0.label>
+  <Bullet_Fake_Mechanite.label>纳米机械珠弹</Bullet_Fake_Mechanite.label>
+  <Proj_ShipTurretMechanite.label>纳米机械珠弹</Proj_ShipTurretMechanite.label>
+  <MechaniteFire.label>噬舰者纳米机械</MechaniteFire.label>
+  <MechaniteSpark.label>噬舰者纳米机械</MechaniteSpark.label>
+  <Weapon_GrenadeMechanite.label>纳米机械燃烧瓶</Weapon_GrenadeMechanite.label>
+  <Weapon_GrenadeMechanite.description>装有噬舰者纳米机械的玻璃瓶。恶棍们的最爱。</Weapon_GrenadeMechanite.description>
+  <Weapon_GrenadeMechanite.verbs.0.label>投掷纳米机械燃烧瓶</Weapon_GrenadeMechanite.verbs.0.label>
+  <Proj_GrenadeMechanite.label>纳米机械燃烧瓶</Proj_GrenadeMechanite.label>
+  <ArchoRecycler.label>回收炉</ArchoRecycler.label>
+  <ArchoRecycler.description>利用纳米机械来高效分解物品的回收炉。</ArchoRecycler.description>
+  <ShipInside_PassiveCoolerArchotech.label>超凡飞船散热器</ShipInside_PassiveCoolerArchotech.label>
+  <ShipInside_PassiveCoolerArchotech.description>能以人类难以想象的速度向太空中排放热量并冷却飞船内部的超凡飞船散热器，也能为飞船炮塔和护盾发生器提供少量的热容。\n\n当隐形装置或护盾发生器开启时，超凡飞船散热器将无法向太空中排放热量。</ShipInside_PassiveCoolerArchotech.description>
+  <Ship_BeamArchotech_Unpowered_Blueprint.label>archotech ship hull (unpowered) (blueprint)</Ship_BeamArchotech_Unpowered_Blueprint.label>
+  <Ship_BeamArchotech_Unpowered_Frame.label>archotech ship hull (unpowered) (building)</Ship_BeamArchotech_Unpowered_Frame.label>
+  <Ship_BeamArchotech_Unpowered_Frame.description>The outer structural elements of an archotech-designed ship's hull. Does not include conduits for power or coolant.</Ship_BeamArchotech_Unpowered_Frame.description>
+  <Ship_BeamArchotech_Blueprint.label>archotech ship hull (blueprint)</Ship_BeamArchotech_Blueprint.label>
+  <Ship_BeamArchotech_Frame.label>archotech ship hull (building)</Ship_BeamArchotech_Frame.label>
+  <Ship_BeamArchotech_Frame.description>The outer structural elements of an archotech-designed ship's hull. Includes conduits for power and coolant. Integrated lighting system can be toggled at will if the Advanced Lighting research project is completed.</Ship_BeamArchotech_Frame.description>
+  <Ship_Corner_Archo_OneOne_Blueprint.label>archotech hull corner (1x1) (blueprint)</Ship_Corner_Archo_OneOne_Blueprint.label>
+  <Ship_Corner_Archo_OneOne_Frame.label>archotech hull corner (1x1) (building)</Ship_Corner_Archo_OneOne_Frame.label>
+  <Ship_Corner_Archo_OneOne_Frame.description>Angled armor for a ship's outer hull, designed by an archotech.</Ship_Corner_Archo_OneOne_Frame.description>
+  <Ship_Corner_Archo_OneOneFlip_Blueprint.label>archotech hull corner (1x1) flip (blueprint)</Ship_Corner_Archo_OneOneFlip_Blueprint.label>
+  <Ship_Corner_Archo_OneOneFlip_Frame.label>archotech hull corner (1x1) flip (building)</Ship_Corner_Archo_OneOneFlip_Frame.label>
+  <Ship_Corner_Archo_OneOneFlip_Frame.description>Angled armor for a ship's outer hull, designed by an archotech.</Ship_Corner_Archo_OneOneFlip_Frame.description>
+  <Ship_Corner_Archo_OneTwo_Blueprint.label>archotech hull corner (1x2) (blueprint)</Ship_Corner_Archo_OneTwo_Blueprint.label>
+  <Ship_Corner_Archo_OneTwo_Frame.label>archotech hull corner (1x2) (building)</Ship_Corner_Archo_OneTwo_Frame.label>
+  <Ship_Corner_Archo_OneTwo_Frame.description>Angled armor for a ship's outer hull, designed by an archotech.</Ship_Corner_Archo_OneTwo_Frame.description>
+  <Ship_Corner_Archo_OneTwoFlip_Blueprint.label>archotech hull corner (1x2) flip (blueprint)</Ship_Corner_Archo_OneTwoFlip_Blueprint.label>
+  <Ship_Corner_Archo_OneTwoFlip_Frame.label>archotech hull corner (1x2) flip (building)</Ship_Corner_Archo_OneTwoFlip_Frame.label>
+  <Ship_Corner_Archo_OneTwoFlip_Frame.description>Angled armor for a ship's outer hull, designed by an archotech.</Ship_Corner_Archo_OneTwoFlip_Frame.description>
+  <Ship_Corner_Archo_OneThree_Blueprint.label>archotech hull corner (1x3) (blueprint)</Ship_Corner_Archo_OneThree_Blueprint.label>
+  <Ship_Corner_Archo_OneThree_Frame.label>archotech hull corner (1x3) (building)</Ship_Corner_Archo_OneThree_Frame.label>
+  <Ship_Corner_Archo_OneThree_Frame.description>Angled armor for a ship's outer hull, designed by an archotech.</Ship_Corner_Archo_OneThree_Frame.description>
+  <Ship_Corner_Archo_OneThreeFlip_Blueprint.label>archotech hull corner (1x3) flip (blueprint)</Ship_Corner_Archo_OneThreeFlip_Blueprint.label>
+  <Ship_Corner_Archo_OneThreeFlip_Frame.label>archotech hull corner (1x3) flip (building)</Ship_Corner_Archo_OneThreeFlip_Frame.label>
+  <Ship_Corner_Archo_OneThreeFlip_Frame.description>Angled armor for a ship's outer hull, designed by an archotech.</Ship_Corner_Archo_OneThreeFlip_Frame.description>
+  <ShipInside_SolarGeneratorArchotech_Blueprint.label>archotech solar generator (blueprint)</ShipInside_SolarGeneratorArchotech_Blueprint.label>
+  <ShipInside_SolarGeneratorArchotech_Frame.label>archotech solar generator (building)</ShipInside_SolarGeneratorArchotech_Frame.label>
+  <ShipInside_SolarGeneratorArchotech_Frame.description>Uses photons to entangle itself with the star's photosphere, absorbing more energy than the sunlight alone would provide. Does not work in the dark or under artificial light.</ShipInside_SolarGeneratorArchotech_Frame.description>
+  <Ship_Engine_Archotech_Blueprint.label>antimatter thruster (blueprint)</Ship_Engine_Archotech_Blueprint.label>
+  <Ship_Engine_Archotech_Frame.label>antimatter thruster (building)</Ship_Engine_Archotech_Frame.label>
+  <Ship_Engine_Archotech_Frame.description>An advanced combat thruster capable of tremendous bursts of speed. Consumes exotic particles as fuel. Not suitable for atmospheric use.\n\nThrust: 9000\nFuel use: 1 exotic particle/s</Ship_Engine_Archotech_Frame.description>
+  <ArchotechAntimatterReactor_Blueprint.label>antimatter reactor (blueprint)</ArchotechAntimatterReactor_Blueprint.label>
+  <ArchotechAntimatterReactor_Frame.label>antimatter reactor (building)</ArchotechAntimatterReactor_Frame.label>
+  <ArchotechAntimatterReactor_Frame.description>通过湮灭异形粒子进行高效发电的反应堆。受损严重时很可能会引发灾难性的后果。</ArchotechAntimatterReactor_Frame.description>
+  <ArchotechShieldGenerator_Blueprint.label>archotech shield generator (blueprint)</ArchotechShieldGenerator_Blueprint.label>
+  <ArchotechShieldGenerator_Frame.label>archotech shield generator (building)</ArchotechShieldGenerator_Frame.label>
+  <ArchotechShieldGenerator_Frame.description>An advanced shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nGenerates 75% of a standard shield's heat when it blocks attacks. If no heatsink capacity is available, the shield will be damaged and require repairs.\n\nCaptains are advised to drop shields once coolant reaches very high temperature, or risk heatsink damage.</ArchotechShieldGenerator_Frame.description>
+  <ShipArchotechSpore_Blueprint.label>archotech spore (blueprint)</ShipArchotechSpore_Blueprint.label>
+  <ShipArchotechSpore_Frame.label>archotech spore (building)</ShipArchotechSpore_Frame.label>
+  <ShipArchotechSpore_Frame.description>内部载有未知心智的超凡培养装置。虽然我们尚不清楚这个集群型心智是如何诞生的，但它们似乎已经在逐渐进化成新生的超凡智能了。\n\n超凡孢子的计算能力远远超出了人类的想象。虽然它的内部构造对于所有人来说都是个迷，但用来取代飞船电脑核心显然是小菜一碟的。\n\n殖民者在附近冥想或献祭囚犯都可以取悦超凡孢子。如果超凡孢子情绪不佳，它很可能会对殖民者们施以“小小的恶作剧”。\n\n建造多个超凡孢子并不会使恩惠的给予速度变快，它们产生的心灵立场强度也是独立计算的。</ShipArchotechSpore_Frame.description>
+  <ArchotechUplink_Blueprint.label>archotech uplink (blueprint)</ArchotechUplink_Blueprint.label>
+  <ArchotechUplink_Blueprint_Install.label>archotech uplink (blueprint)</ArchotechUplink_Blueprint_Install.label>
+  <ArchotechUplink_Frame.label>archotech uplink (building)</ArchotechUplink_Frame.label>
+  <ArchotechUplink_Frame.description>Allows human researchers to collaborate with a fraction of your archotech spore's mind. Place near a high-tech research bench to unlock archotech projects. Each research bench can only use one uplink.</ArchotechUplink_Frame.description>
+  <ShipArchotechPillarA_Blueprint.label>archotech pillar alpha (blueprint)</ShipArchotechPillarA_Blueprint.label>
+  <ShipArchotechPillarA_Blueprint_Install.label>archotech pillar alpha (blueprint)</ShipArchotechPillarA_Blueprint_Install.label>
+  <ShipArchotechPillarA_Frame.label>archotech pillar alpha (building)</ShipArchotechPillarA_Frame.label>
+  <ShipArchotechPillarA_Frame.description>A complex and bizarre apparatus which serves no human-comprehensible purpose, but which will apparently advance the plans of your archotech spore in some way.\n\nThere is no benefit to building more than one copy of the same pillar.</ShipArchotechPillarA_Frame.description>
+  <ShipArchotechPillarB_Blueprint.label>archotech pillar beta (blueprint)</ShipArchotechPillarB_Blueprint.label>
+  <ShipArchotechPillarB_Blueprint_Install.label>archotech pillar beta (blueprint)</ShipArchotechPillarB_Blueprint_Install.label>
+  <ShipArchotechPillarB_Frame.label>archotech pillar beta (building)</ShipArchotechPillarB_Frame.label>
+  <ShipArchotechPillarB_Frame.description>A complex and bizarre apparatus which serves no human-comprehensible purpose, but which will apparently advance the plans of your archotech spore in some way.\n\nThere is no benefit to building more than one copy of the same pillar.</ShipArchotechPillarB_Frame.description>
+  <ShipArchotechPillarC_Blueprint.label>archotech pillar gamma (blueprint)</ShipArchotechPillarC_Blueprint.label>
+  <ShipArchotechPillarC_Blueprint_Install.label>archotech pillar gamma (blueprint)</ShipArchotechPillarC_Blueprint_Install.label>
+  <ShipArchotechPillarC_Frame.label>archotech pillar gamma (building)</ShipArchotechPillarC_Frame.label>
+  <ShipArchotechPillarC_Frame.description>A complex and bizarre apparatus which serves no human-comprehensible purpose, but which will apparently advance the plans of your archotech spore in some way.\n\nThere is no benefit to building more than one copy of the same pillar.</ShipArchotechPillarC_Frame.description>
+  <ShipArchotechPillarD_Blueprint.label>archotech pillar delta (blueprint)</ShipArchotechPillarD_Blueprint.label>
+  <ShipArchotechPillarD_Blueprint_Install.label>archotech pillar delta (blueprint)</ShipArchotechPillarD_Blueprint_Install.label>
+  <ShipArchotechPillarD_Frame.label>archotech pillar delta (building)</ShipArchotechPillarD_Frame.label>
+  <ShipArchotechPillarD_Frame.description>A complex and bizarre apparatus which serves no human-comprehensible purpose, but which will apparently advance the plans of your archotech spore in some way.\n\nThere is no benefit to building more than one copy of the same pillar.</ShipArchotechPillarD_Frame.description>
+  <ShipSpinalBarrelPsychic_Blueprint.label>spinal barrel: psychic flayer (blueprint)</ShipSpinalBarrelPsychic_Blueprint.label>
+  <ShipSpinalBarrelPsychic_Frame.label>spinal barrel: psychic flayer (building)</ShipSpinalBarrelPsychic_Frame.label>
+  <ShipSpinalBarrelPsychic_Frame.description>The final segment of a spinal-mount cannon. Fires a beam of directed psychic trauma that stuns crew and will likely cause brain damage. Ignores hull (but not shields). Unlike other spinal weapons, the psychic flayer cannot damage your own ship.</ShipSpinalBarrelPsychic_Frame.description>
+  <ShipSpinalBarrelMechanite_Blueprint.label>spinal barrel: disassembler (blueprint)</ShipSpinalBarrelMechanite_Blueprint.label>
+  <ShipSpinalBarrelMechanite_Frame.label>spinal barrel: disassembler (building)</ShipSpinalBarrelMechanite_Frame.label>
+  <ShipSpinalBarrelMechanite_Frame.description>The final segment of a spinal-mount cannon. A modified railgun which launches globs of disassembler mechanites. Should be placed outside the ship, unless you want a new hole in your hull.</ShipSpinalBarrelMechanite_Frame.description>
+  <ArchoRecycler_Blueprint.label>recyclotron (blueprint)</ArchoRecycler_Blueprint.label>
+  <ArchoRecycler_Blueprint_Install.label>recyclotron (blueprint)</ArchoRecycler_Blueprint_Install.label>
+  <ArchoRecycler_Frame.label>recyclotron (building)</ArchoRecycler_Frame.label>
+  <ArchoRecycler_Frame.description>Uses mechanites to break down any object into its base materials, with near perfect efficiency.</ArchoRecycler_Frame.description>
+</LanguageData>

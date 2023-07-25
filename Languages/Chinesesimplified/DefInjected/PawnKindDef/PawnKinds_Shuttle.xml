@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ShuttlePersonalHover.label>私人穿梭机（悬停模式）</ShuttlePersonalHover.label>
+  <ShuttlePersonalHover.labelPlural>私人穿梭机（悬停模式）</ShuttlePersonalHover.labelPlural>
+  <ShuttleCargoHover.label>货运穿梭机（悬停模式）</ShuttleCargoHover.label>
+  <ShuttleCargoHover.labelPlural>货运穿梭机（悬停模式）</ShuttleCargoHover.labelPlural>
+  <ShuttleHeavyHover.label>重型货运穿梭机（悬停模式）</ShuttleHeavyHover.label>
+  <ShuttleHeavyHover.labelPlural>重型货运穿梭机（悬停模式）</ShuttleHeavyHover.labelPlural>
+  <ShuttleDropshipHover.label>超重型货运穿梭机（悬停模式）</ShuttleDropshipHover.label>
+  <ShuttleDropshipHover.labelPlural>超重型货运穿梭机（悬停模式）</ShuttleDropshipHover.labelPlural>
+</LanguageData>

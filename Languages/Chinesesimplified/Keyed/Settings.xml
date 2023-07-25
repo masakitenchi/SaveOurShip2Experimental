@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SoS.Settings.DifficultySoS>难度因数（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.DifficultySoS>
+  <SoS.Settings.DifficultySoS.Desc>影响敌方舰队的规模和强度。</SoS.Settings.DifficultySoS.Desc>
+  <SoS.Settings.FrequencySoS>舰船战频率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FrequencySoS>
+  <SoS.Settings.FrequencySoS.Desc>更高的值意味着舰船战之间的时间间隔更短。</SoS.Settings.FrequencySoS.Desc>
+  <SoS.Settings.NavyShipChance>Navy chance (Min: {0} Max: {1} Default: {2} Current: {3})</SoS.Settings.NavyShipChance>
+  <SoS.Settings.NavyShipChance.Desc>How likely navies will appear in random encounters.</SoS.Settings.NavyShipChance.Desc>
+  <SoS.Settings.FleetChance>舰队生成概率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FleetChance>
+  <SoS.Settings.FleetChance.Desc>生成敌舰舰队和轨道交易商舰队的频率。</SoS.Settings.FleetChance.Desc>
+  <SoS.Settings.EasyMode>简单跳帮战</SoS.Settings.EasyMode>
+  <SoS.Settings.EasyMode.Desc>选中以阻止敌方点防武器击毁玩家的空投仓，并允许在战斗中降落在舰船外侧。</SoS.Settings.EasyMode.Desc>
+  <SoS.Settings.UseVacuumPathfinding>使用真空寻路算法</SoS.Settings.UseVacuumPathfinding>
+  <SoS.Settings.UseVacuumPathfinding.Desc>选中以使得没有EVA装备的小人在寻路时回避真空区。和其他影响寻路的mod冲突。需要重新启动游戏才能生效。</SoS.Settings.UseVacuumPathfinding.Desc>
+  <SoS.Settings.MinTravelTime>最短旅行时间（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.MinTravelTime>
+  <SoS.Settings.MinTravelTime.Desc>航行至新世界所需的最短年数。</SoS.Settings.MinTravelTime.Desc>
+  <SoS.Settings.MaxTravelTime>最长旅行时间（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.MaxTravelTime>
+  <SoS.Settings.MaxTravelTime.Desc>航行至新世界所需的年数上限。</SoS.Settings.MaxTravelTime.Desc>
+  <SoS.Settings.RenderPlanet>动态行星渲染</SoS.Settings.RenderPlanet>
+  <SoS.Settings.RenderPlanet.Desc>勾选时，太空中的行星眺望图会显示昼夜循环。如果帧率变低请关闭此选项。</SoS.Settings.RenderPlanet.Desc>
+  <SoS.Settings.UseSplashScreen>SoS主菜单界面</SoS.Settings.UseSplashScreen>
+  <SoS.Settings.UseSplashScreen.Desc>勾选后将主菜单背景图替换为SOS2的新背景图，需要重新启动游戏。</SoS.Settings.UseSplashScreen.Desc>
+  <SoS.Settings.OffsetUIx>飞船UI偏移：X轴</SoS.Settings.OffsetUIx>
+  <SoS.Settings.OffsetUIx.Desc>舰船战UI的X轴偏移量（以屏幕中心为原点）。</SoS.Settings.OffsetUIx.Desc>
+  <SoS.Settings.OffsetUIy>飞船UI偏移：Y轴</SoS.Settings.OffsetUIy>
+  <SoS.Settings.OffsetUIy.Desc>舰船战UI的Y轴偏移量（以屏幕中心为原点）。</SoS.Settings.OffsetUIy.Desc>
+</LanguageData>

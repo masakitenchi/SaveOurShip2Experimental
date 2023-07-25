@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BombACI.label>烧伤</BombACI.label>
+  <BombACI.deathMessage>{0}被炸死了。</BombACI.deathMessage>
+  <BombACII.label>烧伤</BombACII.label>
+  <BombACII.deathMessage>{0}被炸死了。</BombACII.deathMessage>
+  <BombACIII.label>炸伤</BombACIII.label>
+  <BombACIII.deathMessage>{0}被炸死了。</BombACIII.deathMessage>
+  <ShipLaserSmall.label>激光烧伤</ShipLaserSmall.label>
+  <ShipLaserSmall.deathMessage>{0}被激光束灼烧殆尽。</ShipLaserSmall.deathMessage>
+  <ShipLaserTwo.label>激光烧伤</ShipLaserTwo.label>
+  <ShipLaserTwo.deathMessage>{0}被激光束灼烧殆尽。</ShipLaserTwo.deathMessage>
+  <ShipPlasmaSmall.label>等离子体烧伤</ShipPlasmaSmall.label>
+  <ShipPlasmaSmall.deathMessage>{0}被等离子体蒸发了。</ShipPlasmaSmall.deathMessage>
+  <ShipPlasmaLarge.label>等离子体烧伤</ShipPlasmaLarge.label>
+  <ShipPlasmaLarge.deathMessage>{0}被等离子体蒸发了。</ShipPlasmaLarge.deathMessage>
+  <BombKinetic.label>烧伤</BombKinetic.label>
+  <BombKinetic.deathMessage>{0}被炸死了。</BombKinetic.deathMessage>
+  <BombKineticLarge.label>烧伤</BombKineticLarge.label>
+  <BombKineticLarge.deathMessage>{0}被炸死了。</BombKineticLarge.deathMessage>
+  <ShieldExplosion.label>护盾</ShieldExplosion.label>
+  <ShieldExplosion.deathMessage>{0}因意外事故身亡。</ShieldExplosion.deathMessage>
+  <BombShipDebris.label>bomb</BombShipDebris.label>
+  <BombShipDebris.deathMessage>{0}被飞船碎片撞碎了。</BombShipDebris.deathMessage>
+  <BombShipDebrisLarge.label>bomb</BombShipDebrisLarge.label>
+  <BombShipDebrisLarge.deathMessage>{0}被飞船碎片撞碎了。</BombShipDebrisLarge.deathMessage>
+</LanguageData>

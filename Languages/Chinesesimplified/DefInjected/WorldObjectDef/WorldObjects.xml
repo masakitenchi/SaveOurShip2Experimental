@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ShipOrbiting.label>轨道飞船</ShipOrbiting.label>
+  <ShipOrbiting.description>已抵达星球轨道的飞船。</ShipOrbiting.description>
+  <ShipEnemy.label>敌对飞船</ShipEnemy.label>
+  <ShipEnemy.description>附近的敌对飞船。</ShipEnemy.description>
+  <ShipEngineImpactSite.label>撞击地点</ShipEngineImpactSite.label>
+  <ShipEngineImpactSite.description>古代飞船推进器的撞击地点。</ShipEngineImpactSite.description>
+  <MoonPillarSite.label>卫月机巢</MoonPillarSite.label>
+  <MoonPillarSite.description>位于星球卫月上的机械族巢穴，一根超凡支柱正静静地矗立在那里。</MoonPillarSite.description>
+  <TribalPillarSite.label>星宇图腾所在地</TribalPillarSite.label>
+  <TribalPillarSite.description>这个星球上部落最神圣的地方：一个远古科技立柱的撞击坑。</TribalPillarSite.description>
+  <InsectPillarSite.label>虫族母巢</InsectPillarSite.label>
+  <InsectPillarSite.description>位于星球地下深处的虫族母巢，一根超凡支柱正静静地矗立在那里。</InsectPillarSite.description>
+  <TravelingShuttlesPersonal.label>穿梭机</TravelingShuttlesPersonal.label>
+  <TravelingShuttlesPersonal.description>飞行中的穿梭机。</TravelingShuttlesPersonal.description>
+  <TravelingShuttlesCargo.label>穿梭机</TravelingShuttlesCargo.label>
+  <TravelingShuttlesCargo.description>飞行中的穿梭机。</TravelingShuttlesCargo.description>
+  <TravelingShuttlesHeavy.label>穿梭机</TravelingShuttlesHeavy.label>
+  <TravelingShuttlesHeavy.description>飞行中的穿梭机。</TravelingShuttlesHeavy.description>
+  <TravelingShuttlesDropship.label>穿梭机</TravelingShuttlesDropship.label>
+  <TravelingShuttlesDropship.description>飞行中的穿梭机。</TravelingShuttlesDropship.description>
+</LanguageData>
