@@ -53,16 +53,6 @@
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <Reference Include="Celsius">
-      <HintPath>..\..\..\Celsius-SK\1.4\Assemblies\Celsius.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Minerals">
-      <HintPath>..\..\..\Minerals\Assemblies\Minerals.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Alert_ArchotechSporeMoodLow.cs" />
     <Compile Include="Alert_MechanitesInHomeArea.cs" />
     <Compile Include="ApparelHolographic.cs" />
