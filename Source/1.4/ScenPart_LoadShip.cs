@@ -127,10 +127,14 @@ namespace RimWorld
                 Current.Game.researchManager = researchManager;
                 if (!discardTales)
                     Current.Game.taleManager = taleManager;
+                if (Current.Game.taleManager == null)
+                    Current.Game.taleManager = new TaleManager();
                 if (!discardLog)
                 {
                     Scribe_Deep.Look<PlayLog>(ref playLog, false, "playLog");
                     Current.Game.playLog = playLog; //playerlog calls gameStartAbsTick before set up, use GenTicks.TicksAbs
+                    if (Current.Game.playLog == null)
+                        Current.Game.playLog = new PlayLog();
                 }
                 Current.Game.outfitDatabase = outfitDatabase;
                 Current.Game.drugPolicyDatabase = drugPolicyDatabase;
@@ -285,6 +289,7 @@ namespace RimWorld
                 Building_CryptosleepCasket c = b as Building_CryptosleepCasket;
                 if (c.ContainedThing is Pawn p)
                 {
+                    p.royalty = new Pawn_RoyaltyTracker(p); //reset royal everything
                     p.health.AddHediff(HediffDefOf.CryptosleepSickness, null, null, null);
                 }
                 c.Open();
