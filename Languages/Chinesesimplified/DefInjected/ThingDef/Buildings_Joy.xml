@@ -8,20 +8,20 @@
   <Holodeck_AI.description>由AI操控的全像模拟设备，使用者可以按照自己的喜好来定制投射的影像。使用者会依据所选择的模拟影像来快速获得对应的技能经验值。</Holodeck_AI.description>
   <TelescopeSpace.label>太空望远镜</TelescopeSpace.label>
   <TelescopeSpace.description>更加高级的天文望远镜。某一类人作为兴趣爱好和放松心情之用。归功于其特殊的设计，这种望远镜可以安装在屋顶或飞船舱顶下。</TelescopeSpace.description>
-  <Holodeck_Basic_Blueprint.label>basic holodeck (blueprint)</Holodeck_Basic_Blueprint.label>
-  <Holodeck_Basic_Blueprint_Install.label>basic holodeck (blueprint)</Holodeck_Basic_Blueprint_Install.label>
-  <Holodeck_Basic_Frame.label>basic holodeck (building)</Holodeck_Basic_Frame.label>
+  <Holodeck_Basic_Blueprint.label>基础全像模拟设备（蓝图）</Holodeck_Basic_Blueprint.label>
+  <Holodeck_Basic_Blueprint_Install.label>基础全像模拟设备（蓝图）</Holodeck_Basic_Blueprint_Install.label>
+  <Holodeck_Basic_Frame.label>基础全像模拟设备（正在建造）</Holodeck_Basic_Frame.label>
   <Holodeck_Basic_Frame.description>与游戏电脑相连接的简易全像模拟设备，只能投射一些较为粗略的影像。使用者会依据所选择的模拟影像来慢慢获得对应的技能经验值。</Holodeck_Basic_Frame.description>
-  <Holodeck_Standard_Blueprint.label>advanced holodeck (blueprint)</Holodeck_Standard_Blueprint.label>
-  <Holodeck_Standard_Blueprint_Install.label>advanced holodeck (blueprint)</Holodeck_Standard_Blueprint_Install.label>
-  <Holodeck_Standard_Frame.label>advanced holodeck (building)</Holodeck_Standard_Frame.label>
+  <Holodeck_Standard_Blueprint.label>高级全像模拟设备（蓝图）</Holodeck_Standard_Blueprint.label>
+  <Holodeck_Standard_Blueprint_Install.label>高级全像模拟设备（蓝图）</Holodeck_Standard_Blueprint_Install.label>
+  <Holodeck_Standard_Frame.label>高级全像模拟设备（正在建造）</Holodeck_Standard_Frame.label>
   <Holodeck_Standard_Frame.description>整体性能更先进的全像模拟设备，看起来非常有趣。使用者会依据所选择的模拟影像来获得对应的技能经验值。</Holodeck_Standard_Frame.description>
-  <Holodeck_AI_Blueprint.label>sapient holodeck (blueprint)</Holodeck_AI_Blueprint.label>
-  <Holodeck_AI_Blueprint_Install.label>sapient holodeck (blueprint)</Holodeck_AI_Blueprint_Install.label>
-  <Holodeck_AI_Frame.label>sapient holodeck (building)</Holodeck_AI_Frame.label>
+  <Holodeck_AI_Blueprint.label>极致全像模拟设备（蓝图）</Holodeck_AI_Blueprint.label>
+  <Holodeck_AI_Blueprint_Install.label>极致全像模拟设备（蓝图）</Holodeck_AI_Blueprint_Install.label>
+  <Holodeck_AI_Frame.label>极致全像模拟设备（正在建造）</Holodeck_AI_Frame.label>
   <Holodeck_AI_Frame.description>由AI操控的全像模拟设备，使用者可以按照自己的喜好来定制投射的影像。使用者会依据所选择的模拟影像来快速获得对应的技能经验值。</Holodeck_AI_Frame.description>
-  <TelescopeSpace_Blueprint.label>space telescope (blueprint)</TelescopeSpace_Blueprint.label>
-  <TelescopeSpace_Blueprint_Install.label>space telescope (blueprint)</TelescopeSpace_Blueprint_Install.label>
-  <TelescopeSpace_Frame.label>space telescope (building)</TelescopeSpace_Frame.label>
+  <TelescopeSpace_Blueprint.label>太空望远镜（蓝图）</TelescopeSpace_Blueprint.label>
+  <TelescopeSpace_Blueprint_Install.label>太空望远镜（蓝图）</TelescopeSpace_Blueprint_Install.label>
+  <TelescopeSpace_Frame.label>太空望远镜（正在建造）</TelescopeSpace_Frame.label>
   <TelescopeSpace_Frame.description>更加高级的天文望远镜。某一类人作为兴趣爱好和放松心情之用。归功于其特殊的设计，这种望远镜可以安装在屋顶或飞船舱顶下。</TelescopeSpace_Frame.description>
 </LanguageData>

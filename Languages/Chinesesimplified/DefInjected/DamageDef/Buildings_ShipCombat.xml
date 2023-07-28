@@ -20,8 +20,8 @@
   <BombKineticLarge.deathMessage>{0}被炸死了。</BombKineticLarge.deathMessage>
   <ShieldExplosion.label>护盾</ShieldExplosion.label>
   <ShieldExplosion.deathMessage>{0}因意外事故身亡。</ShieldExplosion.deathMessage>
-  <BombShipDebris.label>bomb</BombShipDebris.label>
+  <BombShipDebris.label>炸伤</BombShipDebris.label>
   <BombShipDebris.deathMessage>{0}被飞船碎片撞碎了。</BombShipDebris.deathMessage>
-  <BombShipDebrisLarge.label>bomb</BombShipDebrisLarge.label>
+  <BombShipDebrisLarge.label>炸伤</BombShipDebrisLarge.label>
   <BombShipDebrisLarge.deathMessage>{0}被飞船碎片撞碎了。</BombShipDebrisLarge.deathMessage>
 </LanguageData>

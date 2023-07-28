@@ -60,4 +60,16 @@
   <ShipHeatManifold.description>解锁建造能储存热量并将其迅速排放至太空中的「速排型热量贮存器」。</ShipHeatManifold.description>
   <ShipAvatarCasket.label>全息投影构造舱</ShipAvatarCasket.label>
   <ShipAvatarCasket.description>解锁建造能使死亡的殖民者以另一种方式重生的「“来世”全息投影构造舱」。</ShipAvatarCasket.description>
+  <ShipEngine.label>rocket propulsion</ShipEngine.label>
+  <ShipEngine.description>Construct chemical engines for a ship. These can reach orbit, but no further.</ShipEngine.description>
+  <ShipBasics.label>starflight basics</ShipBasics.label>
+  <ShipBasics.description>Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system.</ShipBasics.description>
+  <ShipReactor.label>ship fission reactor</ShipReactor.label>
+  <ShipReactor.description>Burn uranium fuel pods for long-term power.</ShipReactor.description>
+  <ShipComputerCore.label>ship computer core</ShipComputerCore.label>
+  <ShipComputerCore.description>Allows coercing an existing AI persona into a usable ship computer core for long-range guidance.</ShipComputerCore.description>
+  <ShipSensorCluster.label>basic ship sensors</ShipSensorCluster.label>
+  <ShipSensorCluster.description>Construct sensors for a ship, capable of basic navigation and observing areas from orbit.</ShipSensorCluster.description>
+  <ShipCryptosleep.label>escape pods</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Construct a specialized cryptosleep casket capable of surviving atmospheric re-entry, and which does not need to be opened manually. It would be a good idea to have at least one aboard a starship.</ShipCryptosleep.description>
 </LanguageData>

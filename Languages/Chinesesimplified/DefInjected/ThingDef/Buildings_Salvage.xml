@@ -8,7 +8,7 @@
   <ShipHullTileWrecked.description>毫无利用价值的船体残骸。</ShipHullTileWrecked.description>
   <ShipChunkSalvage.label>高级飞船残骸</ShipChunkSalvage.label>
   <ShipChunkSalvage.description>内部结构相对完好的高级飞船残骸。看起来还能从中回收少量有用的材料和高级零部件。</ShipChunkSalvage.description>
-  <ShipChunkSalvage_Blueprint_Install.label>ship salvage (blueprint)</ShipChunkSalvage_Blueprint_Install.label>
+  <ShipChunkSalvage_Blueprint_Install.label>飞船残骸（蓝图）</ShipChunkSalvage_Blueprint_Install.label>
   <Space_Satellite_Core.label>卫星系统核心</Space_Satellite_Core.label>
   <Space_Satellite_Core.description>远古通信网络系统的核心装置。无论修复还是破解都需要相当高的技能等级，而且任何一步出了差错都可能会激活防卫协议。\n\n不过，胜利的果实显然是价值不菲的——这颗卫星可用来执行轨道轰炸、轨道能量束打击或操控天气。\n\n当然，你也可以直接把它拆掉，但这必然会直接激活其中的防卫协议。</Space_Satellite_Core.description>
   <Ship_DamagedReactor.label>受损的裂变反应堆</Ship_DamagedReactor.label>

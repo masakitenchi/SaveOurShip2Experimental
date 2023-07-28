@@ -263,4 +263,34 @@
   <ShipBPFrigateWinged_Blueprint_Install.label>ship blueprint (frigate) (blueprint)</ShipBPFrigateWinged_Blueprint_Install.label>
   <ShipBPTachinante_Blueprint_Install.label>ship blueprint (ancient martian corvette) (blueprint)</ShipBPTachinante_Blueprint_Install.label>
   <ShipBPTransportSmall_Blueprint_Install.label>ship blueprint (small transport) (blueprint)</ShipBPTransportSmall_Blueprint_Install.label>
+  <Ship_Beam.label>ship hull</Ship_Beam.label>
+  <Ship_Beam.description>The outer structural elements of a ship's hull. Includes conduits for power, life-support gases, and coolant. Integrated lighting system can be toggled at will if the Advanced Lighting research project is completed.</Ship_Beam.description>
+  <Ship_Beam_Blueprint.label>ship hull (blueprint)</Ship_Beam_Blueprint.label>
+  <Ship_Beam_Frame.label>ship hull (building)</Ship_Beam_Frame.label>
+  <Ship_Beam_Frame.description>The outer structural elements of a ship's hull. Includes conduits for power, life-support gases, and coolant. Integrated lighting system can be toggled at will if the Advanced Lighting research project is completed.</Ship_Beam_Frame.description>
+  <Ship_Engine.label>rocket engine</Ship_Engine.label>
+  <Ship_Engine.description>A chemfuel-powered engine capable of launching a ship into orbit. Not suitable for interplanetary travel.\n\nThrust: 1000\nFuel use: 2 chemfuel/s\nMax takeoff strength: 1000</Ship_Engine.description>
+  <Ship_Engine_Blueprint.label>rocket engine (blueprint)</Ship_Engine_Blueprint.label>
+  <Ship_Engine_Frame.label>rocket engine (building)</Ship_Engine_Frame.label>
+  <Ship_Engine_Frame.description>A chemfuel-powered engine capable of launching a ship into orbit. Not suitable for interplanetary travel.\n\nThrust: 1000\nFuel use: 2 chemfuel/s\nMax takeoff strength: 1000</Ship_Engine_Frame.description>
+  <Ship_ComputerCore.label>ship computer core</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>A computer core capable of housing a superhumanlike AI who can pilot your ship or guide it on interstellar journeys. Includes a mechanite breeding tank which allows the AI to manifest a formgel avatar.</Ship_ComputerCore.description>
+  <Ship_ComputerCore_Blueprint.label>ship computer core (blueprint)</Ship_ComputerCore_Blueprint.label>
+  <Ship_ComputerCore_Frame.label>ship computer core (building)</Ship_ComputerCore_Frame.label>
+  <Ship_ComputerCore_Frame.description>A computer core capable of housing a superhumanlike AI who can pilot your ship or guide it on interstellar journeys. Includes a mechanite breeding tank which allows the AI to manifest a formgel avatar.</Ship_ComputerCore_Frame.description>
+  <Ship_SensorCluster.label>basic sensors</Ship_SensorCluster.label>
+  <Ship_SensorCluster.description>Basic ship sensors required for ship operation. Allow a ship to reach orbit or observe an area to land at once in orbit.</Ship_SensorCluster.description>
+  <Ship_SensorCluster_Blueprint.label>basic sensors (blueprint)</Ship_SensorCluster_Blueprint.label>
+  <Ship_SensorCluster_Frame.label>basic sensors (building)</Ship_SensorCluster_Frame.label>
+  <Ship_SensorCluster_Frame.description>Basic ship sensors required for ship operation. Allow a ship to reach orbit or observe an area to land at once in orbit.</Ship_SensorCluster_Frame.description>
+  <Ship_Reactor.label>ship fission reactor</Ship_Reactor.label>
+  <Ship_Reactor.description>A compact, self-contained fission reactor. Burns uranium fuel pods. Vents heat into a heatsink network if available, or into the surrounding room if not.\n\nIts base power production of 10,000W can be boosted with several increasingly risky overdrive modes.</Ship_Reactor.description>
+  <Ship_Reactor_Blueprint.label>ship fission reactor (blueprint)</Ship_Reactor_Blueprint.label>
+  <Ship_Reactor_Frame.label>ship fission reactor (building)</Ship_Reactor_Frame.label>
+  <Ship_Reactor_Frame.description>A compact, self-contained fission reactor. Burns uranium fuel pods. Vents heat into a heatsink network if available, or into the surrounding room if not.\n\nIts base power production of 10,000W can be boosted with several increasingly risky overdrive modes.</Ship_Reactor_Frame.description>
+  <Ship_CryptosleepCasket.label>ship cryptosleep casket</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>A cryptosleep casket with multiple built-in timers and contingencies. Can be opened without manual intervention. In the event of catastrophic ship failure, it can also act as an escape pod.\n\nIt would be a good idea to have at least one of these aboard any starship.</Ship_CryptosleepCasket.description>
+  <Ship_CryptosleepCasket_Blueprint.label>ship cryptosleep casket (blueprint)</Ship_CryptosleepCasket_Blueprint.label>
+  <Ship_CryptosleepCasket_Frame.label>ship cryptosleep casket (building)</Ship_CryptosleepCasket_Frame.label>
+  <Ship_CryptosleepCasket_Frame.description>A cryptosleep casket with multiple built-in timers and contingencies. Can be opened without manual intervention. In the event of catastrophic ship failure, it can also act as an escape pod.\n\nIt would be a good idea to have at least one of these aboard any starship.</Ship_CryptosleepCasket_Frame.description>
 </LanguageData>

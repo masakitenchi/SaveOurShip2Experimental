@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <JourneyOffer>一个曾经被你起名为沙隆·白石的友好AI给你发了一条消息！\n\n他透露说他在这个星球上有一艘太空船，并把坐标发给了你。\n\n如果你抵达了飞船的所在地，沙隆·白石将会把你们送入星球轨道。在那里，你需要开始考虑如何改良推进器并进行星际航行。</JourneyOffer>
-  <EscapeShipFoundLabel>发现飞船</EscapeShipFoundLabel>
-  <EscapeShipFound>你已经抵达了沙隆·白石发送的坐标，并发现了隐藏的飞船。\n\n这艘船已经准备好发射了，但它所使用的化和燃料推进器只能将你们送入星球轨道。要想走得更远，你需要想办法搞到一个约翰逊-田中驱动器。或许，我们可以从那些飘荡在星球轨道上的碎片与残骸中找到一些线索...</EscapeShipFound>
+  <EscapeShipFoundLabel>到达飞船地点</EscapeShipFoundLabel>
+  <EscapeShipFound>你到达了沙隆·白石指示的地点，发现了一艘藏起来的飞船。\n\n飞船可以升空，但它的化学能引擎并不足以进行星际航行。你需要一台约翰逊-田中驱动器才能进行星际航行。或许在轨道上的残骸里可以找到一些线索……</EscapeShipFound>
 </LanguageData>

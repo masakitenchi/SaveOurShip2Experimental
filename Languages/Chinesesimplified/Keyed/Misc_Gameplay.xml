@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <ShipStatsShipName>飞船名字：{0}</ShipStatsShipName>
-  <ShipStatsNotoriety>声誉：{0}</ShipStatsNotoriety>
+  <ShipStatsNotoriety>「声望」：{0}</ShipStatsNotoriety>
   <ShipStatsShipMass>重量：{0}</ShipStatsShipMass>
   <ShipStatsShipMaxTakeoff>最大起飞重量：{0}</ShipStatsShipMaxTakeoff>
   <ShipStatsShipEnergy>储存的电力：{0}/{1} Wd</ShipStatsShipEnergy>
@@ -9,11 +9,11 @@
   <ShipStatsShipCombatRating>战斗等级：{0}</ShipStatsShipCombatRating>
   <ShipStatsShipCombatThrust>推力/重量比：{0}</ShipStatsShipCombatThrust>
   <ShipStatsChemfuel>升空所需的化合燃料：{0}</ShipStatsChemfuel>
-  <ShipReportInterReady>已准备好进行星际航行了。</ShipReportInterReady>
+  <ShipReportInterReady>已准备好进行星际航行。</ShipReportInterReady>
   <ShipReportInterNotReady>还没有做好星际航行的准备：</ShipReportInterNotReady>
   <ShipReportNeedPilot>飞船需要驾驶员或者人格核心。</ShipReportNeedPilot>
-  <ShipNeedsMoreFuel>飞船有{0}单位燃料，但需要在引擎中有{1}单位。</ShipNeedsMoreFuel>
-  <ShipNeedsMorePower>飞船只存有{0}Wd的电力, 但它总共需要{0}Wd。</ShipNeedsMorePower>
+  <ShipNeedsMoreFuel>飞船需要{1}单位燃料，但引擎中仅有{0}。</ShipNeedsMoreFuel>
+  <ShipNeedsMorePower>飞船需要{0}Wd的电能。</ShipNeedsMorePower>
   <ShipNeedsMoreJTEngines>飞船过大，需要更多约翰逊-田中引擎。</ShipNeedsMoreJTEngines>
   <ShipPlanetLeave>航向新世界</ShipPlanetLeave>
   <ShipPlanetLeaveDesc>离开这个星球，寻找另一个可以定居的世界</ShipPlanetLeaveDesc>
@@ -36,9 +36,9 @@
   <ShipBurnUpCountdownTip>这张地图将在{0}后坠入大气层，摧毁其中的一切。</ShipBurnUpCountdownTip>
   <UnfoldStatus>状态:</UnfoldStatus>
   <UnfoldRetracted>收回</UnfoldRetracted>
-  <UnfoldExtended>扩展的</UnfoldExtended>
-  <UnfoldExtending>延伸</UnfoldExtending>
-  <UnfoldRetracting>收回</UnfoldRetracting>
+  <UnfoldExtended>已伸出</UnfoldExtended>
+  <UnfoldExtending>正在伸出</UnfoldExtending>
+  <UnfoldRetracting>正在收回</UnfoldRetracting>
   <ShipHeatStored>散热网络系统蓄热量/容量: {0} HU / {1} HU</ShipHeatStored>
   <CannotFireDueToHeat>{0}无法开火：热量贮存器的热容不足</CannotFireDueToHeat>
   <CannotFireDueToPower>{0}无法开火：电力不足</CannotFireDueToPower>
@@ -48,19 +48,19 @@
   <ShipAirlockHacked>气闸骇入成功！</ShipAirlockHacked>
   <ShipAirlockHackFailed>气闸骇入失败！</ShipAirlockHackFailed>
   <ShipAirlockBreached>气闸被破坏了！</ShipAirlockBreached>
-  <ShipCombatTooltip>显示敌舰与你的距离，以及所有正在飞行的炮弹。\n\n红色区间：所有武器可以开火，但轨道炮塔的精度会降低。\n\n绿色区间：等离子炮塔、轨道炮塔和鱼雷都可以开火，轨道炮塔的精度适中。\n\n蓝色区间：只有轨道炮塔和鱼雷可以开火，轨道炮塔的精度将会大幅提高。</ShipCombatTooltip>
-  <ShipAmplifierCount>功放: {0}</ShipAmplifierCount>
+  <ShipCombatTooltip>显示敌舰与你的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色区间：动能炮塔/激光炮塔\n绿色区间：等离子炮塔\n蓝色区间：轨道炮塔\n紫色区间：鱼雷\n较短的区间条：在此区间内开火时大型炮塔的精度降低</ShipCombatTooltip>
+  <ShipAmplifierCount>功放器: {0}个</ShipAmplifierCount>
   <ShipSpinalCapNotFound>未找到脊峰电容器</ShipSpinalCapNotFound>
-  <ShipTorpedoLoaded>装载: {0}</ShipTorpedoLoaded>
+  <ShipTorpedoLoaded>装载: {0}个</ShipTorpedoLoaded>
   <ShipTorpedoNotLoaded>空载</ShipTorpedoNotLoaded>
   <shipTubeFullyLoaded>满载</shipTubeFullyLoaded>
   <shipNoTorpedoes>没有鱼雷</shipNoTorpedoes>
-  <MessageTurretWontFireBecausePointDefense>警告：由于已切换至点防御模式，炮塔将不会攻击敌舰。</MessageTurretWontFireBecausePointDefense>
+  <MessageTurretWontFireBecausePointDefense>警告：点防御模式的炮塔将不会攻击敌舰。</MessageTurretWontFireBecausePointDefense>
   <MessageShuttleMustBePartiallyFueled>穿梭机必须至少有25%的燃料才能发动登船行动。</MessageShuttleMustBePartiallyFueled>
   <MessageShuttleMustBeFueledToLand>穿梭机必须至少有15%的燃料才能着陆。</MessageShuttleMustBeFueledToLand>
   <MessageShuttleMustBeFueledToOrbit>穿梭机必须至少有80%的燃料才能进入轨道。</MessageShuttleMustBeFueledToOrbit>
   <SoSPodsArrived>你的穿梭机已经到达目的地。</SoSPodsArrived>
-  <MustPlaceNearSpinalMountPort>必须放置在其他脊峰火炮模块附近。</MustPlaceNearSpinalMountPort>
+  <MustPlaceNearSpinalMountPort>必须和其他脊峰火炮模块相邻。</MustPlaceNearSpinalMountPort>
   <MustPlaceInsideShipFramework>必须放置在仅由飞船部件划分出的舱室内。</MustPlaceInsideShipFramework>
   <MustPlaceInsideShip>必须放置在完全封闭的船体内。</MustPlaceInsideShip>
   <MustPlaceOnShipHull>必须放置在船体上。</MustPlaceOnShipHull>
@@ -96,5 +96,5 @@
   <ShipQuestPillarBdesc>进攻机械族的月面基地，回收超凡科技立柱。\n\n这同时也会激怒一艘机械族战舰！</ShipQuestPillarBdesc>
   <MeditationFocusPerPillarAbstract>{1} 每个附近的超凡支柱（最大{0}）</MeditationFocusPerPillarAbstract>
   <MeditationFocusPerPillar>{2} 每个附近的超凡支柱（{0} / {1}）</MeditationFocusPerPillar>
-  <ShipCombatAbandonPawns>WARNING!\n\nFleeing the enemy ship will leave behind any of your colonists still on board!</ShipCombatAbandonPawns>
+  <ShipCombatAbandonPawns>警告！\n\n逃走的敌方战舰会将你的殖民者留下！</ShipCombatAbandonPawns>
 </LanguageData>

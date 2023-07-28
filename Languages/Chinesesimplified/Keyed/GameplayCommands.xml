@@ -5,7 +5,7 @@
   <CommandHoverOffDesc>取消这艘穿梭机的盘旋模式，将允许它被装载或发射。</CommandHoverOffDesc>
   <MessageShuttleMustBeFullyFueled>只有填满燃料的穿梭机才能从星球轨道发射或飞往星球轨道。</MessageShuttleMustBeFullyFueled>
   <NeedOpenShuttleBay>穿梭机找不到畅通无阻的星港。</NeedOpenShuttleBay>
-  <MessageShuttleOnlyPods>Enemy ship has active engines. Use personal shuttles to directly assault the enemy ship or disable its engines.</MessageShuttleOnlyPods>
+  <MessageShuttleOnlyPods>敌方舰船的引擎仍在工作，你需要使用个人穿梭机，或者先让敌方引擎下线。</MessageShuttleOnlyPods>
   <MessageShuttleNeedsMoreFuel>你的穿梭机必须拥有至少{0}%燃料才能抵达这个事件点。为了避免无法返程的尴尬情况发生，请记得备好双倍的燃料！</MessageShuttleNeedsMoreFuel>
   <MustLaunchFromOrbit>若想抵达这个事件点，穿梭机只能从星球轨道上发射。</MustLaunchFromOrbit>
   <ShuttleChangeColor>更改颜色</ShuttleChangeColor>
@@ -48,7 +48,7 @@
   <ShipInsideLandDesc>将飞船降落至</ShipInsideLandDesc>
   <ShipMoveDesc>取消选择以确认位置</ShipMoveDesc>
   <ShipCombatEscape>逃离战斗</ShipCombatEscape>
-  <ShipCombatEscapeDesc>从飞船交战中逃离出来，并放弃所有仍在敌舰处滞留的殖民者。</ShipCombatEscapeDesc>
+  <ShipCombatEscapeDesc>从飞船交战中逃离，并放弃所有仍在敌舰处滞留的殖民者。</ShipCombatEscapeDesc>
   <ShipCombatRetreat>撤退</ShipCombatRetreat>
   <ShipCombatRetreatDesc>尝试逃离敌舰。</ShipCombatRetreatDesc>
   <ShipCombatStop>停止</ShipCombatStop>
@@ -78,7 +78,7 @@
   <ShipInsideCaptureShip>俘获飞船</ShipInsideCaptureShip>
   <ShipInsideCaptureShipDesc>将这艘飞船移动至你飞船所在的地图</ShipInsideCaptureShipDesc>
   <ShipLaunchFailPawns>船上没有玩家控制的角色，终止起飞。</ShipLaunchFailPawns>
-  <ShipMoveFailPawns>Player pawn in {0}, ship move aborted.</ShipMoveFailPawns>
+  <ShipMoveFailPawns>{0}上有玩家角色，终止移动。</ShipMoveFailPawns>
   <ShipMoveWreckCommand>移动残骸</ShipMoveWreckCommand>
   <ShipMoveWreckCommandDesc>将残骸移动至另一处</ShipMoveWreckCommandDesc>
   <ShipMoveWreckFlipCommand>翻转残骸</ShipMoveWreckFlipCommand>
@@ -88,7 +88,7 @@
   <ShipSalvageCommand>获取残骸</ShipSalvageCommand>
   <ShipSalvageCommandDesc>从目标舰船处获取残骸</ShipSalvageCommandDesc>
   <ShipSalvageDisabled>战斗中禁止使用</ShipSalvageDisabled>
-  <ShipSalvageAbandonConfirm>Are you sure you want to discard the target?\nEverything connected to it will burn up in the atmosphere!</ShipSalvageAbandonConfirm>
+  <ShipSalvageAbandonConfirm>你真的要抛弃目标？\n在目标飞船/残骸上的一切都将在大气层中烧毁！</ShipSalvageAbandonConfirm>
   <ShipSalvageBridge>回收港无法移动舰桥完整的飞船。你需要先骇入或摧毁它。</ShipSalvageBridge>
   <ShipSalvageCount>回收港不足。残骸重量/回收港上限：{0}/{1}</ShipSalvageCount>
   <ShipClaimWrecksCommand>占据残骸</ShipClaimWrecksCommand>
@@ -127,11 +127,11 @@
   <ShipReactorOverdrive2>过载模式（II档）</ShipReactorOverdrive2>
   <ShipReactorOverdrive2Desc>以增加热量产出和燃料消耗量为代价，大幅提高提升反应堆功率。反应堆会因此变得较为不稳定，且可能会引发火灾和辐射泄漏。</ShipReactorOverdrive2Desc>
   <ShipReactorOverdrive3>过载模式（III档）</ShipReactorOverdrive3>
-  <ShipReactorOverdrive3Desc>以增加热量产出和燃料消耗量为代价，极大幅提高反应堆功率。反应堆会因此变得十分不稳定，且非常可能会引发火灾和辐射泄漏。</ShipReactorOverdrive3Desc>
+  <ShipReactorOverdrive3Desc>以增加热量产出和燃料消耗量为代价，极大提高反应堆功率。反应堆会因此变得十分不稳定，且非常可能会引发火灾和辐射泄漏。</ShipReactorOverdrive3Desc>
   <SelectEverything>选取所有物品</SelectEverything>
   <SelectEverythingDesc>选取所有物品。</SelectEverythingDesc>
   <ShipBlueprintDisabled>需要研究「星际航行基础」科技</ShipBlueprintDisabled>
-  <ShipBlueprintFailed>Blueprint placement failed! Area must support heavy construction and be clear of non-owned objects and mountain roof.</ShipBlueprintFailed>
+  <ShipBlueprintFailed>无法在此处放置蓝图。区域内的地形承载力必须为重型，且没有未占据的物体，或厚山岩顶。</ShipBlueprintFailed>
   <ShipBlueprintPlace1>Plating blueprints</ShipBlueprintPlace1>
   <ShipBlueprintPlace1Desc>Place ship plating blueprints. Construct this before placing hull blueprints.</ShipBlueprintPlace1Desc>
   <ShipBlueprintPlace2>Hull blueprints</ShipBlueprintPlace2>
@@ -204,14 +204,14 @@
   <SoSEmergencyJTNearDesc>启用约翰逊-田中驱动器的紧急模式，立即向前推进一小段距离。此举将消耗总共{0}Wd的电力，且需要对驱动器进行修理维护。</SoSEmergencyJTNearDesc>
   <ArcholifeChangeSkin>改变外观</ArcholifeChangeSkin>
   <ArcholifeChangeSkinDesc>This creature seems able to change shape at will, but only between a few discrete forms.</ArcholifeChangeSkinDesc>
-  <ShipWallLight>Toggle lighting</ShipWallLight>
-  <ShipWallLightDesc>Toggle this ship part's integrated lighting system</ShipWallLightDesc>
+  <ShipWallLight>开关照明</ShipWallLight>
+  <ShipWallLightDesc>开关这艘船的照明系统</ShipWallLightDesc>
   <ShipWallLightRotate>Rotate lighting</ShipWallLightRotate>
   <ShipWallLightRotateDesc>Rotate this ship part's integrated lighting system</ShipWallLightRotateDesc>
   <ShipWallLightSun>太阳灯模式</ShipWallLightSun>
   <ShipWallLightSunDesc>开启时增加耗电量以发出可供植物生长的光</ShipWallLightSunDesc>
-  <ShipWallLightColor>Lighting color</ShipWallLightColor>
-  <ShipWallLightColorDesc>Select a color for this ship part's lighting</ShipWallLightColorDesc>
+  <ShipWallLightColor>灯光颜色</ShipWallLightColor>
+  <ShipWallLightColorDesc>选择灯光颜色</ShipWallLightColorDesc>
   <ShipWallLightDisco>迪厅模式</ShipWallLightDisco>
   <ShipWallLightDiscoDesc>让这盏灯的颜色循环变化</ShipWallLightDiscoDesc>
   <ShipWallLightAdjacency>No adjacent rooms</ShipWallLightAdjacency>
@@ -219,9 +219,9 @@
   <ShipHeatPurgeDesc>主动排热开启后，关闭当前散热系统中的护盾、武器和匿踪装置以换取五倍的排热速度。\n\n这会同时排放掉一部分的冷却剂，降低散热系统的最大热容量。一经开启便无法关闭。降低的最大热容会在战斗外缓慢恢复。</ShipHeatPurgeDesc>
   <ShipHeatPurgeVenting>正在主动排热</ShipHeatPurgeVenting>
   <ShipHeatPurgeNotEnough>热量不足，无法主动散热</ShipHeatPurgeNotEnough>
-  <ShipInsideMoveFailRCS>Not enough RCS thrusters to move ship, required {0}</ShipInsideMoveFailRCS>
-  <ShipInsideMoveFailFuel>Not enough fuel to move ship, required {0} fuel</ShipInsideMoveFailFuel>
-  <ShipInsideMoveFailPilot>Ship requires a pilot to move.</ShipInsideMoveFailPilot>
-  <ShipInsideToggleEngines>Engage ship engines</ShipInsideToggleEngines>
-  <ShipInsideToggleEnginesDesc>Engage ship engines to clear hazards.</ShipInsideToggleEnginesDesc>
+  <ShipInsideMoveFailRCS>RCS推进器不足，需要{0}个。</ShipInsideMoveFailRCS>
+  <ShipInsideMoveFailFuel>燃料不足，需要{0}单位</ShipInsideMoveFailFuel>
+  <ShipInsideMoveFailPilot>需要一个飞行员才能移动飞船</ShipInsideMoveFailPilot>
+  <ShipInsideToggleEngines>启动引擎</ShipInsideToggleEngines>
+  <ShipInsideToggleEnginesDesc>启动引擎以清除残骸</ShipInsideToggleEnginesDesc>
 </LanguageData>

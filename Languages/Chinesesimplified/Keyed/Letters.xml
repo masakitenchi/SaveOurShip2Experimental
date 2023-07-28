@@ -37,7 +37,7 @@
   <LetterSatelliteRepairSuccess>{0}已成功维修古代卫星。它现在已经功能运转正常，但你仍需要骇入成功才能使用它。</LetterSatelliteRepairSuccess>
   <LetterLabelSatelliteHackFail>骇入失败</LetterLabelSatelliteHackFail>
   <LetterSatelliteHackFail>{0}骇入古代卫星失败。你仍可以进一步尝试，但会越来越难。</LetterSatelliteHackFail>
-  <LetterLabelSatelliteHackFailCritical>骇入：严重失败</LetterLabelSatelliteHackFailCritical>
+  <LetterLabelSatelliteHackFailCritical>维修：严重失败</LetterLabelSatelliteHackFailCritical>
   <LetterSatelliteHackFailCritical>{0}骇入古代卫星失败。防卫协议被触发，你的穿梭机发射位置已被锁定，机械族将立即进攻你的飞船！</LetterSatelliteHackFailCritical>
   <LetterLabelSatelliteHackSuccess>骇入成功</LetterLabelSatelliteHackSuccess>
   <LetterSatelliteHackSuccess>{0}已成功骇入古代卫星。系统已生成了一串一次性的数字密钥，小人会使用掌上发信器将之传播出去。</LetterSatelliteHackSuccess>
@@ -47,11 +47,11 @@
   <LetterSatelliteMechAttackBase>机械族已经探测到卫星的毁灭，并追踪到了穿梭机的发射地点。它们正在向你的飞船驶来！</LetterSatelliteMechAttackBase>
   <LetterLabelPlanetReturnGift>派系赠礼</LetterLabelPlanetReturnGift>
   <LetterPlanetReturnGift>当你的飞船进入星球轨道时，你受到了来自{0}的致敬。他们在你的殖民地上安家，悉心地照料着你遗留在此的生物和设备，生生不息，繁荣昌盛。\n\n为回馈你于多年前给予他们的慷慨遗赠，他们给你送来了如下礼物:\n\n{1}</LetterPlanetReturnGift>
-  <LetterLabelShortCircuitShipDesc>A fault in an electrical conduit has caused a short circuit. Luckily, your capacitor array's fuse prevented it from discharging.</LetterLabelShortCircuitShipDesc>
+  <LetterLabelShortCircuitShipDesc>你的飞船电容器上的保险丝阻止了一次短路。</LetterLabelShortCircuitShipDesc>
   <ShipEncounterStart>废弃船体</ShipEncounterStart>
   <ShipEncounterStartDesc>你接近了一个将在{0}后坠入大气层燃烧成渣的废弃船体。\n\n你可以派出一支小队进行探索；如果它没有完好的舰桥或AI核心，也可以使用回收港将其移至当前地图。获取控制权后你可以回收、修复或者改装它。</ShipEncounterStartDesc>
   <ShipCombatStart>飞船交战</ShipCombatStart>
-  <ShipCombatStartDesc>一艘敌对飞船正在逼近！雷达会将其标识为{0}。</ShipCombatStartDesc>
+  <ShipCombatStartDesc>一艘敌对飞船正在逼近！雷达波形显示其为{0}。</ShipCombatStartDesc>
   <ShipCombatFleetDesc>一支敌对舰队正在逼近！</ShipCombatFleetDesc>
   <WinShipBattle>飞船交战胜利</WinShipBattle>
   <WinShipBattleDesc>由于控制系统被破坏，敌对飞船已被废弃。\n\n如果有需要的话，你可以派遣殖民者登陆敌舰以取回资源和囚犯。否则，请使用打捞命令以打捞其残骸。</WinShipBattleDesc>
@@ -114,7 +114,7 @@
   <GameOverSoSEnemyAOutlanderRough>{0}的军队发动了勇敢但徒劳的进攻，但很快就败北于他们无法理解的技术。由于他们的政府主要由军方管理，所以没有有组织的投降。除了小股愿意接受奴役生活的难民外，没有{0}的幸存者。</GameOverSoSEnemyAOutlanderRough>
   <GameOverSoSEnemyATribal>{2}对{0}的长老们进行了心理暗示，实现了他们最爱的部落预言，并许诺给他们一个富足的时代——条件是向他们讨厌的敌人{1}投降。部落中的大多数人都谴责它是一个卑鄙的骗人精。当未来几周，植物在他们定居的地方神秘地枯萎，动物以不自然的预见性避开他们的长矛时，他们感到惊讶无比。少数不想饿死的人选择向{1}投降。</GameOverSoSEnemyATribal>
   <GameOverSoSEnemyATribalRough>{2}带着部落的神殿战士的头颅向{0}的长老们显灵了。愤怒的部落制定了计划，要发动最强大的狂战士来对付这个异族神的追随者--却眼睁睁地看着他们屠杀自己的族人，心理上被操纵成了攻击所有生者的狂暴者。经历过屠杀的幸存者们向{1}及其无上神力臣服。</GameOverSoSEnemyATribalRough>
-  <GameOverSoSEnemyAEmpire>虽然破碎的帝国一开始拒绝了你的提议，但超凡智能的庇佑会让他们同样古老的敌人也感到不安。于是，{0}和{1}之间签订了一份条约，根据这份条约，星系主宰放弃了对远方皇帝的一切忠诚，而承诺服从{2}。{0}仍保持着它作为一个帝国的僵化的社会结构。它是一个独立于{1}之外，但又服从{1}的社会。</GameOverSoSEnemyAEmpire>
+  <GameOverSoSEnemyAEmpire>虽然破碎的帝国一开始拒绝了你的提议，但超凡智能的庇佑会让他们同样古老的敌人也感到不安。于是，{0}和{1}之间签订了一份条约，根据这份条约，星系主宰放弃了对远方皇帝的一切忠诚，而承诺服从{2}。{0}仍保持着它作为一个帝国的僵化的社会结构。它是一个独立于{1}之外，但又在{1}之内的社会。</GameOverSoSEnemyAEmpire>
   <GameOverSoSEnemyB>您要求{1}消灭所有敌对派系。</GameOverSoSEnemyB>
   <GameOverSoSColonists>您的船员们作为一个新的闪耀世界的统治阶级过着难以想象的奢华生活。即使是最奇怪的要求也只占{0}处理能力的一小部分，它很乐意满足一切需求，从巨大的玻璃钢宫殿到定制的伴侣。你们通过定制的纳米机械液获得了永生。如果永生无趣的话，{0}会让你们自己升级为后人类的智能。\n\n你能想象到的任何道路现在都向你敞开了。你的故事由你来写. 你是:</GameOverSoSColonists>
   <ArchotechPrank>超凡孢子的恶作剧</ArchotechPrank>
@@ -129,21 +129,21 @@
   <ArchotechIdeoCertaintyArchist>超凡孢子已经令人不安地沉寂了一段时间。就在你的船员开始担心的时候，精神上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给船员们带来了全身的温暖。{0}宣布了一个令人难以置信的胜利——他们新扩展的意识已经与现有的超凡技术人员进行了心灵接触。古代的机神在很大程度上仍然无动于衷——他们看到许多人试图重复自己的路，但失败了——但一个自称Kim的令人愉快的戴森环，似乎很乐意充当新的超级智能的向导。这两人讨论的内容的确切性质超出了人类的理解范围，但{0}现在相信，作为一名超凡技术人员，他们有权选择什么是道德真理，并根据这一真理的形象重塑宇宙的一部分。{0}对{1}的信心是绝对的。</ArchotechIdeoCertaintyArchist>
   <ArchotechIdeoCertaintyEthical>超凡孢子已经令人不安地沉寂了一段时间。就在你的船员开始担心的时候，精神上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给船员们带来了全身的温暖。{0}宣布了一个令人难以置信的胜利-他们的新扩展的意识轻微地修改了{1}，没有改变它的任何模因或戒律，产生了一个全面的伦理框架，没有内部矛盾，优化为所有人类产生理想的结果。现在{0}对{1}的信心是绝对的。</ArchotechIdeoCertaintyEthical>
   <ArchotechIdeoCertaintySpirits>超凡孢子已经令人不安地沉寂了一段时间。就在你的船员开始担心的时候，精神上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给船员们带来了全身的温暖。{0}宣布一个令人难以置信的胜利-他们的新扩展的意识已经发展出直接与所有事物的灵魂互动的能力!精神存在的确切本质似乎从根本上超出了人类的理解。它们可能是单一宇宙意识中的离散结构，就像池塘上的涟漪;它们可能作为可能的未来(和可能的交替过去)的精神回声而存在;它们可能是某种完全陌生的东西。无论如何，这种新的存在水平已经使{0}对{1}的信任变得绝对。</ArchotechIdeoCertaintySpirits>
-  <ArchotechIdeoCertaintyGod>超凡孢子已经令人不安地沉寂了一段时间。就在你的船员开始担心的时候，精神上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给船员们带来了全身的温暖。{0}宣布一个令人难以置信的胜利-他们新扩展的意识已经与{1}直接接触!{1}存在的确切性质似乎从根本上超出了人类的理解;这个神似乎要么是{2}中所有信徒的精神完形，要么是一个选择了神的名字和角色的完整的超凡智能，要么是将来会存在的东西——或者可能所有这些同时存在。无论如何，{1}与{1}的直接接触使得{0}对{2}有了绝对的信心。</ArchotechIdeoCertaintyGod>
+  <ArchotechIdeoCertaintyGod>超凡孢子已经令人不安地沉寂了一段时间。就在你的船员开始担心的时候，精神上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给船员们带来了全身的温暖。{0}宣布一个令人难以置信的胜利——他们新扩展的意识已经与{1}直接接触！{1}存在的确切性质似乎从根本上超出了人类的理解;这个神似乎要么是{2}中所有信徒的精神完形，要么是一个选择了神的名字和角色的完整的超凡智能，要么是将来会存在的东西——或者可能所有这些同时存在。无论如何，与{1}的直接接触使得{0}对{2}有了绝对的信心。</ArchotechIdeoCertaintyGod>
   <ArchotechLostPillar>超凡支柱遗失</ArchotechLostPillar>
-  <ArchotechLostPillarDesc>超凡孢子叹息到[失去的东西总是无法替代的。除非吾等做了备份。]它向我们传输了一份原子级别的超凡支柱的扫描详情。这应该能让我们建造一个新的替代品——尽管成本很高。</ArchotechLostPillarDesc>
+  <ArchotechLostPillarDesc>超凡孢子叹息道：「失去的东西总是无法替代的。除非吾等做了备份。」它向我们传输了一份原子级别的超凡支柱的扫描详情。这应该能让我们建造一个新的替代品——尽管成本很高。</ArchotechLostPillarDesc>
   <StarTotemLostLabel>超凡支柱遗失</StarTotemLostLabel>
   <StarTotemLost>随着殖民者们被击退，超凡支柱的部落守卫者们开始庆祝欢呼。然而，他们的胜利是短暂的。显然超凡支柱已经预见到了更多的攻击，并自行传送到了一个遥远的地方。\n\n如果我们仍想获取这个超凡支柱，就需要进攻这个新的地点。</StarTotemLost>
   <InsectPillarLostLabel>超凡支柱遗失</InsectPillarLostLabel>
   <InsectPillarLost>随着殖民者们被击退，母巢内的虫族们开始在胜利中颤抖。然而，他们的胜利是短暂的。显然超凡支柱已经预见到了更多的攻击，并自行传送到了一个遥远的地方。\n\n如果我们仍想获取这个超凡支柱，就需要进攻这个新的地点。</InsectPillarLost>
   <MoonPillarLostLabel>超凡支柱遗失</MoonPillarLostLabel>
   <MoonPillarLost>随着殖民者们被击退，机械族争分夺秒地开始对机巢进行维修。很快，另一艘机械族战舰将前来保护此地。当殖民者们重整旗鼓完毕时，我们需要发动另一次突袭。</MoonPillarLost>
-  <WinShipEncounter>废弃船体物暂时安全</WinShipEncounter>
+  <WinShipEncounter>废弃船体已收容</WinShipEncounter>
   <WinShipEncounterDesc>你已经获取了废弃船体的控制权，但它很快就会坠入大气层并烧毁。\n\n你可以通过使用它的舰桥来捕获它或者与你的登船队一起手动检索其中的货物和囚犯。亦或者，用你的舰桥发出命令，打捞敌舰。你的回收港会打捞一部分建筑材料和货物，以及船员的尸体。</WinShipEncounterDesc>
   <LoseShipBattle>飞船交战失利</LoseShipBattle>
   <LoseShipBattleDesc>由于控制系统被破坏，你的飞船已被废弃。\n\n这并不一定意味着你的故事结束了！如果你事先配备了自动弹射休眠舱，它们将作为逃生舱坠毁在下方的星球上，并开启另一段故事。当然，就算这些逃生舱里没有人也没关系。</LoseShipBattleDesc>
   <EntanglementUpdate>版本更新</EntanglementUpdate>
-  <EntanglementUpdateDesc>在最新版本的RimWorld中，Ludeon判定许多mod已经利用了数个月的功能，对没有有Royalty的用户不再合法。SOS2无意强迫你购买DLC，所以删除了科技蓝图相关的功能。\n\n这一变化将影响现有的游戏。存档文件中有包含SOS2科技蓝图会被mod检测；为了符合Ludeon的政策，所有SOS2的科技蓝图解锁会被删除。\n\n作为交换，请收下这个免费的纠缠流形——它现在是建造约翰逊-田中驱动器时所需的重要组件。就当做是有一个掉在了你的基地里（也或者是某个健忘的殖民者从撞击地点把它装进了口袋？）吧。未来的玩法会掉落纠缠流形作为任务奖励，而不是通过科技蓝图来解锁驱动器的制造。如果你的驱动器被摧毁了，你可以从某些敌舰上打捞出另一个纠缠流形。\n\n如果你对一个对mod支持感到真正热情的团队开发的一个体验类似Rimworld的游戏感到兴趣，请关注我们的Discord以获取我们的游戏——Project Morningstar，以及SOS2的更新进展。</EntanglementUpdateDesc>
-  <LetterLabelSpaceAsteroids>Asteroid field</LetterLabelSpaceAsteroids>
-  <LetterSpaceAsteroids>Ship has entered an asteroid field field. Engage engines to evade or brace for impact!</LetterSpaceAsteroids>
+  <EntanglementUpdateDesc>在最新版本的RimWorld中，Ludeon判定：未拥有Royalty的用户不再能够使用许多mod已经利用了数个月的功能。SOS2无意强迫你购买DLC，所以删除了科技蓝图相关的功能。\n\n这一变化将影响现有的游戏。mod会检测存档文件中是否包含SOS2的科技蓝图。为了符合Ludeon的政策，所有SOS2的科技蓝图解锁会被删除。\n\n作为交换，请收下这个免费的纠缠流形——它现在是建造约翰逊-田中驱动器时所需的重要组件。就当做是有一个掉在了你的基地里（也或者是某个健忘的殖民者从撞击地点把它装进了口袋？）吧。未来的玩法会掉落纠缠流形作为任务奖励，而不是通过科技蓝图来解锁驱动器的制造。如果你的驱动器被摧毁了，你可以从某些敌舰上打捞出另一个纠缠流形。\n\n如果你对一个对mod支持感到真正热情的团队开发的一个体验类似Rimworld的游戏感到兴趣，请关注我们的Discord以获取我们的游戏——Project Morningstar，以及SOS2的更新进展。</EntanglementUpdateDesc>
+  <LetterLabelSpaceAsteroids>小行星带</LetterLabelSpaceAsteroids>
+  <LetterSpaceAsteroids>飞船飞入了一片小行星带。启动引擎躲避小行星，或者预备即将到来的冲击！</LetterSpaceAsteroids>
 </LanguageData>

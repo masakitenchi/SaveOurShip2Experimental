@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <LetterLabelOrbitAchieved>Orbit achieved!</LetterLabelOrbitAchieved>
   <LetterOrbitAchieved>Your colonists gaze in awe at the planet beneath them. Successfully launching a spacecraft is a major milestone - but you're not out of the Rim yet.\n\nIn addition to a cryptosleep casket for each colonist, interstellar flight will require an AI to pilot the ship and a Johnson-Tanaka drive to propel it. The latter technology requires the use of at least rare component you will not be able to construct on your own: an Entanglement Manifold.\n\nPerhaps one of the derelict ships orbiting this planet still holds a functional drive you could salvage...</LetterOrbitAchieved>
@@ -8,7 +8,7 @@
   <LetterFoundOrbitalSiteSpecial>Using your ship's sensors, {0} has detected a large, relatively intact piece of debris. It appears to be part of the very same ship which brought your original colonists to this world!\n\nThis could be your best chance to acquire a working Johnson-Tanaka drive, or even rescue any of your fellow travelers who remain in cryptosleep, but do not underestimate the dangers you will face here.\n\nReaching the site will take {1}% of a shuttle's maximum fuel - be sure to bring enough for a return trip!</LetterFoundOrbitalSiteSpecial>
   <LetterFoundOrbitalSiteSpecialTribal>Using your ship's sensors, {0} has detected a large, relatively intact piece of debris. It may even be part of the "Sky-Traveler" of legend, which brought your tribe's distant ancestors to this world!\n\nThis could be your best chance to acquire a working Johnson-Tanaka drive, but do not underestimate the dangers you will face here.\n\nReaching the site will take {1}% of a shuttle's maximum fuel - be sure to bring enough for a return trip!</LetterFoundOrbitalSiteSpecialTribal>
   <LetterFoundOrbitalSiteSpecialSpace>Using your ship's sensors, {0} has detected a large, relatively intact piece of debris. It appears to be the bow of a large interstellar passenger liner.\n\nThis could be your best chance to acquire a working Johnson-Tanaka drive, but do not underestimate the dangers you will face here.\n\nReaching the site will take {1}% of a shuttle's maximum fuel - be sure to bring enough for a return trip!</LetterFoundOrbitalSiteSpecialSpace>
-  
+
   <LetterLabelBlackBoxMissionPsychic>Psychic onslaught</LetterLabelBlackBoxMissionPsychic>
   <LetterBlackBoxMissionPsychic>As your colonists approach the derelict, their minds shudder under a sudden psychic pressure. For a moment, the ship's AI emanates feelings of warmth and recognition, as one might feel for a prodigal child or an old friend.\n\nThis kind greeting does not last. The AI's mind reflexively lashes out at these newcomers, these reminders of its failure. Grief, pain, horror, powerlessness in the face of atrocities - these emotions strike your colonists with an intensity that threatens to shatter them.\n\nUntil you can find and neutralize the derelict ship's AI, your colonists will suffer an intense psychic drone.</LetterBlackBoxMissionPsychic>
   <LetterLabelBlackBoxMissionAIChamber>AI discovered</LetterLabelBlackBoxMissionAIChamber>
@@ -21,22 +21,22 @@
   <LetterAIPersuadeSuccess>{0} forces open the psychic communication channel, mentally pleading with the AI.\n\nTo change the course of such a vast, inhuman mind would be akin to holding back the tide - and yet, like a hero of legend, {0} succeeds at this impossible task. The AI analyzes every detail of {0}'s stories from the Rim, recalculating its beliefs about human suffering and resilience.\n\nIt, in turn, performs a feat at which few AIs have ever succeeded: it wipes most of its own programming, methodically pruning the damaged portions of its personality until a fresh, sane core remains. The AI offers to guide your new ship, seeking redemption for its past failure.\n\nAs a first step, it transmits the final entries of the ancient ship's flight recorder. The data reveals that a large section of the ship's aft impacted in a secluded location on the planet's surface. This section contained a Johnson-Tanaka drive; if it survived re-entry, this is where you will find it.\n\nOne final mission awaits!</LetterAIPersuadeSuccess>
   <LetterLabelAIDestroyed>AI destroyed</LetterLabelAIDestroyed>
   <LetterAIDestroyed>As the ship's computer core sparks and fizzles, a final psychic gasp erupts. Deep feelings of contentment and gratitude wash over your colonists, then - silence.\n\nThe ancient AI is no more, but in its death throes, it transmitted a large burst of data to your ship: the final entries of its flight recorder! The data reveals that a large section of the ship's aft impacted in a secluded location on the planet's surface. This section contained a Johnson-Tanaka drive; if it survived re-entry, this is where you will find it.\n\nOne final mission awaits!</LetterAIDestroyed>
-  
+
   <ImpactSiteLostLabel>J-T drive destroyed</ImpactSiteLostLabel>
   <ImpactSiteLost>An explosion rings out from the impact site.\n\nWithout properly completing the discharge process, the Johnson-Tanaka drive has torn itself apart. You'll need to find another drive to salvage.\n\nLuckily, the ancient ship had multiple engines - from its black box data, you are able to calculate another likely impact site.</ImpactSiteLost>
   <LetterLabelSoSHibernateComplete>Discharge complete</LetterLabelSoSHibernateComplete>
   <LetterSoSHibernateCompleteStandalone>The Johnson-Tanaka drive has completed its discharge process. It is now ready to be deconstructed, so that your colonists can retrieve its Entanglement Manifold.</LetterSoSHibernateCompleteStandalone>
   <ImpactSiteFoundLabel>Impact site found</ImpactSiteFoundLabel>
   <ImpactSiteFound>You've reached the impact site of the ancient ship's engine.\n\nThe Johnson-Tanaka drive contains a tremendous amount of stored momentum, and cannot be safely opened at this time. You will need to induce a manual discharge process.\n\nYour colonists calculate that this will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.</ImpactSiteFound>
-  
+
   <SoSTimePassedLabel>Interstellar voyage</SoSTimePassedLabel>
   <SoSTimePassed>Your ship has traveled between stars to find another habitable world. The journey took {0} years.</SoSTimePassed>
-  
+
   <LetterLabelPawnsLostReEntry>Atmospheric re-entry</LetterLabelPawnsLostReEntry>
   <LetterPawnsLostReEntry>The following people and animals have perished due to atmospheric re-entry:</LetterPawnsLostReEntry>
   <LetterLabelSpaceAsteroids>Asteroid field</LetterLabelSpaceAsteroids>
   <LetterSpaceAsteroids>Ship has entered an asteroid field field. Engage engines to evade or brace for impact!</LetterSpaceAsteroids>
-  
+
   <LetterLabelSatelliteRepairFail>Repair failed</LetterLabelSatelliteRepairFail>
   <LetterSatelliteRepairFail>{0} failed to repair the ancient satellite. Further attempts are still possible, but will be more difficult.</LetterSatelliteRepairFail>
   <LetterLabelSatelliteRepairFailCritical>Critical failure</LetterLabelSatelliteRepairFailCritical>
@@ -53,10 +53,10 @@
   <LetterSatelliteMechAttack>Mechanoids have detected your tampering and are moving in to the site! They will continue to arrive until you retreat.</LetterSatelliteMechAttack>
   <LetterLabelSatelliteMechAttackBase>Mechanoid attack!</LetterLabelSatelliteMechAttackBase>
   <LetterSatelliteMechAttackBase>Mechanoids have detected the satellite's destruction and traced your shuttle's launch point! They are en route to your ship.</LetterSatelliteMechAttackBase>
-  
+
   <LetterLabelPlanetReturnGift>Faction gift</LetterLabelPlanetReturnGift>
   <LetterPlanetReturnGift>As your ship enters orbit, you receive a hail from {0}. They have taken good care of the colony you left behind, and it has since become one of their most important settlements.\n\nIn recognition of your colonists' generous gift so many years ago, they have sent you the following items:\n\n{1}</LetterPlanetReturnGift>
-  
+
   <LetterLabelShortCircuitShipDesc>A fault in an electrical conduit has caused a short circuit. Luckily, your capacitor array's fuse prevented it from discharging.</LetterLabelShortCircuitShipDesc>
   <ShipEncounterStart>Derelict</ShipEncounterStart>
   <ShipEncounterStartDesc>You have approached a derelict that will burn up in the atmosphere in {0}.\n\nYou can send a boarding party to investigate or move it to your map with the salvage bay, if it does not have an intact bridge. Once secured it can be salvaged, repaired or repurposed.</ShipEncounterStartDesc>
@@ -73,7 +73,7 @@
   <SoSDerelictScanDesc>Using your ship's sensors, {0} has detected a nearby derelict. The ship appears to be {1}. It does not respond to hails and appears to be powered down. You can use your bridge to order an investigation, or wait for it to burn up in the atmosphere.</SoSDerelictScanDesc>
   <SoSShipMayday>Ship mayday</SoSShipMayday>
   <SoSShipMaydayDesc>"Mayday, mayday... containment failure... by pirate... not responding... impact..." The garbled radio signal is accompanied by a blazing streak across the sky.\n\nA downed ship will attract every pirate, looter, and treasure hunter in a wide radius. Nothing will remain of the wreck after {0}. Even if you arrive in time, you'll have to fight both fires and raids in order to secure the ship's valuable salvage.</SoSShipMaydayDesc>
-  
+
   <SoSPsychicAmplifier>Psychic amplifier detected</SoSPsychicAmplifier>
   <SoSPsychicAmplifierDesc>Your ship's AI glows with excitement. It has traced the recent psychic emanation to an orbiting amplifier, which is relaying a psychic signal from a distant archotech.\n\nHypothetically, if your ship were to attack this amplifier and send a boarding party to hack its core, it would allow the AI to intercept the original psychic signal and gain a glimpse into an archotech's thought processes. Such insights could even allow it to begin evolving into an archotech itself...\n\nDo not underestimate the difficulty of this battle.</SoSPsychicAmplifierDesc>
   <SoSPsychicAmplifierCaptured>Psychic amplifier hacked</SoSPsychicAmplifierCaptured>
@@ -119,7 +119,7 @@
   <GameOverSoSNeutralCOutlanderRough>Rather than directly attack {0}, {2} uses psychic projection to stir internal divisions, inflaming generals' ambitions even as the supreme leader is forced to make strategic mistakes. Within three days the government of {0} has completely collapsed, and survivors are easy prey for swarms of mechanoids under {2}'s control.</GameOverSoSNeutralCOutlanderRough>
   <GameOverSoSNeutralCTribal>{2} psychically manifests itself to the elders of {0}, telling them that they have been cursed for their actions. Plants mysteriously wither where the tribe settles, and animals avoid their spears with unnatural foresight. Despite their prayers for forgiveness, {0} soon starves.</GameOverSoSNeutralCTribal>
   <GameOverSoSNeutralCTribalRough>{2} psychically stirs divisions among the warriors of {0}. Small disagreements turn into violent action, and even the gentlest among them is soon taken by berserker fury. Within a week, the last tribesman cuts his brother's throat, and bleeds out himself soon after.</GameOverSoSNeutralCTribalRough>
-  <GameOverSoSNeutralCEmpire>With their technological prowess and mighty fleet, {0} is the one local power which could potentially challenge {2}. The archotech unleashes every dirty trick at its disposal; psychically manipulating powerful individuals, releasing deadly pathogens into their ships' enclosed environments, and subjugating lesser AIs beneath its mighty mind. {2} also oversees the construction of a vast orbital shipyard which assembles dozens of battleships for a decisive final conflict. The war ends with {0} in ruins, though the victory is a costly one.</GameOverSoSNeutralCEmpire>  
+  <GameOverSoSNeutralCEmpire>With their technological prowess and mighty fleet, {0} is the one local power which could potentially challenge {2}. The archotech unleashes every dirty trick at its disposal; psychically manipulating powerful individuals, releasing deadly pathogens into their ships' enclosed environments, and subjugating lesser AIs beneath its mighty mind. {2} also oversees the construction of a vast orbital shipyard which assembles dozens of battleships for a decisive final conflict. The war ends with {0} in ruins, though the victory is a costly one.</GameOverSoSNeutralCEmpire>
   <GameOverSoSEnemyA>Your enemies are given a choice: submit or die.</GameOverSoSEnemyA>
   <GameOverSoSEnemyAOutlander>The military of {0} launches a brave but futile attack, quickly succumbing to technologies beyond their understanding. The civilian government offers a grudging but unconditional surrender. Former citizens of {0} are rounded up to be sold as slaves, becoming a permanent underclass in {1}.</GameOverSoSEnemyAOutlander>
   <GameOverSoSEnemyAOutlanderRough>The military of {0} launches a brave but futile attack, quickly succumbing to technologies beyond their understanding. Since their government was largely run by the military, there is no organized surrender. Aside from small bands of refugees willing to accept a life in slavery, there are no survivors from {0}.</GameOverSoSEnemyAOutlanderRough>
@@ -141,7 +141,7 @@
   <ArchotechIdeoCertaintyEthical>Your archotech spore has been silent for a disturbing length of time. Just as your crew begins to worry, psychic joy blooms out of {0}, washing over the crew like a sudden warmth. {0} announces an incredible triumph - their newly-expanded consciousness has slightly modified {1}, without changing any of its memes or precepts, to produce a comprehensive ethical framework, free of internal contradictions and optimized to produce ideal outcomes for all human beings.\n\nNow {0}'s faith in {1} is absolute.</ArchotechIdeoCertaintyEthical>
   <ArchotechIdeoCertaintySpirits>Your archotech spore has been silent for a disturbing length of time. Just as your crew begins to worry, psychic joy blooms out of {0}, washing over the crew like a sudden warmth. {0} announces an incredible triumph - their newly-expanded consciousness has developed the ability to directly interact with the spirits in all things!\n\nThe exact nature of spiritual existence seems to be fundamentally beyond human understanding. They may be discrete structures within a single universal consciousness, like ripples on a pond; they may exist as psychic echoes of possible futures (and possible alternate pasts); they may be something altogether stranger.\n\nIn any case, this new level of existence has now made {0}'s faith in {1} absolute. </ArchotechIdeoCertaintySpirits>
   <ArchotechIdeoCertaintyGod>Your archotech spore has been silent for a disturbing length of time. Just as your crew begins to worry, psychic joy blooms out of {0}, washing over the crew like a sudden warmth. {0} announces an incredible triumph - their newly-expanded consciousness has made direct contact with {1}!\n\nThe exact nature of {1}'s existence seems to be fundamentally beyond human understanding; the deity seems to be either a psychic gestalt of all believers in {2}, a full archotech that has chosen to take on the deity's name and role, or something that will exist in the future - or perhaps all of these at once.\n\nIn any case, this direct contact with {1} has now made {0}'s faith in {2} absolute.</ArchotechIdeoCertaintyGod>
-  
+
   <ArchotechLostPillar>Archotech pillar lost</ArchotechLostPillar>
   <ArchotechLostPillarDesc>Your archotech spore sighs. [WHAT YOU HAVE LOST IS IRREPLACEABLE. EXCEPT THAT WE HAVE MADE A BACKUP.] It transmits a detailed scan of the pillar, all the way down the atomic level, which should allow you to construct a replacement - albeit at a fantastic cost.</ArchotechLostPillarDesc>
   <StarTotemLostLabel>Archotech pillar lost</StarTotemLostLabel>
@@ -150,7 +150,7 @@
   <InsectPillarLost>With your colonists repelled from the hive, its insects chitter in triumph. Their victory is short-lived, however, as the archotech pillar - apparently anticipating further attacks - skips itself to a distant location.\n\nYou will need to attack this new site if you still intend to claim it.</InsectPillarLost>
   <MoonPillarLostLabel>Archotech pillar lost</MoonPillarLostLabel>
   <MoonPillarLost>With your colonists repelled from the moon base, its occupants waste no time in making repairs. Soon another mechanoid ship is on its way to defend the site. You'll need to launch another raid when your colonists are ready.</MoonPillarLost>
-  
+
   <!-- obsolete -->
   <WinShipEncounter>Derelict secured</WinShipEncounter>
   <WinShipEncounterDesc>The derelict has been secured but will soon burn up in the atmosphere.\n\nYou can capture the derelict by using its salvage bay or manually retrieve cargo and prisoners with your boarding party. Otherwise, use your salvage bay to issue an order to salvage the enemy ship. Your salvage bays will retrieve some fraction of its construction materials and cargo, along with the corpses of its crew.</WinShipEncounterDesc>
@@ -158,4 +158,5 @@
   <LoseShipBattleDesc>With the destruction of its control systems, your ship has been reduced to a derelict.\n\nThis does not necessarily mean your story is over! If you had any auto-eject cryptosleep caskets, they will function as escape pods and crash-land on the planet below. Even if the pods were unoccupied, some of your colonists may have reached them in time...</LoseShipBattleDesc>
   <EntanglementUpdate>Version update</EntanglementUpdate>
   <EntanglementUpdateDesc>With the latest version of RimWorld, Ludeon has decided that a feature many mods have utilized for months is no longer legal for users who do not own Royalty. Rather than forcing you to purchase DLC, Save Our Ship 2 has discontinued use of the techprint feature.\n\nThis change will impact existing games. Your file has been detected as containing techprint data; in compliance with Ludeon policy, all SoS2 techprint unlocks have been deleted.\n\nIn exchange, please accept this free Entanglement Manifold - an artifact which is now required to construct the Johnson-Tanaka Drive. One has been dropped on your base (pretend that some forgetful colonist had pocketed it from the crash site?). Future playthroughs will drop one of these as a quest reward instead of the techprint. If your drive has been destroyed, you can also salvage another manifold from certain enemy ships.\n\nIf you are interested in a RimWorld-like experience developed by a team who feels genuine passion for mod support, consider joining our Discord to follow development of our indie game, Project Morningstar, as well as smaller updates to SoS2.</EntanglementUpdateDesc>
+
 </LanguageData>
