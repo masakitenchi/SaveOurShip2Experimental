@@ -4324,8 +4324,9 @@ namespace SaveOurShip2
     [HarmonyPatch(typeof(Thing), "SmeltProducts")]
 	public static class PerfectEfficiency
 	{
-		public static bool Prefix(float efficiency)
+		public static bool Prefix(float efficiency, Thing __instance)
 		{
+			Log.Message($"Checking Efficiency for :{__instance}, is {efficiency}");
 			if (efficiency == 0)
 				return false;
 			return true;
